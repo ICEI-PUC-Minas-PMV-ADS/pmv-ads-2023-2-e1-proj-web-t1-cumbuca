@@ -10,16 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+- NAdrian Sodré da Silva
+- Nome completo do aluno 2
+- Nome completo do aluno 3
+- Nome completo do aluno 4
+- Nome completo do aluno 5
+- Nome completo do aluno 6
 
 ## Orientador
 
-* Nome completo do professor
+- Nome completo do professor
 
 # Documentação
 
@@ -37,12 +37,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+- Insira o endereço eletrônico público de acesso ao conteúdo publicado.
 
 # Código-Fonte
 
-* <a href="codigo-fonte/README.md">Código Fonte</a>
+- <a href="codigo-fonte/README.md">Código Fonte</a>
 
 # Apresentação
 
-* <a href="apresentacao/README.md">Apresentação do Projeto</a>
+- <a href="apresentacao/README.md">Apresentação do Projeto</a>
