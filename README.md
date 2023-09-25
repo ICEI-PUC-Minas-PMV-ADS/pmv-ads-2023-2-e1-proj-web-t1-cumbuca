@@ -1,25 +1,26 @@
-# Título do Projeto
+# Título do Projeto: Cumbuca
 
 `CURSO`
 
-`DISCIPLINA`
+`DISCIPLINA: Projeto: Desenvolvimento de Aplicação Web Front-End`
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+Atualmente, a sociedade enfrenta uma crescente falta de prática culinária, onde a prevalente "cultura de miojo" ganha destaque. No entanto, é essencial compreender que a alimentação vai além do macarrão instantâneo. Muitas pessoas se veem incapazes diante do fogão devido à ausência de prática e conhecimento nessa área, tornando-se dependentes de delivery e alternativas para se alimentar. A carência de habilidades culinárias apresenta desafios significativos, gerando obstáculos ao tentar cozinhar em casa, manifestando-se por meio da insegurança e da falta de conhecimento.  
+
+Essas mudanças de hábitos alimentares não são recentes e são influenciadas pela rotina acelerada e pela disponibilidade de alimentos processados, resultando em uma alimentação considerada menos saudável de maneira geral. Dessa forma, viu-se a oportunidade de buscar meios de mitigar o déficit crescente na prática culinária e, consequentemente, possibilitar hábitos mais saudáveis. 
 
 ## Integrantes
 
-- Nome completo do aluno 1
-- Nome completo do aluno 2
-- Nome completo do aluno 3
-- Nome completo do aluno 4
-- Nome completo do aluno 5
-- Nome completo do aluno 6
+- Adrian Sodré da Silva
+- Bernardo Miguel Soutelo Marra
+- Isaque Gonçalves Ferreira
+- Kiane Pinto Ramalho
+- Marcelly Giovanna de Souza e Maia 
 
 ## Orientador
 
-- Nome completo do professor
+- Joyce Christina de Paiva Carvalho 
 
 # Documentação
 
