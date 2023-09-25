@@ -22,20 +22,17 @@ Como objetivos específicos, podemos destacar:
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Segundo pesquisa do RestaurantWeb, publicada pelo site Terra: 
+ 
+“(...) no Brasil, a coragem para chegar perto do fogão não é tão grande assim.  o brasileiro De acordo com o estudo, 61% dos brasileiros não gostam de cozinhar e, entre os que já se aventuraram neste campo, os resultados também não foram tão positivos - 46% já fizeram um arroz empapado, 17% queimaram o bife e 15% já fizeram batatas fritas murchas.” (Terra, 2023)  
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Foi realizada uma pesquisa com 95 pessoas, dessas: 70,5% dos participantes disseram que já optaram por pedir comida pronta porque não sabiam cozinhar certo prato e 58% deixaram claro o alto interesse em usar um sistema ou aplicação que o ajudasse a iniciar a prática culinária. 
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Diante deste cenário, onde a falta de conhecimento e confiança na cozinha muitas vezes leva a um distanciamento da prática culinária e a uma dependência excessiva de alimentos prontos, processados ou de serviços de entrega, é importante ter um ambiente que possibilite desmistificar que cozinhar pode ser um processo difícil, proporcionando novas habilidades, além de hábitos mais saudáveis.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
+Após pesquisa realizada com 95 participantes, foi possível traçar um perfil predominante para o público-alvo. Este perfil é composto principalmente por pessoas entre 18 e 35 anos, de ambos os sexos e não foi estabelecido limite geográfico para o mesmo. 
+ 
+Este grupo abrange desde aqueles que não possuem nenhuma habilidade culinária até os que já têm domínio na cozinha, mas estão em busca de novas receitas e desafios. Também está inserido no público encontrado a pessoa que possui alguma restrição alimentar, seja por motivos de doença ou estilo de vida - como por exemplo quem escolheu seguir uma dieta vegana - e deseja encontrar receitas que contemplem tais restrições. Por fim, um último perfil mapeado foi o que está em busca de uma vida mais saudável e tem interesse em receitas saudáveis e balanceadas.
 
