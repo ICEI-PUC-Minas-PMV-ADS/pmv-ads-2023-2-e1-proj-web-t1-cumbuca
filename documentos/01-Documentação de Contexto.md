@@ -1,18 +1,24 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+Atualmente, a sociedade enfrenta uma crescente falta de prática culinária, onde a prevalente "cultura de miojo" ganha destaque. No entanto, é essencial compreender que a alimentação vai além do macarrão instantâneo. Muitas pessoas se veem incapazes diante do fogão devido à ausência de prática e conhecimento nessa área, tornando-se dependentes de delivery e alternativas para se alimentar. A carência de habilidades culinárias apresenta desafios significativos, gerando obstáculos ao tentar cozinhar em casa, manifestando-se por meio da insegurança e da falta de conhecimento.  
+
+Essas mudanças de hábitos alimentares não são recentes e são influenciadas pela rotina acelerada e pela disponibilidade de alimentos processados, resultando em uma alimentação considerada menos saudável de maneira geral. Dessa forma, viu-se a oportunidade de buscar meios de mitigar o déficit crescente na prática culinária e, consequentemente, possibilitar hábitos mais saudáveis. 
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
+A falta de confiança e habilidades culinárias das pessoas por muitas vezes resulta em uma hesitação em cozinhar de forma autônoma e explorar novas opções na cozinha. Essa insegurança representa um entrave significativo, pois restringe a capacidade das pessoas de se envolverem de maneira criativa e independente na culinária. A limitação nesse aspecto compromete a diversidade de alimentos consumidos e a saúde alimentar, impactando na autonomia das escolhas alimentares e na adaptação às diferentes preferências ou necessidades específicas. 
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+A incapacidade de cozinhar, mesmo pratos simples, gera uma sensação de falta de controle e autonomia, dificultando a preparação de refeições próprias. Esse cenário é ainda mais complexo para aqueles que buscam opções saudáveis, uma vez que a maioria das alternativas disponíveis são alimentos industrializados, processados e, muitas vezes, mais custosos, principalmente quando se recorre a pedidos de refeições prontas por delivery. 
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+O objetivo geral do projeto é criar uma comunidade para compartilhar dicas e técnicas culinárias de diferentes indivíduos, visando auxiliar aqueles que não se sentem confiantes em cozinhar sozinhos e experimentar novos pratos. Através deste esforço, busca-se capacitar e fornecer conhecimento aos indivíduos interessados em aprimorar suas habilidades na cozinha, permitindo-lhes ganhar confiança para explorar novas receitas e preparar refeições diversificadas.  
+
+Como objetivos específicos, podemos destacar: 
+- Promover a autoconfiança culinária; 
+- Incentivar a exploração gastronômica; 
+- Possibilitar a construção de hábitos mais saudáveis e sustentáveis; 
+- Proporcionar um ambiente gratuito e de aprendizado colaborativo no qual pessoas podem compartilhar seus conhecimentos e experiências.
 
 ## Justificativa
 
