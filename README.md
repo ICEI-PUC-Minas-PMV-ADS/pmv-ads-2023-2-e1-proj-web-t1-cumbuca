@@ -1,10 +1,10 @@
-# Título do Projeto: Cumbuca
+# Cumbuca
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA: Projeto: Desenvolvimento de Aplicação Web Front-End`
+`Projeto: Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2023.2`
 
 Atualmente, a sociedade enfrenta uma crescente falta de prática culinária, onde a prevalente "cultura de miojo" ganha destaque. No entanto, é essencial compreender que a alimentação vai além do macarrão instantâneo. Muitas pessoas se veem incapazes diante do fogão devido à ausência de prática e conhecimento nessa área, tornando-se dependentes de delivery e alternativas para se alimentar. A carência de habilidades culinárias apresenta desafios significativos, gerando obstáculos ao tentar cozinhar em casa, manifestando-se por meio da insegurança e da falta de conhecimento.  
 
