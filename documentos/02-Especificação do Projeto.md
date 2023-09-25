@@ -32,7 +32,7 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
+| Pessoa que quer pesquisar receitas                | Acessar receitas de acordo com o ingrediente desejado                        | Otimizar o tempo de procura de receitas específicas.                               |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
