@@ -14,7 +14,13 @@ O diagrama de fluxo retratado na figura 1 ilustra a sequência de interações d
 ## Protótipo
 
 As interfaces do sistema exibem uma disposição uniforme, conforme ilustrado na Figura 2. 
-Esta configuração é composta por uma aba lateral que abriga o menu de navegação, enquanto o conteúdo central do site é harmoniosamente centralizado. Na parte superior, destacamos a presença de um campo de pesquisa, facilitando a busca por informações. Além disso, na porção superior direita, os usuários têm a capacidade de realizar tanto o login em suas contas quanto o cadastro, proporcionando uma experiência conveniente de gerenciamento de conta. Adicionalmente, nessa área, é possível acessar notificações relevantes e efetuar o logout da conta, conferindo aos utilizadores um controle eficaz sobre suas interações no sistema. Esses elementos são pensados para garantir uma experiência de usuário completa e funcional.
+Esta configuração é composta por uma aba lateral que abriga o menu de navegação, enquanto o conteúdo central do site é harmoniosamente 
+centralizado. Na parte superior, destacamos a presença de um campo de pesquisa, facilitando a busca por informações. Além disso, na porção
+superior direita, os usuários têm a capacidade de realizar tanto o login em suas contas quanto o cadastro, proporcionando uma experiência
+conveniente de gerenciamento de conta. Adicionalmente, nessa área, é possível acessar notificações relevantes e efetuar o logout da conta,
+conferindo aos utilizadores um controle eficaz sobre suas interações no sistema. Esses elementos são pensados para garantir uma experiência de
+usuário completa e funcional.
+
 
 ![Untitled Diagram-Page-1 drawio] (2)(https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
 
