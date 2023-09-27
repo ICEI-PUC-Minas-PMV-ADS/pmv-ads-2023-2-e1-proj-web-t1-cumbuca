@@ -5,9 +5,7 @@
 
 O diagrama de fluxo retratado na figura 1 ilustra a sequência de interações do usuário através das diversas telas do sistema. Uma descrição minuciosa de cada uma dessas telas encontra-se na seção subsequente, intitulada "Protótipo de Alta fidelidade"
 
-<figure> 
-    <figcaption>Figura 1 - Fluxo de telas do usuário
-</figure> 
+ ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
 
 
 [Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
