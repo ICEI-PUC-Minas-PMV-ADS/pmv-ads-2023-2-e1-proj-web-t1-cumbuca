@@ -9,7 +9,7 @@ O Scrum é uma abordagem ágil de gerenciamento de projetos que é usada princip
 
 *Product Backlog para o Software de Criação de Receitas:* Comece com um Product Backlog que liste todas as funcionalidades e recursos que o software precisa ter para permitir aos usuários criar e compartilhar suas receitas.
 
-*Sprint Planning para o Desenvolvimento do Software:* Em cada Sprint Planning, a equipe seleciona um conjunto de funcionalidades a serem desenvolvidas durante o próximo sprint. Isso pode incluir a criação da interface de usuário, a implementação de recursos de edição de receitas, a capacidade de adicionar ingredientes, etc.
+*Sprint Planning para o Desenvolvimento do Software:* Em cada Sprint Planning, a equipe seleciona um conjunto de funcionalidades a serem desenvolvidas durante o próximo sprint. Isso pode incluir a criação da interface de usuário, a implementação de recursos de edição de receitas, a capacidade de adicionar ingredientes, etc...
 
 *Daily Standup para Desenvolvimento:* A equipe de desenvolvimento realiza reuniões diárias para discutir o progresso na criação do software. Eles compartilham atualizações sobre o desenvolvimento de funcionalidades, identificam obstáculos e colaboram para garantir que o software esteja sendo construído conforme o planejado.
 
