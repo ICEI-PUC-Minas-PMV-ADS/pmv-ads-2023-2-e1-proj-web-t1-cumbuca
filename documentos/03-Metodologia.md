@@ -27,10 +27,10 @@ Esta abordagem Scrum permitirá que a equipe de desenvolvimento entregue um soft
 
 ### Divisão de Papéis
 
-- Scrum Master: Marcelly
-- Product Owner: Isaque Gonçalves
-- Equipe de Desenvolvimento: Adrian e Kiane
-- Equipe de Design: Bernado
+- Scrum Master: Marcelly Giovanna de Souza e Maia
+- Product Owner: Isaque Gonçalves Ferreira
+- Equipe de Desenvolvimento: Adrian Sodré da Silva e Kiane Pinto Ramalho
+- Equipe de Design: Bernardo Miguel Soutelo Marra
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
