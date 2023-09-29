@@ -78,7 +78,7 @@ Esta abordagem Scrum permitirá que a equipe de desenvolvimento entregue um soft
 | Projeto de Interface                | Figma                              | http://....                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
-| Lugares de reunião                  | Microsoft Teams                    | https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:pLyRhKHyovEgmDG62wd3Arqm7xVIG9etlWwFca5ifEM1@thread.tacv2&ctx=channel|
+| Ambiente de reunião                  | Microsoft Teams                    | https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:pLyRhKHyovEgmDG62wd3Arqm7xVIG9etlWwFca5ifEM1@thread.tacv2&ctx=channel|
 
 
 ### Estratégia de Organização de Codificação 
