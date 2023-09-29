@@ -18,6 +18,7 @@ No contexto em questão, é importante destacar que a maioria das telas comparti
 Figura 2 - Tela de Categorias
 
 ### Protótipo de Alta fidelidade
+
 #### Tela inicial
 
 A tela inicial do site Cumbuca exibe uma seleção das principais e mais recomendadas receitas pelos usuários. Os
@@ -32,6 +33,24 @@ conhecendo as escolhas populares.
 ![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Tela%20Inicial.jpg?raw=true)
 Figura 3 - Tela de inicial
 
+#### Tela de login
+
+A tela de login oferece campos para inserir nome de usuário ou e-mail e senha. Os usuários podem clicar no botão "Entrar" para acessar sua conta de forma mais
+personalizada ou no botão "Cadastrar" para criar uma nova conta. Essa tela é essencial para garantir uma experiência de acesso distinta à plataforma.
+
+
+![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Login.jpg?raw=true)
+Figura 4 - Tela de login
+
+#### Tela de Cadastro
+
+A tela de Cadastro oferece campos para inserir informações como e-mail, nome, senha e confirmação de senha. Os usuários podem personalizar sua experiência na
+plataforma preenchendo esses campos e clicando no botão "Cadastrar". Há também a opção de cancelar o cadastro usando o botão correspondente, permitindo que os usuários
+interrompam o processo, caso desejem. Essa tela é fundamental para criar contas e alcançar o objetivo principal do usuário na plataforma: Poder compartilhar receitas
+e personalizar a experiência de forma única e individual.
+
+![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Cadastro.jpg?raw=true)
+Figura 5 - Tela de Cadastro
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
