@@ -20,12 +20,13 @@ Figura 2 - Tela de Categorias
 ### Protótipo de Alta fidelidade
 #### Tela inicial
 
-A tela inicial do site Cumbuca exibe uma seleção das principais e mais recomendadas receitas pelos usuários. Os elementos-chave
-incluem um cabeçalho com um campo de pesquisa centralizado, uma seção de destaque de receitas que apresenta imagens atraentes e um breve resumo
-de cada receita. 
+A tela inicial do site Cumbuca exibe uma seleção das principais e mais recomendadas receitas pelos usuários. Os
+elementos-chave incluem um cabeçalho com um campo de pesquisa centralizado, uma seção de destaque de receitas que
+apresenta imagens e um breve resumo de cada receita. 
 
->Os usuários têm a capacidade de interagir com as receitas. A tela inicial é ilustrada por
-cartões de receitas, cada um contendo uma imagem chamativa da receita e um resumo conciso que convida os usuários a explorar mais.
+>Projetada para proporcionar aos usuários a capacidade de realizar pesquisas e encontrar o pratos desejados
+diretamente na tela inicial. Além disso, os usuários têm a oportunidade de explorar as preferências dos demais,
+conhecendo as escolhas populares.
 
 
 ![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Tela%20Inicial.jpg?raw=true)
