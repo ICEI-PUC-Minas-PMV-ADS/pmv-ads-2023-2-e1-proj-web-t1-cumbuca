@@ -28,7 +28,7 @@ de cada receita.
 cartões de receitas, cada um contendo uma imagem chamativa da receita e um resumo conciso que convida os usuários a explorar mais.
 
 
-![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Tela%20Inicial.png?raw=true)
+![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Tela%20Inicial.jpg?raw=true)
 Figura 3 - Tela de inicial
 
 
