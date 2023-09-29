@@ -3,14 +3,12 @@
 
 ## User Flow
 
-O diagrama de fluxo retratado na figura 1 ilustra a sequência de interações do usuário através das diversas telas do sistema. Uma descrição minuciosa de cada uma dessas telas encontra
-se na seção subsequente, intitulada "Protótipo de Alta fidelidade".
+O diagrama de fluxo na Figura 1 representa as interações do usuário nas telas do sistema. Todas as telas têm um menu lateral para categorias e a
+tela principal, além de uma opção de login na parte superior direita. Para detalhes específicos das telas, consulte a seção "Protótipo de Alta
+fidelidade" do projeto. 
 
 ![Fluxo do usuário no Site Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Imagem1.png)
-
-
-[Adicione aqui o diagrama de fluxo de usuário da sua aplicação.] 
-
+figura 1 
 
 ## Protótipo
 
