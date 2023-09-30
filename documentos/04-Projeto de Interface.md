@@ -102,11 +102,9 @@ receitas de acordo com suas preferências culinárias.
 
 
 > **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+>> - [Sobre o Web site Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/tree/main#cumbuca)
+>> - <a href=""><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo">Protótipo</a>
+>> - [Figma](https://www.figma.com/file/8J2L0t0wplQcSxAdsxL61c/Cumbuca?type=design&node-id=0%3A1&mode=design&t=uCZpUcPgLKbHhpNZ-1)
 
 
 
