@@ -7,10 +7,10 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 01: </th>
+<th colspan="2">Perfil 01: Pessoas que querem publicar receitas </th>
 </tr> 
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Descrição: Pessoas que sabem cozinhar, independentemente do nível. </b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
