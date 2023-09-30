@@ -58,7 +58,7 @@
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |   A aplicação deve ser acessível nos principais navegadores/browsers do mercado: Chrome, Edge e Firefox.                    | ALTA |
+| RF-01 |   A aplicação deve ser acessível nos principais navegadores/browsers do mercado: Chrome, Edge e Firefox.                    | ALTA |
 | RF-02 |  A aplicação deverá ser responsiva permitindo o uso em diversos dispositivos.                     | ALTA  |
 | RF-03 |  A aplicação deve ser publicada em um ambiente acessível e público na internet.                   | ALTA  |
 | RF-04 |  Nenhum dado pessoal (como CPF ou endereço etc.) será exposto ou compartilhado dentro da plataforma.                    | ALTA  |
