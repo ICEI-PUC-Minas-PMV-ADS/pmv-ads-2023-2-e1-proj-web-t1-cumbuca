@@ -61,7 +61,7 @@ No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordage
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/tree/main/codigo-fonte                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
 | Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | [http://....](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/677/views/3?layout=board)                            |
+| Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/677/views/3?layout=board                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 | Ambiente de reunião                  | Microsoft Teams                    | https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:pLyRhKHyovEgmDG62wd3Arqm7xVIG9etlWwFca5ifEM1@thread.tacv2&ctx=channel|
 
