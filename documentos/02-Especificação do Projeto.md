@@ -25,19 +25,21 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 01: Pessoas que querem publicar receitas </th>
+<th colspan="2">Perfil 02: Pessoas que querem pesquisar receitas </th>
 </tr> 
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Pessoas que sabem cozinhar, independentemente do nível.</td>
+<td width="600px">Pessoas que buscam receitas, independentemente do nível de complexidade. </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1. Espaço para compartilhar receitas e dicas de culinárias. 
+<td>1. Acesso rápido e intuitivo às receitas e métodos. 
 
-2. Espaço para tirar dúvidas. 
+ 2. Espaço para tirar dúvidas. 
 
-3. Poder postar e responder comentários de outros usuários.</td>
+ 3. Poder postar e responder comentários de outros usuários. 
+
+ 4. Ver a foto da receita publicada.</td>
 </tr> 
 </tbody>
 </table>
