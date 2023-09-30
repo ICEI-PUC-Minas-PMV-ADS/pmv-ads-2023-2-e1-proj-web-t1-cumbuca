@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td> 1. Espaço para compartilhar receitas e dicas de culinárias. 
+<td>   1. Espaço para compartilhar receitas e dicas de culinárias. 
 
  2. Espaço para tirar dúvidas. 
 
