@@ -6,9 +6,7 @@ A metodologia contempla os instrumentos usados para manter os recursos e outras 
 
 ## Gerenciamento de Projeto
 
-O gerenciamento de projetos é um conjunto de práticas e técnicas usado para planejar, coordenar e controlar todas as etapas de um projeto, desde sua concepção até a conclusão. Isso envolve a definição clara dos objetivos do projeto, o desenvolvimento de um plano detalhado, a alocação de recursos adequados, o monitoramento constante do progresso e a resolução de problemas à medida que surgem. O objetivo é garantir que o projeto seja concluído com sucesso, dentro do prazo e do orçamento, atendendo às expectativas dos stakeholders e entregando os resultados desejados.
-
-O gerenciamento de projetos é uma disciplina crucial em várias indústrias, ajudando as organizações a executar projetos de forma eficaz, minimizar riscos e otimizar recursos. Ele é uma abordagem estruturada que abrange desde o planejamento minucioso até a documentação detalhada, promovendo a comunicação eficaz e a tomada de decisões informadas ao longo do ciclo de vida do projeto.
+No contexto do nosso projeto, o grupo tomou a decisão estratégica de adotar a metodologia ágil para gerenciamento, com foco específico na implementação do Método Scrum. A escolha deliberada por essa abordagem foi fundamentada em uma série de razões, visando aprimorar a eficiência, a flexibilidade e a colaboração durante todo o ciclo de vida do projeto.
 
 
 ### Divisão de Papéis
