@@ -5,24 +5,10 @@ Esta seção descreve a organização da equipe para a execução das tarefas do
 
 
 ## Gerenciamento de Projeto
-O Scrum é uma abordagem ágil de gerenciamento de projetos que é usada principalmente no desenvolvimento de software, mas também pode ser aplicada em outros contextos. Ele se baseia em equipes auto-organizadas que trabalham em ciclos curtos e iterativos chamados de "sprints", geralmente com duração de 2 a 4 semanas. Aqui estão os principais componentes do Scrum contextualizados com o nosso projeto:
 
-*Product Backlog para o Software de Criação de Receitas:* Comece com um Product Backlog que liste todas as funcionalidades e recursos que o software precisa ter para permitir aos usuários criar e compartilhar suas receitas.
+O gerenciamento de projetos é um conjunto de práticas e técnicas usado para planejar, coordenar e controlar todas as etapas de um projeto, desde sua concepção até a conclusão. Isso envolve a definição clara dos objetivos do projeto, o desenvolvimento de um plano detalhado, a alocação de recursos adequados, o monitoramento constante do progresso e a resolução de problemas à medida que surgem. O objetivo é garantir que o projeto seja concluído com sucesso, dentro do prazo e do orçamento, atendendo às expectativas dos stakeholders e entregando os resultados desejados.
 
-*Sprint Planning para o Desenvolvimento do Software:* Em cada Sprint Planning, a equipe seleciona um conjunto de funcionalidades a serem desenvolvidas durante o próximo sprint. Isso pode incluir a criação da interface de usuário, a implementação de recursos de edição de receitas, a capacidade de adicionar ingredientes, etc...
-
-*Daily Standup para Desenvolvimento:* A equipe de desenvolvimento realiza reuniões diárias para discutir o progresso na criação do software. Eles compartilham atualizações sobre o desenvolvimento de funcionalidades, identificam obstáculos e colaboram para garantir que o software esteja sendo construído conforme o planejado.
-
-*Sprint de Desenvolvimento do Software:* Durante o sprint, a equipe trabalha no desenvolvimento das funcionalidades selecionadas, garantindo que o software permita aos usuários criar e editar receitas de forma eficaz.
-
-*Sprint Review do Software:* Após o sprint, a equipe realiza uma revisão para demonstrar as funcionalidades desenvolvidas aos stakeholders (os usuários, neste caso) e coletar feedback sobre a usabilidade e a funcionalidade do software.
-
-*Sprint Retrospective do Software:* A equipe analisa o que funcionou bem no desenvolvimento do software e o que pode ser melhorado. Eles podem fazer ajustes no processo para os próximos sprints.
-
-*Incremento do Software:* Ao final de cada sprint, o software terá um incremento de funcionalidades que foram desenvolvidas durante o sprint, permitindo aos usuários criar e compartilhar suas receitas.
-
-Esta abordagem Scrum permitirá que a equipe de desenvolvimento entregue um software de criação de receitas de forma iterativa e adaptável, respondendo às necessidades dos usuários à medida que o projeto avança.
-
+O gerenciamento de projetos é uma disciplina crucial em várias indústrias, ajudando as organizações a executar projetos de forma eficaz, minimizar riscos e otimizar recursos. Ele é uma abordagem estruturada que abrange desde o planejamento minucioso até a documentação detalhada, promovendo a comunicação eficaz e a tomada de decisões informadas ao longo do ciclo de vida do projeto.
 
 
 ### Divisão de Papéis
