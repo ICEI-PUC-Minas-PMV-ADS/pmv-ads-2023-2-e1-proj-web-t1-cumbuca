@@ -48,6 +48,11 @@ Abaixo, uma imagem de como está o kanbam:
 
 ![imagem-etiquetas](./img/labels.png)
 
+
+<p>Visualização das etiquetas dentro de um item do Kanban</p>
+
+
+![Exemplo label](./img/exLabel)
   
 ### Ferramentas
 
