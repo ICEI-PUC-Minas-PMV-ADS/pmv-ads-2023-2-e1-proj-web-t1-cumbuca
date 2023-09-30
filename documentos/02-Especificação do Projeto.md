@@ -9,11 +9,11 @@
 <tr align=center>
 <th colspan="2">Perfil 01: </th>
 </tr> 
-<tr>Pessoas que querem publicar receitas
+<tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
-</tr>Pessoas que sabem cozinhar, independentemente do nível. 
-<tr>Pessoas que sabem cozinhar, independentemente do nível. 
+</tr>
+<tr>
 <td><b>Necessidades</b></td>
 <td>...</td>
 </tr>
