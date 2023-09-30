@@ -30,6 +30,11 @@ No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordage
 - Doing: nessa coluna as tarefas estão em andamento. Isso significa que os membros da equipe estão ativamente trabalhando nelas.
 - Done: finalmente, quando uma tarefa é concluída, ela é movida para a coluna "Done". Aqui, a equipe revisa o trabalho realizado, assegurando que atende aos requisitos e padrões de qualidade estabelecidos. Uma vez validada, a tarefa é considerada oficialmente concluída.
 
+Abaixo, uma imagem de como está o kanbam:
+
+![kanbam](img/kanbam.png)
+
+
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
