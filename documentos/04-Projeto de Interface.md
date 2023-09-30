@@ -11,7 +11,7 @@ A seguir, adentraremos na Figura 1, a qual nos fornece um diagrama que ilustra d
     <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
 </figure> 
 
-### Protótipo
+## Protótipo
 >###### Características Comuns nas Telas do Sistema
 No contexto em questão, é importante destacar que a maioria das telas compartilha características comuns, como a presença de um menu lateral esquerdo que direciona para as categorias e a tela inicial. Além disso, uma opção de login está disponível no canto superior direito de grande parte das telas. Em seguida, na Figura 2 apresentada abaixo, ilustra um exemplo dessas características compartilhadas, enfatizando a presença do menu lateral e do campo de login.
 
