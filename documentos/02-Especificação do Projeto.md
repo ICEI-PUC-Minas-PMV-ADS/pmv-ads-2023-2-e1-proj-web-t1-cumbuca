@@ -15,11 +15,11 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>   1. Espaço para compartilhar receitas e dicas de culinárias. 
+<td>1. Espaço para compartilhar receitas e dicas de culinárias. 
 
- 2. Espaço para tirar dúvidas. 
+2. Espaço para tirar dúvidas. 
 
- 3. Poder postar e responder comentários de outros usuários.</td>
+3. Poder postar e responder comentários de outros usuários.</td>
 </tr> 
 </tbody>
 </table>
