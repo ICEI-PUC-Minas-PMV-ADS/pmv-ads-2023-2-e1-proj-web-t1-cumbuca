@@ -1,7 +1,7 @@
 
 # Metodologia
 
-O metodologia contempla os instrumentos usados para manter os recursos e outras necessidades organizacionais, garantindo a gestão adequada do tempo e a realização das atividades do projeto.
+A metodologia contempla os instrumentos usados para manter os recursos e outras necessidades organizacionais, garantindo a gestão adequada do tempo e a realização das atividades do projeto.
 
 
 ## Gerenciamento de Projeto
