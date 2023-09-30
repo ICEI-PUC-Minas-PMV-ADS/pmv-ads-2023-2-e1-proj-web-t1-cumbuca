@@ -23,11 +23,12 @@ No contexto do nosso projeto, o grupo tomou a decisão estratégica de adotar a 
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordagem ágil que prioriza a visualização e o gerenciamento do fluxo de trabalho. Integrado ao Kanban, escolhemos utilizar o GitHub Projects como nossa ferramenta central para listar e controlar todas as tarefas relacionadas ao projeto. Esta decisão estratégica foi fundamentada na necessidade de um sistema robusto que nos permitisse organizar e acompanhar o progresso das atividades de forma eficaz. A estrutura do nosso quadro Kanban no GitHub Projects foi dividida em quatro principais colunas:
+
+- Backlog: é o ponto de entrada para todas as tarefas do projeto. Aqui, listamos todas as funcionalidades, melhorias e correções que precisam ser implementadas. Cada item no Backlog é detalhado e priorizado, garantindo que a equipe saiba quais são as próximas metas a serem atingidas.
+- To Do: Quando uma tarefa é selecionada para execução, ela é movida para a coluna "To Do". Nesta fase, as atividades são claramente definidas, e os membros da equipe podem acessar as informações necessárias para iniciar o trabalho. Esta coluna representa a lista de tarefas imediatas que precisam ser realizadas. 
+- Doing: nessa coluna as tarefas estão em andamento. Isso significa que os membros da equipe estão ativamente trabalhando nelas.
+- Done: finalmente, quando uma tarefa é concluída, ela é movida para a coluna "Done". Aqui, a equipe revisa o trabalho realizado, assegurando que atende aos requisitos e padrões de qualidade estabelecidos. Uma vez validada, a tarefa é considerada oficialmente concluída.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
