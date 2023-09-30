@@ -6,7 +6,7 @@ A metodologia contempla os instrumentos usados para manter os recursos e outras 
 
 ## Gerenciamento de Projeto
 
-No contexto do nosso projeto, o grupo tomou a decisão estratégica de adotar a metodologia ágil para gerenciamento, com foco específico na implementação do Método Scrum. A escolha deliberada por essa abordagem foi fundamentada em uma série de razões, visando aprimorar a eficiência, a flexibilidade e a colaboração durante todo o ciclo de vida do projeto.
+No contexto do projeto, foi tomada a decisão estratégica de adotar a metodologia ágil para gerenciamento, com foco específico na implementação do Método Scrum. A escolha deliberada por essa abordagem foi fundamentada em uma série de razões, visando aprimorar a eficiência, a flexibilidade e a colaboração durante todo o ciclo de vida do projeto.
 
 
 ### Divisão de Papéis
@@ -19,18 +19,18 @@ No contexto do nosso projeto, o grupo tomou a decisão estratégica de adotar a 
 
 ### Processo
 
-No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordagem ágil que prioriza a visualização e o gerenciamento do fluxo de trabalho. Integrado ao Kanban, escolhemos utilizar o GitHub Projects como nossa ferramenta central para listar e controlar todas as tarefas relacionadas ao projeto. Esta decisão estratégica foi fundamentada na necessidade de um sistema robusto que nos permitisse organizar e acompanhar o progresso das atividades de forma eficaz. A estrutura do nosso quadro Kanban no GitHub Projects foi dividida em quatro principais colunas:
+Foi optado por adotar a metodologia Kanban, uma abordagem ágil que prioriza a visualização e o gerenciamento do fluxo de trabalho. Integrado ao Kanban, foi elegido utilizar o GitHub Projects como ferramenta central para listar e controlar todas as tarefas relacionadas ao projeto. Esta decisão estratégica foi fundamentada na necessidade de um sistema robusto que nos permitisse organizar e acompanhar o progresso das atividades de forma eficaz. A estrutura do quadro Kanban no GitHub Projects foi dividida em quatro principais colunas:
 
-- Backlog: é o ponto de entrada para todas as tarefas do projeto. Aqui, listamos todas as funcionalidades, melhorias e correções que precisam ser implementadas. Cada item no Backlog é detalhado e priorizado, garantindo que a equipe saiba quais são as próximas metas a serem atingidas.
+- Backlog: é o ponto de entrada para todas as tarefas do projeto. Aqui, lista-se todas as funcionalidades, melhorias e correções que precisam ser implementadas. Cada item no Backlog é detalhado e priorizado, garantindo que a equipe saiba quais são as próximas metas a serem atingidas.
 - To Do: Quando uma tarefa é selecionada para execução, ela é movida para a coluna "To Do". Nesta fase, as atividades são claramente definidas, e os membros da equipe podem acessar as informações necessárias para iniciar o trabalho. Esta coluna representa a lista de tarefas imediatas que precisam ser realizadas. 
 - Doing: nessa coluna as tarefas estão em andamento. Isso significa que os membros da equipe estão ativamente trabalhando nelas.
 - Done: finalmente, quando uma tarefa é concluída, ela é movida para a coluna "Done". Aqui, a equipe revisa o trabalho realizado, assegurando que atende aos requisitos e padrões de qualidade estabelecidos. Uma vez validada, a tarefa é considerada oficialmente concluída.
 
 
-Abaixo, uma imagem de como está o kanbam:
+Abaixo uma imagem de como está o kanban:
 
 
-![kanbam](img/kanban.png)
+![kanban](img/kanban.png)
 
 
 ### Etiquetas
