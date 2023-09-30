@@ -10,8 +10,8 @@
 <th colspan="2">Perfil 01: Pessoas que querem publicar receitas </th>
 </tr> 
 <tr>
-<td width="150px"><b>Descrição: Pessoas que sabem cozinhar, independentemente do nível. </b></td>
-<td width="600px">...</td>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Pessoas que sabem cozinhar, independentemente do nível.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
