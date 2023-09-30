@@ -37,6 +37,11 @@
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
 | Pessoa que quer pesquisar receitas                | Acessar receitas de acordo com o ingrediente desejado                        | Otimizar o tempo de procura de receitas específicas.                               |
+| Pessoa que quer pesquisar receitas                 | Conseguir planejar refeições e fazer um cardápio, seja para um dia ou semana                        | Conseguir cozinhar refeições que sejam nutritivas e diversificadas.                              |
+| Pessoa que quer pesquisar receitas                 | Sanar dúvidas que surgirem na cozinha                        | Aprimorar o seu entendimento de processos básicos da culinária.                               |
+| ...                | ...                       | ...                              |
+| ...                | ...                       | ...                              |
+| ...                | ...                       | ...                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
