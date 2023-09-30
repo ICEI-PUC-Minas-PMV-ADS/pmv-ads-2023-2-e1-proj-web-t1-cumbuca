@@ -39,16 +39,16 @@
 
 ## Requisitos do Projeto
 
-[Com base nas Histórias de Usuários, enumere os requisitos da solução. Lembre-se que cada requisito deve corresponder a uma, e somente uma, característica alvo da solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.]
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 |  A aplicação deve ser acessível nos principais navegadores/browsers do mercado: Chrome, Edge e Firefox.                    | ALTA   | 
+| RF-02 |  A aplicação deverá ser responsiva permitindo o uso em diversos dispositivos.                     | ALTA  |
+| RF-03 |  A aplicação deve ser publicada em um ambiente acessível e público na internet.                   | ALTA  |
+| RF-04 |  Nenhum dado pessoal (como CPF ou endereço etc.) será exposto ou compartilhado dentro da plataforma.                    | ALTA  |
 
 **Prioridade: Alta / Média / Baixa. 
 
