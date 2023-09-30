@@ -11,7 +11,7 @@
 </tr> 
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Pessoas que querem publicar receitas</td>
+<td width="600px">Pessoas que sabem cozinhar, independentemente do nível.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
