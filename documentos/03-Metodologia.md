@@ -62,7 +62,7 @@ Abaixo, uma imagem de como está o kanbam:
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/tree/main/codigo-fonte                            |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/tree/main/documentos                            |
 | Projeto de Interface                | Figma                              | https://www.figma.com/file/8J2L0t0wplQcSxAdsxL61c/Cumbuca?type=design&node-id=0-1&mode=design                            |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/677/views/3?layout=board                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
