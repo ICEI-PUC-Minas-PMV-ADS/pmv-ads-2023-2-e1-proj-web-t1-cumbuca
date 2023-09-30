@@ -32,7 +32,7 @@ No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordage
 
 Abaixo, uma imagem de como está o kanbam:
 
-![kanbam](img/kanbam.png)
+![kanbam](img/kanban.png)
 
 
 > **Links Úteis**:
