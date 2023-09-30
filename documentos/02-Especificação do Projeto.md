@@ -12,8 +12,8 @@
 <tr>
 <td width="150px"><b>Descrição</b></td>
 <td width="600px">...</td>
-   Pessoas que sabem cozinhar, independentemente do nível
 </tr>
+   Pessoas que sabem cozinhar, independentemente do nível
 <tr>
 <td><b>Necessidades</b></td>
 <td>...</td>
