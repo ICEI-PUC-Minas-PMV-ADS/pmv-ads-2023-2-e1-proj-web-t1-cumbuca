@@ -16,8 +16,11 @@ A seguir, adentraremos na Figura 1, a qual nos fornece um diagrama que ilustra d
 No contexto em questão, é importante destacar que a maioria das telas compartilha características comuns, como a presença de um menu lateral esquerdo que direciona para as categorias e a tela inicial. Além disso, uma opção de login está disponível no canto superior direito de grande parte das telas. Em seguida, na Figura 2 apresentada abaixo, ilustra um exemplo dessas características compartilhadas, enfatizando a presença do menu lateral e do campo de login.
 
 
-![Tela de Categorias - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Categorias.jpg?raw=true)
-Figura 2 - Tela de Categorias
+<figure> 
+  <img src="/documentos/img/Categorias.jpg" width="1000px"
+    <figcaption>Figura 2 - Tela de Categorias</figcaption>
+</figure> 
+
 
 ### Protótipo de Alta fidelidade
 
@@ -32,8 +35,11 @@ diretamente na tela inicial. Além disso, os usuários têm a oportunidade de ex
 conhecendo as escolhas populares.
 
 
-![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Tela%20Inicial.jpg?raw=true)
-Figura 3 - Tela de inicial
+<figure> 
+  <img src="/documentos/img/Tela%20Inicial.jpg" width="1000px"
+    <figcaption>Figura 3 - Tela de inicial</figcaption>
+</figure> 
+
 
 #### Tela de login
 
@@ -41,18 +47,59 @@ A tela de login oferece campos para inserir nome de usuário ou e-mail e senha. 
 personalizada ou no botão "Cadastrar" para criar uma nova conta. Essa tela é essencial para garantir uma experiência de acesso distinta à plataforma.
 
 
-![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Login.jpg?raw=true)
-Figura 4 - Tela de login
+<figure> 
+  <img src="/documentos/img/Login.jpg" width="1000px"
+    <figcaption>Figura 4 - Tela de login </figcaption>
+</figure> 
 
-#### Tela de Cadastro
+#### Tela de cadastro
 
 A tela de Cadastro oferece campos para inserir informações como e-mail, nome, senha e confirmação de senha. Os usuários podem personalizar sua experiência na
 plataforma preenchendo esses campos e clicando no botão "Cadastrar". Há também a opção de cancelar o cadastro usando o botão correspondente, permitindo que os usuários
 interrompam o processo, caso desejem. Essa tela é fundamental para criar contas e alcançar o objetivo principal do usuário na plataforma: Poder compartilhar receitas
 e personalizar a experiência de forma única e individual.
 
-![Tela inicial - Projeto Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Cadastro.jpg?raw=true)
-Figura 5 - Tela de Cadastro
+
+<figure> 
+  <img src="/documentos/img/Cadastro.jpg" width="1000px"
+    <figcaption>Figura 5 - Tela de Cadastro</figcaption>
+</figure> 
+
+#### Perfil do usuário
+
+A tela do usuário que permite visualizar e atualizar suas informações de perfil, compartilhar suas próprias receitas, especificar preferências alimentares e restrições,
+além de interagir com a comunidade. Os usuários podem publicar receitas, seguir outros membros e personalizar suas experiências na plataforma, criando um ambiente interativo e
+personalizado.
+
+
+<figure> 
+  <img src="/documentos/img/Perfil.jpg" width="1000px"
+    <figcaption>Figura 6 - Tela do Perfil do usuário</figcaption>
+</figure> 
+
+#### Tela da Receita
+
+A tela da Receita é uma página que apresenta detalhes completos de uma receita, incluindo título, ingredientes, instruções de preparo, tempo de preparo e porções. 
+Os usuários podem avaliar a receita, deixar comentários.
+
+
+<figure> 
+  <img src="/documentos/img/Receita.jpg" width="1000px"
+    <figcaption>Figura 7 - Tela do Receita</figcaption>
+</figure>
+
+#### Tela da Receita
+
+A tela de categorias oferece uma busca avançada de receitas, incluindo categorias específicas como carnes, aves, massas, lanches e muito mais, permitindo aos usuários encontrar
+receitas de acordo com suas preferências culinárias.
+
+
+<figure> 
+  <img src="/documentos/img/Categorias.jpg" width="1000px"
+    <figcaption>Figura 8 - Tela de Categorias</figcaption>
+</figure>
+
+
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
