@@ -1,7 +1,6 @@
 # Referências Bibliográficas
-
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
+Esta seção destina-se a fornecer uma lista de links para fontes confiáveis que respaldam as informações apresentadas no projeto. Cada link direciona os visitantes para a fonte original
+relacionada ao tópico em questão, permitindo uma exploração mais aprofundada. Essas fontes são fundamentais para apoiar e validar o conteúdo apresentado no site.
 
 > **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - TERRA. Pesquisa mostra que 61% dos brasileiros não gostam de cozinhar. Disponível em: <https://www.terra.com.br/vida-e-estilo/culinaria/pesquisa-mostra-que-61-dos-brasileiros-nao-gostam-de-cozinhar,aecd2789c726b310VgnVCM3000009acceb0aRCRD.html>. Acesso em: 27 ago. 2023.
