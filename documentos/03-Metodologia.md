@@ -54,7 +54,7 @@ Abaixo, uma imagem de como está o kanbam:
 
 
 
-![Exemplo label](./img/exLabel.png){:width="300px"}
+![Exemplo label](./img/exLabel.png)
 
 
 
