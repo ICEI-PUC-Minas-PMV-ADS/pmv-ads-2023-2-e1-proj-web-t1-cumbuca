@@ -16,10 +16,6 @@ No contexto do nosso projeto, o grupo tomou a decisão estratégica de adotar a 
 - Equipe de Desenvolvimento: Adrian Sodré da Silva e Kiane Pinto Ramalho
 - Equipe de Design: Bernardo Miguel Soutelo Marra
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ### Processo
 
@@ -33,13 +29,6 @@ No decorrer deste projeto, optamos por adotar a metodologia Kanban, uma abordage
 Abaixo, uma imagem de como está o kanbam:
 
 ![kanbam](img/kanban.png)
-
-
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 
 ### Etiquetas
