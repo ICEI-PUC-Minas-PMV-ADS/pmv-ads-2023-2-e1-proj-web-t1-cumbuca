@@ -1,4 +1,5 @@
-# Cumbuca
+<img src="documentos/img/logo cumbuca 3.png" alt="Descrição da Imagem" width="200px" height="auto" style="float: left; margin-right: 10px;">
+<p></p>
 
 `CURSO: Análise e Desenvolvimento de Sistemas`
 
