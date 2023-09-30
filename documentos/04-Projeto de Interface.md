@@ -22,7 +22,7 @@ No contexto em questão, é importante destacar que a maioria das telas comparti
 </figure> 
 
 
-### Protótipo de Alta fidelidade
+## Protótipo de Alta fidelidade
 
 #### Tela inicial
 
