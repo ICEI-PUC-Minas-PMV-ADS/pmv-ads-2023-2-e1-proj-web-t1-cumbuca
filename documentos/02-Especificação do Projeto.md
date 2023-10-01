@@ -50,7 +50,7 @@
 |--------------------|---------------------------|----------------------------------|
 | Pessoa que procura por receitas                | Acessar receitas de acordo com o ingrediente desejado                        | Otimizar o tempo de procura de receitas específicas.                               |
 | Pessoa que procura por receitas                 | Sanar dúvidas que surgirem na cozinha                        | Aprimorar o seu entendimento de processos básicos da culinária.                               |
-| Pessoa que procura por receitas                 | Ter acesso a técnicas de culinária criativa com ingredientes inusitados                        | Explorar técnicas diversificadas para gerar pratos ou menus novos.                               |
+| Pessoa que procura por receitas                 | Ter acesso a receitas de acordo com a técnica culinária utilizada                       | Explorar técnicas diversificadas para gerar pratos ou menus novos.                               |
 | Pessoa que procura por receitas                 | Salvar receitas de outros usuários                        | Poder revisitar quando necessário.                               |
 | Pessoa que procura por receitas                 | Ver foto das receitas publicadas                        | Ter melhor noção do resultado e mais um meio de poder avaliar nível de complexidade da receita.                               |
 | Pessoa que publica receitas                 | Compartilhar experiências na cozinha através de receitas                        | Poder apoiar na aprendizagem e inspirar outras pessoas a adotarem escolhas alimentares diversificadas.                               |
