@@ -67,7 +67,7 @@
 |-------|---------------------------------|----|
 | RF-01 |  A aplicação deve permitir ao usuário cadastrar uma conta.                     | ALTA   | 
 | RF-02 |  A aplicação deve permitir ao usuário fazer o login da sua conta.                      | ALTA  |
-| RF-03 |  A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, processo e nível de dificuldade.                    | ALTA  |
+| RF-03 |  A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade.                    | ALTA  |
 | RF-04 |  A aplicação deve permitir ao usuário favoritar e salvar as receitas.                     | ALTA  |
 | RF-05 |  A aplicação deve permitir ao usuário comentar nas receitas.                    | ALTA  |
 | RF-06 |  A aplicação deve permitir ao usuário postar sua própra receita.                    | ALTA 
