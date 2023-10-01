@@ -3,7 +3,7 @@
 
 ## User Flow
 
-A seguir, adentraremos na Figura 1, a qual nos fornece um diagrama que ilustra de maneira abrangente as interações do usuário nas diversas telas do sistema. Para informações detalhadas sobre cada uma das telas, você pode consultar a seção <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo">'Protótipo de Alta Fidelidade'</a> no projeto.
+A seguir, na Figura 1, a qual fornece um diagrama que ilustra, de maneira abrangente, as interações do usuário nas diversas telas do sistema. Para informações detalhadas sobre cada uma das telas, poderá ser consultada a seção. <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo">'Protótipo de Alta Fidelidade'</a> no projeto.
 
 
 <figure> 
@@ -13,7 +13,7 @@ A seguir, adentraremos na Figura 1, a qual nos fornece um diagrama que ilustra d
 
 ## Recorrências
 >###### Características Comuns nas Telas do Sistema
-No contexto em questão, é importante destacar que a maioria das telas compartilha características comuns, como a presença de um menu lateral esquerdo que direciona para as categorias e a tela inicial. Além disso, uma opção de login está disponível no canto superior direito de grande parte das telas. Em seguida, na Figura 2 apresentada abaixo, ilustra um exemplo dessas características compartilhadas, enfatizando a presença do menu lateral e do campo de login.
+No contexto em questão, é importante destacar que a maioria das telas compartilha características comuns, como a presença de um menu lateral esquerdo que direciona para as categorias e a tela inicial. Além disso, uma opção de login está disponível no canto superior direito de grande parte das telas. Em seguida, na Figura 2 apresentada abaixo, ilustra um exemplo dessas características compartilhadas.
 
 
 <figure> 
