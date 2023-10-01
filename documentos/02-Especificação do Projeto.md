@@ -53,7 +53,7 @@
 | Pessoa que quer pesquisar receitas                 | Ter acesso a técnicas de culinária criativa com ingredientes inusitados                        | Explorar técnicas diversificadas para gerar pratos ou menus novos.                               |
 | Pessoa que quer pesquisar receitas                 | Salvar receitas de outros usuários                        | Poder revisitar quando necessário.                               |
 | Pessoa que quer pesquisar receitas                 | Ver foto das receitas publicadas                        | Ter melhor noção do resultado e mais um meio de poder avaliar nível de complexidade da receita.                               |
-| Pessoa que quer publicar receitas                 | Compartilhar experiências na cozinha                        | Poder apoiar na aprendizagem e inspirar outras pessoas a adotarem escolhas alimentares diversificadas.                               |
+| Pessoa que quer publicar receitas                 | Compartilhar experiências na cozinha através de receitas                        | Poder apoiar na aprendizagem e inspirar outras pessoas a adotarem escolhas alimentares diversificadas.                               |
 | Pessoa que quer pesquisar receitas / Pessoa que quer publicar receitas               | Interagir com outros usuários                       | Poder comentar em receitas, tirar ou responder dúvidas e elogiar ou questionar escolhas.                     |
 
 
