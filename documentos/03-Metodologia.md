@@ -19,7 +19,7 @@ No contexto do projeto, foi tomada a decisão estratégica de adotar a metodolog
 
 ### Processo
 
-Foi optado por adotar a metodologia Kanban, uma abordagem ágil que prioriza a visualização e o gerenciamento do fluxo de trabalho. Integrado ao Kanban, foi elegido utilizar o GitHub Projects como ferramenta central para listar e controlar todas as tarefas relacionadas ao projeto. Esta decisão estratégica foi fundamentada na necessidade de um sistema robusto que nos permitisse organizar e acompanhar o progresso das atividades de forma eficaz. A estrutura do quadro Kanban no GitHub Projects foi dividida em quatro principais colunas:
+Foi optado por adotar a metodologia Kanban, uma abordagem ágil que prioriza a visualização e o gerenciamento do fluxo de trabalho. Integrado ao Kanban, foi elegido utilizar o GitHub Projects como ferramenta central para listar e controlar todas as tarefas relacionadas ao projeto. Esta decisão estratégica foi fundamentada na necessidade de um sistema robusto que permitisse organizar e acompanhar o progresso das atividades de forma eficaz. A estrutura do quadro Kanban no GitHub Projects foi dividida em quatro principais colunas:
 
 - Backlog: é o ponto de entrada para todas as tarefas do projeto. Aqui, lista-se todas as funcionalidades, melhorias e correções que precisam ser implementadas. Cada item no Backlog é detalhado e priorizado, garantindo que a equipe saiba quais são as próximas metas a serem atingidas.
 - To Do: Quando uma tarefa é selecionada para execução, ela é movida para a coluna "To Do". Nesta fase, as atividades são claramente definidas, e os membros da equipe podem acessar as informações necessárias para iniciar o trabalho. Esta coluna representa a lista de tarefas imediatas que precisam ser realizadas. 
