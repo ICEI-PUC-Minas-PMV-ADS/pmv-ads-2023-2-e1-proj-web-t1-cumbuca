@@ -7,9 +7,7 @@
 
 `SEMESTRE: 2023.2`
 
-Atualmente, a sociedade enfrenta uma crescente falta de prática culinária, onde a prevalente "cultura de miojo" ganha destaque. No entanto, é essencial compreender que a alimentação vai além do macarrão instantâneo. Muitas pessoas se veem incapazes diante do fogão devido à ausência de prática e conhecimento nessa área, tornando-se dependentes de delivery e alternativas para se alimentar. A carência de habilidades culinárias apresenta desafios significativos, gerando obstáculos ao tentar cozinhar em casa, manifestando-se por meio da insegurança e da falta de conhecimento.  
-
-Essas mudanças de hábitos alimentares não são recentes e são influenciadas pela rotina acelerada e pela disponibilidade de alimentos processados, resultando em uma alimentação considerada menos saudável de maneira geral. Dessa forma, viu-se a oportunidade de buscar meios de mitigar o déficit crescente na prática culinária e, consequentemente, possibilitar hábitos mais saudáveis. 
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso no formato de uma comunidade que permita a postagem e pesquisa de receitas, visando melhorar a habilidade culinária de pessoas interessadas em aprimorar o conhecimento nesta área.
 
 ## Integrantes
 
