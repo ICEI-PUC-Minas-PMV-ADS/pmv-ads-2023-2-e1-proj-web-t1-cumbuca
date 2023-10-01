@@ -3,7 +3,7 @@
 
 ## User Flow
 
-A seguir, na Figura 1, a qual fornece um diagrama que ilustra, de maneira abrangente, as interações do usuário nas diversas telas do sistema. Para informações detalhadas sobre cada uma das telas, poderá ser consultada a seção. <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo">'Protótipo de Alta Fidelidade'</a> no projeto.
+A seguir, na Figura 1, a qual fornece um diagrama que ilustra, de maneira abrangente, as interações do usuário nas diversas telas do sistema. Para informações detalhadas sobre cada uma das telas, poderá ser consultada a seção. <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo-de-alta-fidelidade">'Protótipo de Alta Fidelidade'</a> no projeto.
 
 
 <figure> 
