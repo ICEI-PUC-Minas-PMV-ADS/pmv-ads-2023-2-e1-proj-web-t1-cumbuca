@@ -88,7 +88,7 @@ Os usuários podem avaliar a receita, deixar comentários.
     <figcaption>Figura 7 - Tela do Receita</figcaption>
 </figure>
 
-#### Tela da Receita
+#### Tela das Categorias
 
 A tela de categorias oferece uma busca avançada de receitas, incluindo categorias específicas como carnes, aves, massas, lanches e muito mais, permitindo aos usuários encontrar
 receitas de acordo com suas preferências culinárias.
