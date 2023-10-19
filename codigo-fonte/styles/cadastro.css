@@ -1,0 +1,72 @@
+.fundo{
+        background: var(--cor-fundo);
+        background-image: url(../assets/background.svg);
+        background-position: fixed;
+        font-family: var(--fonte);
+        font-size:16px;
+    
+}
+
+.cadastro{
+    position: relative;
+    min-height: 100vh;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
+.cadastro__container{
+    display: flex;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    text-align: center;
+    
+}
+
+.cadastro__img-container{
+    padding: 0 2em;
+}
+
+.cadastro__form{
+    display: inline-flex;
+    flex-direction: column;
+    width: 30vw;
+    margin: 1em;
+}
+
+.cadastrar{
+    background-color:var(--verde) ;
+}
+
+.cancelar{
+    background-color: var(--vermelho);
+    text-decoration: none;
+}
+
+@media screen and (max-width: 768px){
+
+    .cadastro{
+        justify-content: center;
+    }
+
+    .cadastro__container{
+        display: block;
+        text-align: center;
+    
+        width:80vw;
+    }
+    .cadastro__img-container{
+        justify-content: center;
+
+    }
+
+    .cadastro__form{
+        
+        width: 80vw;
+        margin: 1em;
+    }
+
+}

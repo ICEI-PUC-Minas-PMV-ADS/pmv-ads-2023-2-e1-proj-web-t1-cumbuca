@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@300;400;500;700&family=Roboto:wght@700&display=swap');
+@import url('./login.css');
+@import url('./cadastro.css');
+@import url('./index.css');
+
+:root{
+    --cor-fundo: #2F3540;
+    --laranja: #F28705;
+    --verde: #A0A603;
+    --branco: #ffffff;
+    --vermelho: #F23E05;
+    --fonte: 'Roboto', sans-serif;
+    --cinza:#F6F6F6; 
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: var(--fonte);
+}
+    
