@@ -43,73 +43,58 @@
   width: 200px;
 }
 
-@media (max-width: 902px) {
-  .menu__icone {
-    flex-direction: column;
-    top: 0.1;
-    right: 10px;
+@media (max-width: 1415px) {
+  #categoriasGrid {
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
-@media (max-width: 698px) {
-  .container__lateral {
+@media (max-width: 1160px) {
+  #categoriasGrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 1088px) {
+  .links {
     width: 100%;
-    position: relative;
-    top: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .lateral__img {
-    width: 8rem;
-  }
-
-  .conteudo {
-    display: flex;
-    height: 100%;
-    display: flex;
-    margin: 0;
-    padding: 1.5em 1em;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .menu_lateral {
-    display: flex;
-  }
-
-  .menu__navegacao {
-    position: static;
-  }
-
-  .menu__icone {
-    position: static;
-    flex-direction: row;
-    display: flex;
-    gap: 1rem;
-    padding-bottom: 1rem;
   }
 }
 
-@media (max-width: 419px) {
-  .receita__card {
-    width: 250px;
+@media (max-width: 926px) {
+  #categoriasGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 854px) {
+  #categoriasGrid {
+    grid-template-columns: repeat(2, 1fr);
   }
 
-  .menu__icone {
-    gap: 2rem;
+  .links {
+    width: calc(80% - 10px);
+    gap: 1.5rem 3rem;
   }
 
-  .card__img {
-    width: 250px;
-    margin-bottom: 0.7em;
+  .link {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 464px) {
+  #categoriasGrid {
+    grid-template-columns: repeat(1, 1fr);
   }
 
-  .pesquisa {
-    width: 250px;
-    padding: 0.4em;
+  .links {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+  }
+
+  .link {
+    max-width: 100%;
   }
 }

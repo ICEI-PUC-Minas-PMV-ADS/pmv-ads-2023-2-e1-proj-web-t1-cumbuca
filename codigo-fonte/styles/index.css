@@ -38,6 +38,9 @@ body {
   background-color: var(--cor-fundo);
   overflow-x: hidden;
   padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container__lateral a {
@@ -55,7 +58,7 @@ body {
 }
 
 .lateral__img {
-  width: 60%;
+  width: 100%;
   padding: 0 3em;
 }
 
