@@ -1,124 +1,113 @@
-body{
-    background-color: var(--branco);
+body {
+  background-color: var(--branco);
 }
 
-
-.conteudo{
-    background: var(--branco);
-    height: 100%;
-    background-image: none;
-    display: flex;
-    margin-left:200px;
-    padding: 1.5em 1em;
-    flex-direction: column;
-
-}
-.conteudo__cabecalho{
-    display: flex;
-    margin-bottom: 3em;
+.conteudo {
+  background: var(--branco);
+  height: 100%;
+  background-image: none;
+  display: flex;
+  margin-left: 200px;
+  padding: 1.5em 1em;
+  flex-direction: column;
 }
 
-
-.container__lateral{
-    height: 100%;
-    width: 200px;
-    position: fixed;
-    z-index:1;
-    background-color: var(--cor-fundo);
-    overflow-x: hidden;
-    padding-top: 20px;
-
+.menu__navegacao {
+  position: relative;
+  width: 100%;
+  height: 100vh;
 }
 
-.container__lateral a{
-    text-decoration: none;
-    padding: 6px 6px 6px 32px;
-    display: block;
-    color: var(--branco);
-    font-weight: 700;
-    font-family: var(--fonte);
+.menu__icone {
+  position: absolute;
+  right: 0;
+  display: flex;
+  gap: 1rem;
 }
 
-.menu__botao{
-    margin: 0px;
-    padding: 0px;
+.icone__botao {
+  width: 1.5rem;
+  cursor: pointer;
 }
 
-.lateral__img{
-    width: 60%;
-    padding: 0 3em;
+.container__lateral {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  background-color: var(--cor-fundo);
+  overflow-x: hidden;
+  padding-top: 20px;
 }
 
-.container__menu{
-    display:flex;
-    color: black;
-    align-items: center;
-    justify-content: center;
-    width:100%;
+.container__lateral a {
+  text-decoration: none;
+  padding: 6px 6px 6px 32px;
+  display: block;
+  color: var(--branco);
+  font-weight: 700;
+  font-family: var(--fonte);
 }
 
-.pesquisa{
-    align-items: center;
-    width: 390px;
-    border-radius: 20px;
-    border: 1px transparent ;
-    padding: .4em;
-    background-color: var(--cinza);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    
+.menu__botao {
+  margin: 0px;
+  padding: 0px;
 }
 
-.pesquisa::placeholder{
-    
-    text-align:center;
-    background: url("../assets/Lupa.svg") no-repeat;
-    background-size: 4%;
-    background-position: 1em;
-    color: var(--cor-fundo);
-    font-family: var(--fonte);
-
-    
-
+.lateral__img {
+  width: 60%;
+  padding: 0 3em;
 }
 
-.menu__navegacao{
-    position: relative;
+.container__menu {
+  display: flex;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 
-.menu__icone{
-    gap:1em;
-    align-items: center;
-    justify-content: center;
-    list-style: none;
-    display: flex;
+.pesquisa {
+  align-items: center;
+  width: 390px;
+  border-radius: 20px;
+  border: 1px transparent;
+  padding: 0.4em;
+  background-color: var(--cinza);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.icone__botao{
-    width: 1.5rem;
+.pesquisa::placeholder {
+  text-align: center;
+  background: url("../assets/Lupa.svg") no-repeat;
+  background-size: 4%;
+  background-position: 1em;
+  color: var(--cor-fundo);
+  font-family: var(--fonte);
 }
 
-.receita__rating{
-    display:flex;
-    justify-content: space-between;
+.receita__rating {
+  display: flex;
+  justify-content: space-between;
 }
 
-.receita__card{
-    width: 390px;
+.receita__card {
+  width: 390px;
 }
 
-.card__img{
-    width: 390px;
-    margin-bottom: .7em;
+.card__img {
+  width: 390px;
+  margin-bottom: 0.7em;
 }
 
-.receitas{
-    display:flex;
-    flex-direction: column;
-    align-items: center;
-    font-size:12px;
-    gap: 2em;
+.receitas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  gap: 2em;
 }
 
-.icon{
-    height: 1.5em;
+.icon {
+  height: 1.5em;
 }
