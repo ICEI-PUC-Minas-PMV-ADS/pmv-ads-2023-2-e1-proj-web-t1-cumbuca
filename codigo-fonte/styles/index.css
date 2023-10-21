@@ -20,7 +20,7 @@ body {
 
 .menu__icone {
   position: absolute;
-  right: 0;
+  right: 10px;
   display: flex;
   gap: 1rem;
 }
@@ -110,4 +110,78 @@ body {
 
 .icon {
   height: 1.5em;
+}
+
+/* Media query para telas menores que 768px */
+@media (max-width: 902px) {
+  .menu__icone {
+    flex-direction: column;
+    top: 0.1;
+    right: 10px;
+  }
+}
+
+@media (max-width: 698px) {
+  .container__lateral {
+    width: 100%;
+    position: relative;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lateral__img {
+    width: 8rem;
+  }
+
+  .conteudo {
+    display: flex;
+    height: 100%;
+    display: flex;
+    margin: 0;
+    padding: 1.5em 1em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu_lateral {
+    display: flex;
+  }
+
+  .menu__navegacao {
+    position: static;
+  }
+
+  .menu__icone {
+    position: static;
+    flex-direction: row;
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 419px) {
+  .receita__card {
+    width: 250px;
+  }
+
+  .menu__icone {
+    gap: 2rem;
+  }
+
+  .card__img {
+    width: 250px;
+    margin-bottom: 0.7em;
+  }
+
+  .pesquisa {
+    width: 250px;
+    padding: 0.4em;
+    background-color: var(--cinza);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
 }
