@@ -114,7 +114,6 @@
   height: 1.5em;
 }
 
-/* Media query para telas menores que 768px */
 @media (max-width: 902px) {
   .menu__icone {
     flex-direction: column;
@@ -167,17 +166,8 @@
 }
 
 @media (max-width: 419px) {
-  .receita__card {
-    width: 250px;
-  }
-
   .menu__icone {
     gap: 2rem;
-  }
-
-  .card__img {
-    width: 250px;
-    margin-bottom: 0.7em;
   }
 
   .pesquisa {

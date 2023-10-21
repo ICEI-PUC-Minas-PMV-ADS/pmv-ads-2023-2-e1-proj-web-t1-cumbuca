@@ -112,7 +112,6 @@ body {
   height: 1.5em;
 }
 
-/* Media query para telas menores que 768px */
 @media (max-width: 902px) {
   .menu__icone {
     flex-direction: column;
