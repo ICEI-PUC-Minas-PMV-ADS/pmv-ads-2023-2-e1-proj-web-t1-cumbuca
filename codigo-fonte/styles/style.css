@@ -103,20 +103,6 @@ body {
   font-family: var(--fonte);
 }
 
-.receita__rating {
-  display: flex;
-  justify-content: space-between;
-}
-
-.receita__card {
-  width: 390px;
-}
-
-.card__img {
-  width: 390px;
-  margin-bottom: 0.7em;
-}
-
 .receitas {
   display: flex;
   flex-direction: column;
