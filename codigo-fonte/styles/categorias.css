@@ -1,0 +1,189 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.conteudo {
+  background: var(--branco);
+  height: 100%;
+  background-image: none;
+  display: flex;
+  margin-left: 200px;
+  padding: 1.5em 1em;
+  flex-direction: column;
+}
+
+.menu__navegacao {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.menu__icone {
+  position: absolute;
+  right: 10px;
+  display: flex;
+  gap: 1rem;
+}
+
+.icone__botao {
+  width: 1.5rem;
+  cursor: pointer;
+}
+
+.container__lateral {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  background-color: var(--cor-fundo);
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.container__lateral a {
+  text-decoration: none;
+  padding: 6px 6px 6px 32px;
+  display: block;
+  color: var(--branco);
+  font-weight: 700;
+  font-family: var(--fonte);
+}
+
+.menu__botao {
+  margin: 0px;
+  padding: 0px;
+}
+
+.lateral__img {
+  width: 60%;
+  padding: 0 3em;
+}
+
+.container__menu {
+  display: flex;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.pesquisa {
+  align-items: center;
+  width: 390px;
+  border-radius: 20px;
+  border: 1px transparent;
+  padding: 0.4em;
+  background-color: var(--cinza);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pesquisa::placeholder {
+  text-align: center;
+  background: url("../assets/Lupa.svg") no-repeat;
+  background-size: 4%;
+  background-position: 1em;
+  color: var(--cor-fundo);
+  font-family: var(--fonte);
+}
+
+.receita__rating {
+  display: flex;
+  justify-content: space-between;
+}
+
+.receita__card {
+  width: 390px;
+}
+
+.card__img {
+  width: 390px;
+  margin-bottom: 0.7em;
+}
+
+.receitas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  gap: 2em;
+}
+
+.icon {
+  height: 1.5em;
+}
+
+/* Media query para telas menores que 768px */
+@media (max-width: 902px) {
+  .menu__icone {
+    flex-direction: column;
+    top: 0.1;
+    right: 10px;
+  }
+}
+
+@media (max-width: 698px) {
+  .container__lateral {
+    width: 100%;
+    position: relative;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .lateral__img {
+    width: 8rem;
+  }
+
+  .conteudo {
+    display: flex;
+    height: 100%;
+    display: flex;
+    margin: 0;
+    padding: 1.5em 1em;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .menu_lateral {
+    display: flex;
+  }
+
+  .menu__navegacao {
+    position: static;
+  }
+
+  .menu__icone {
+    position: static;
+    flex-direction: row;
+    display: flex;
+    gap: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 419px) {
+  .receita__card {
+    width: 250px;
+  }
+
+  .menu__icone {
+    gap: 2rem;
+  }
+
+  .card__img {
+    width: 250px;
+    margin-bottom: 0.7em;
+  }
+
+  .pesquisa {
+    width: 250px;
+    padding: 0.4em;
+    background-color: var(--cinza);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
