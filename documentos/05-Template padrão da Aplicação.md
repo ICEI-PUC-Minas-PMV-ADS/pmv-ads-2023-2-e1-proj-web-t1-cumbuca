@@ -11,8 +11,23 @@ No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utiliz
 ### Menu Lateral Esquerdo
 A grande maioria das telas possui um menu na lateral esquerda da interface. Esse menu é uma ferramenta de navegação que permite aos usuários acessar diferentes categorias e retornar à tela inicial do aplicativo de forma rápida e intuitiva.
 
+Cores: RGB: #3E497A, whitesmoke, goldenrod e white;
+Font-family: Arial, Helvetica, sans-serif e cursive.
+Font-size: 15px e 28px.
+
+(Colocar a imagem do menu láteral)
+
 ### Opção de Login
 Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
+
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+
+Cores: RGB: #3E497A, whitesmoke, goldenrod e white;
+Font-family: Arial, Helvetica, sans-serif e cursive.
+Font-size: 15px e 28px.
+
+(Colocar a imagem do login)
+
 
 [Apresente a estrutura padrão da sua aplicação.]
 
