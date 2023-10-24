@@ -4,7 +4,7 @@ No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utiliz
 
 É importante notar que a maioria das telas no aplicativo "Cumbuca" compartilha características em comum, o que contribui para uma experiência de usuário coesa. Estes elementos comuns são fundamentais para proporcionar uma navegação consistente e familiar aos usuários.
 
->####Conheça os detalhes dessas características, projetadas para facilitar a experiência do usuário, fornecendo direções claras e acesso rápido.
+>###Conheça os detalhes dessas características, projetadas para facilitar a experiência do usuário, fornecendo direções claras e acesso rápido.
 
 ### Menu Lateral Esquerdo
 A grande maioria das telas possui um menu na lateral esquerda da interface. Esse menu é uma ferramenta de navegação que permite aos usuários acessar diferentes categorias e retornar à tela inicial do aplicativo de forma rápida e intuitiva.
