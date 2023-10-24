@@ -35,7 +35,9 @@ As páginas terão como elementos padrões o menu de navegação, o header e o f
 (Colocar a imagem do login)
 
 
-[Apresente a estrutura padrão da sua aplicação.]
+#Composição geral das funcionalidade uniformes
+
+(texto padrão)
 
 > **Links Úteis**:
 >
