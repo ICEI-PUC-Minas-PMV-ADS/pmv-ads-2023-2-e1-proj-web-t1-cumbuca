@@ -5,7 +5,7 @@ No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utiliz
 É importante notar que a maioria das telas no aplicativo "Cumbuca" compartilha características em comum, o que contribui para uma experiência de usuário coesa. Estes elementos comuns são fundamentais para proporcionar uma navegação consistente e familiar aos usuários.
 
    
->>Conheça os detalhes dessas características, projetadas para facilitar a experiência do usuário, fornecendo direções claras e acesso rápido.
+>Conheça os detalhes dessas características, projetadas para facilitar a experiência do usuário, fornecendo direções claras e acesso rápido.
 
 
 
