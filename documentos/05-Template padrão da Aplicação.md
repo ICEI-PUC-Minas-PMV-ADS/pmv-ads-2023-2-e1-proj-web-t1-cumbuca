@@ -1,6 +1,9 @@
 # Template padrão da Aplicação
 
-No aplicativo Web "Cumbuca", é essencial observar que a maioria das telas apresenta elementos em comum que tornam a experiência do usuário mais consistente.
+O layout padrão do site foi desenvolvido com as linguagens de marcação HTML e CSS. Isso permite que o site apresente uma aparência e
+funcionalidade consistentes em diversas plataformas e dispositivos, com foco na responsividade sendo integralmente desenvolvida no CSS.
+No aplicativo Web "Cumbuca", é essencial observar que a maioria das telas apresenta elementos em comum que tornam a experiência do usuário mais
+consistente.
 
 ### Menu Lateral Esquerdo
 A grande maioria das telas possui um menu na lateral esquerda da interface. Esse menu é uma ferramenta de navegação que permite aos usuários acessar diferentes categorias e retornar à tela inicial do aplicativo de forma rápida e intuitiva.
