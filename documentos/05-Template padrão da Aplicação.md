@@ -2,11 +2,11 @@
 
 No aplicativo Web "Cumbuca", é essencial observar que a maioria das telas apresenta elementos em comum que tornam a experiência do usuário mais consistente.
 
-## Menu Lateral Esquerdo
+### Menu Lateral Esquerdo
 A grande maioria das telas possui um menu na lateral esquerda da interface. Esse menu é uma ferramenta de navegação que permite aos usuários acessar diferentes categorias e retornar à tela inicial do aplicativo de forma rápida e intuitiva.
 
-## Opção de Login
-Se você olhar para o canto superior direito da maioria das telas, encontrará uma opção de login. Isso facilita o acesso dos usuários às suas contas ou perfis, tornando o processo de autenticação conveniente e acessível em todas as partes do aplicativo.
+### Opção de Login
+Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
 
 [Apresente a estrutura padrão da sua aplicação.]
 
