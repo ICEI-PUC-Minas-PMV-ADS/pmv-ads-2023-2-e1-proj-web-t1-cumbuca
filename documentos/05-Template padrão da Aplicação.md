@@ -20,7 +20,7 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 </ul>
 
 <figure> 
-  <img src="documentos/img/MENULATERAL.jpg " width="1000px"
+  <img src="documentos/img/menuLateral.jpg" width="100px"
     <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
 </figure> 
 
@@ -34,7 +34,10 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 <li>Font-size: 15px e 28px. </li>
 </ul>
 
-(Colocar a imagem do login)
+<figure> 
+  <img src="documentos/img/menuAcesso.png" width="100px"
+    <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
+</figure> 
 
 
 ## Composição geral das Funcionalidade Uniformes
