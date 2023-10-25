@@ -19,8 +19,10 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 <li>Font-size: 15px e 28px. </li>
 </ul>
 
-
-(Colocar a imagem do menu láteral)
+<figure> 
+  <img src="documentos/img/MENU LATERAL.jpg " width="1000px"
+    <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
+</figure> 
 
 ### Opção de Login
 Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
