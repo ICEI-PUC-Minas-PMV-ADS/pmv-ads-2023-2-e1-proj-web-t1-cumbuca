@@ -20,7 +20,7 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 </ul>
 
 <figure> 
-  <img src="documentos/img/MENU LATERAL.jpg " width="1000px"
+  <img src="documentos/img/MENULATERAL.jpg " width="1000px"
     <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
 </figure> 
 
