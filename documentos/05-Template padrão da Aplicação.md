@@ -30,7 +30,10 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
 <li>Font-size: 15px e 28px. </li>
 </ul>
-<img src="documentos/img/menuAcesso.png" alt="Descrição da Imagem" width="200px" height="auto" style="float: left; margin-right: 1000;">
+figure> 
+  <img src="/documentos/img/fluxo.png" width="1000px"
+    <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
+</figure> 
 
 
 ## Composição geral das Funcionalidade Uniformes
