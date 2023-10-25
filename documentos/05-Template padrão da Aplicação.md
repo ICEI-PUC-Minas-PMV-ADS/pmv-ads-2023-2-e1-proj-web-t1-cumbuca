@@ -17,8 +17,11 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 <li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
 <li>Font-size: 15px e 28px. </li>
-</ul>
-
+</ul> menuLateral.jpg
+<figure> 
+  <img src="/documentos/img/menuLateral.jpg" width="1000px"
+    <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
+</figure> 
 
 
 ### Opção de Login
