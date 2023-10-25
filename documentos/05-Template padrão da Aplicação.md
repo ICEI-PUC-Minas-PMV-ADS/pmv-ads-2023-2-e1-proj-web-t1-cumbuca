@@ -20,7 +20,7 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 </ul> menuLateral.jpg
 <figure> 
   <img src="/documentos/img/menuLateral.jpg" width="1000px"
-    <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
+    <figcaption>Figura 1 - Menu lateral </figcaption>
 </figure> 
 
 
@@ -35,7 +35,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 </ul>
 <figure> 
   <img src="/documentos/img/menuAcesso.png" width="1000px"
-    <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
+    <figcaption>Figura 2 -Opções de Login </figcaption>
 </figure> 
 
 
