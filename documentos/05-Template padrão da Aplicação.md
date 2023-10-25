@@ -19,10 +19,7 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 <li>Font-size: 15px e 28px. </li>
 </ul>
 
-<figure> 
-  <img src="documentos/img/menuLateral.jpg" width="100px"
-    <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
-</figure> 
+
 
 ### Opção de Login
 Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
@@ -33,11 +30,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
 <li>Font-size: 15px e 28px. </li>
 </ul>
-
-<figure> 
-  <img src="documentos/img/menuAcesso.png" width="100px"
-    <figcaption>Figura 1 - Menu Lateral esquerdo </figcaption>
-</figure> 
+<img src="documentos/img/menuAcesso.png" alt="Descrição da Imagem" width="200px" height="auto" style="float: left; margin-right: 10;">
 
 
 ## Composição geral das Funcionalidade Uniformes
