@@ -7,7 +7,7 @@ A seguir, na Figura 1, a qual fornece um diagrama que ilustra, de maneira abrang
 
 
 <figure> 
-  <img src="/documentos/img/fluxo.png" width="1000px"
+  <img src="/documentos/img/menuLateral.jpg" width="1000px"
     <figcaption>Figura 1 - Fluxo de telas do usuário </figcaption>
 </figure> 
 
@@ -17,7 +17,7 @@ No contexto em questão, é importante destacar que a maioria das telas comparti
 
 
 <figure> 
-  <img src="/documentos/img/Categorias.jpg" width="1000px"
+  <img src="/documentos/img/menuAcesso.png" width="1000px"
     <figcaption>Figura 2 - Tela de Categorias</figcaption>
 </figure> 
 
