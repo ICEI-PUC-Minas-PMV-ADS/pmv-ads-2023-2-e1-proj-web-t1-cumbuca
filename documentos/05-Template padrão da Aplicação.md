@@ -18,6 +18,7 @@ A grande maioria das telas possui um menu na lateral esquerda da interface. Esse
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
 <li>Font-size: 15px e 28px. </li>
 </ul> 
+
 <figure> 
   <img src="/documentos/img/menuLateral.jpg" width="150px"
     <figcaption>Figura 1 - Menu lateral </figcaption>
@@ -33,6 +34,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
 <li>Font-size: 15px e 28px. </li>
 </ul>
+
 <figure> 
   <img src="/documentos/img/menuAcesso.png" width="200px" 
     <figcaption>Figura 2 - Opções de Login </figcaption>
@@ -42,6 +44,11 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 ## Composição geral das Funcionalidade Uniformes
 
 (texto padrão)
+
+<figure> 
+  <img src="/documentos/img/ComposicaoGearl.png" width="150px"
+    <figcaption>Figura 1 - Composição geral </figcaption>
+</figure> 
 
 > **Links Úteis**:
 >
