@@ -50,7 +50,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
     <figcaption>Figura 3 - Composição geral </figcaption>
 </figure> 
 >
->
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
