@@ -34,7 +34,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 <li>Font-size: 15px e 28px. </li>
 </ul>
 <figure> 
-  <img src="/documentos/img/menuAcesso.png" width="100px" height="200"
+  <img src="/documentos/img/menuAcesso.png" width="200px" height="200px"
     <figcaption>Figura 2 -Opções de Login </figcaption>
 </figure> 
 
