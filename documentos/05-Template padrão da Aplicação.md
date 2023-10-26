@@ -18,9 +18,9 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 </figure> 
 
 <ul>
-<li>Cor-fundo: #2f3540; whitesmoke, goldenrod e white;</li>
-<li>Font-family:</li>
-<li>Fonte: "Roboto", sans-serif;
+<li>Cor de fundo: RGB: #2f3540;
+<li>Font-family: "Roboto", sans-serif;</li>
+<li>Cor das letras: #ffffff<\li>
 </ul> 
 
 
