@@ -27,7 +27,7 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 ### Opção de Login
 Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
 
-
+>####
 <ul>
 <li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
 <li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
