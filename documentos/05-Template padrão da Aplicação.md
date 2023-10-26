@@ -16,12 +16,12 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
   <img src="/documentos/img/menuLateral.jpg" width="150px"
     <figcaption> Figura 1 - Menu lateral </figcaption>
 </figure> 
-> #####
+>###### 
 > Descrições dos padroes gráficos aplicados
 <ul>
 <li>Cor de fundo: RGB: #2f3540;
 <li>Font-family: "Roboto", sans-serif;</li>
-<li>Cor das letras: #ffffff<\li>
+<li>Cor das letras: RGB: #ffffff </li>
 </ul> 
 
 
