@@ -17,7 +17,7 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
     <figcaption>Figura 1 - Menu lateral </figcaption>
 </figure> 
 
-#### Descrições dos padroes gráficos aplicados
+> Descrições dos padroes gráficos aplicados
 <ul>
 <li>Cor de fundo: RGB: #2f3540;
 <li>Font-family: "Roboto", sans-serif;</li>
