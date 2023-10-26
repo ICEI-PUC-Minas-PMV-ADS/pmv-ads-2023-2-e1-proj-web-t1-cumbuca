@@ -47,7 +47,7 @@ Na maior parte das telas, encontra-se uma opção de login no canto superior dir
 
 <figure> 
   <img src="/documentos/img/ComposicaoGearl.png" width="1000px"
-    <figcaption>Figura 1 - Composição geral </figcaption>
+    <figcaption>Figura 3 - Composição geral </figcaption>
 </figure> 
 
 > **Links Úteis**:
