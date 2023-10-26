@@ -10,19 +10,18 @@ No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utiliz
 
 
 ### Menu Lateral Esquerdo
-A grande maioria das telas possui um menu na lateral esquerda da interface. Esse menu é uma ferramenta de navegação que permite aos usuários acessar diferentes categorias e retornar à tela inicial do aplicativo de forma rápida e intuitiva.
-
-
-<ul>
-<li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
-<li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
-<li>Font-size: 15px e 28px. </li>
-</ul> 
+A grande maioria das telas apresenta um menu localizado na lateral esquerda da interface. Este menu é uma valiosa ferramenta de navegação que possibilita aos usuários acessar diversas categorias e retornar à tela inicial do aplicativo de maneira ágil e intuitiva, conforme ilustrado na Figura 1 abaixo:
 
 <figure> 
   <img src="/documentos/img/menuLateral.jpg" width="150px"
     <figcaption>Figura 1 - Menu lateral </figcaption>
 </figure> 
+
+<ul>
+<li>Cor-fundo: #2f3540; whitesmoke, goldenrod e white;</li>
+<li>Font-family:</li>
+<li>Fonte: "Roboto", sans-serif;
+</ul> 
 
 
 ### Opção de Login
