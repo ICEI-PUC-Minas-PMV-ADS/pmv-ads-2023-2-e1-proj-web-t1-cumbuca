@@ -26,7 +26,7 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 
 
 ### Opção de login
-Em muitas das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade. Além disso, na tela superior, há quatro ícones essenciais: um ícone de saída, um de mensagem e informações recebidas, outro de notificação e, agora, o de login, que facilitam a interação e a navegação dentro do aplicativo web
+Em muitas das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade. Além disso, na tela superior, há quatro ícones essenciais: um ícone de saída, um de mensagem e informações recebidas, outro de notificação e o de login, que facilitam a interação e a navegação dentro do aplicativo web.
 
 >####
 <ul>
