@@ -37,10 +37,10 @@ Em muitas das telas, encontra-se uma opção de login no canto superior direito.
 
 >####
 <ul>
-<li>Cor de fundo: RGB: #2f3540;
-> - [ícones da tela](https://br.freepik.com/search?format=search&query=icons)
-   
+<li>Cor de fundo: RGB: #2f3540; 
+<li>Ícones da tela: <a href="https://br.freepik.com/search?format=search&query=icons">'Freepick'</a> 
 </ul>
+
 
 
 ## Composição geral das Funcionalidade Uniformes
