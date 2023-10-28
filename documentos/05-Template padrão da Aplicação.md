@@ -55,7 +55,7 @@ Essa uniformidade facilita a navegação, uma vez que os usuários sempre encont
 
 > **Links Úteis**:
 >
-> - [tela ínicial](codigo-fonte/index.html)
+> - [Tela ínicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/codigo-fonte/index.html)
 > - [Freepick](https://br.freepik.com/)
-> - [Bibliográfia](https://matthewjamestaylor.com/perfect-liquid-layouts)
+> - [Referências Bibliográficas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/09-Refer%C3%AAncias%20Bibliogr%C3%A1ficas.md)
 
