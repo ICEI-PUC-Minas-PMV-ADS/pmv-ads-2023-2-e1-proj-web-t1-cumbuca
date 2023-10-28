@@ -1,6 +1,6 @@
 # Template padrão da Aplicação
 
-No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utilização das linguagens de marcação HTML e CSS. Essa abordagem assegura que o site exiba uma aparência e funcionalidade uniformes.
+No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utilização das linguagens de marcação HTML e CSS. Essa abordagem assegura que o site exiba uma aparência e funcionalidades uniformes.
 
 É importante notar que a maioria das telas no aplicativo "Cumbuca" compartilha características em comum, o que contribui para uma experiência de usuário coesa. Estes elementos comuns são fundamentais para proporcionar uma navegação consistente e familiar aos usuários.
 
