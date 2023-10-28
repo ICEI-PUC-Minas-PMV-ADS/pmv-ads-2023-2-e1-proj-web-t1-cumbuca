@@ -28,17 +28,19 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 ### Opção de login
 Em muitas das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade. Além disso, na tela superior, há quatro ícones essenciais: um ícone de saída, um de mensagem e informações recebidas, outro de notificação e o de login, que facilitam a interação e a navegação dentro do aplicativo web.
 
->####
-<ul>
-<li>Cores: RGB: #3E497A, whitesmoke, goldenrod e white;</li>
-<li>Font-family: Arial, Helvetica, sans-serif e cursive.</li>
-<li>Font-size: 15px e 28px. </li>
-</ul>
+
 
 <figure> 
   <img src="/documentos/img/menuAcesso.png" width="200px" 
     <figcaption>Figura 2 - Opções de Login </figcaption>
 </figure> 
+
+>####
+<ul>
+<li>Cor de fundo: RGB: #2f3540;
+> - [ícones da tela](https://br.freepik.com/search?format=search&query=icons)
+   
+</ul>
 
 
 ## Composição geral das Funcionalidade Uniformes
