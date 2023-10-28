@@ -56,6 +56,6 @@ Essa uniformidade facilita a navegação, uma vez que os usuários sempre encont
 > **Links Úteis**:
 >
 > - [tela ínicial](codigo-fonte/index.html)
-> - [Freepick]([http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/](https://br.freepik.com/))
+> - [Freepick](https://br.freepik.com/)
 > - [Bibliográfia](https://matthewjamestaylor.com/perfect-liquid-layouts)
 
