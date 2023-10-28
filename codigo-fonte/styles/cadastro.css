@@ -1,72 +1,62 @@
-.fundo{
-        background: var(--cor-fundo);
-        background-image: url(../assets/background.svg);
-        background-position: fixed;
-        font-family: var(--fonte);
-        font-size:16px;
-    
+@import url("./style.css");
+
+.fundo {
+  background: var(--cor-fundo);
+  background-image: url(../assets/background.svg);
+  background-position: fixed;
+  font-family: var(--fonte);
+  font-size: 16px;
 }
 
-.cadastro{
-    position: relative;
-    min-height: 100vh;
+.cadastro {
+  position: relative;
+  min-height: 100vh;
 }
 
-*{
-    margin:0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.cadastro__container{
-    display: flex;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translateY(-50%) translateX(-50%);
-    text-align: center;
-    
-}
-
-.cadastro__img-container{
-    padding: 0 2em;
+.cadastro__container {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  text-align: center;
 }
 
-.cadastro__form{
-    display: inline-flex;
-    flex-direction: column;
-    width: 30vw;
-    margin: 1em;
+.cadastro__img-container {
+  padding: 0 2em;
 }
 
-.cadastrar{
-    background-color:var(--verde) ;
+.cadastro__form {
+  display: inline-flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 1em;
+  gap: 1rem;
 }
 
-.cancelar{
-    background-color: var(--vermelho);
-    text-decoration: none;
+.cadastro__form > input {
+  padding: 12px;
+  border-radius: 20px;
 }
 
-@media screen and (max-width: 768px){
+.cadastrar {
+  background-color: var(--verde);
+  border-radius: 15px;
+  padding: 0.5rem;
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+}
 
-    .cadastro{
-        justify-content: center;
-    }
-
-    .cadastro__container{
-        display: block;
-        text-align: center;
-    
-        width:80vw;
-    }
-    .cadastro__img-container{
-        justify-content: center;
-
-    }
-
-    .cadastro__form{
-        
-        width: 80vw;
-        margin: 1em;
-    }
-
+.cancelar {
+  background-color: var(--vermelho);
+  text-decoration: none;
+  border-radius: 15px;
+  padding: 0.5rem;
+  color: #fff;
 }
