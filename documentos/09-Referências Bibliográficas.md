@@ -7,4 +7,4 @@ relacionada ao tópico em questão, permitindo uma exploração mais aprofundada
 
 
 
-> - Freepick ícones vetorizados. Disponível em:<https://br.freepik.com/search?format=search&query=%C3%ADcones&type=vector>. Acesso em: 27 out. 2023.
+> - Freepick. ícones vetorizados. Disponível em:<https://br.freepik.com/search?format=search&query=%C3%ADcones&type=vector>. Acesso em: 27 out. 2023.
