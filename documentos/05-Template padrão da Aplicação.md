@@ -43,9 +43,9 @@ Em muitas das telas, encontra-se uma opção de login no canto superior direito.
 
 
 
-## Composição geral das Funcionalidade Uniformes
+## Composição Uniforme
 
-(texto padrão)
+Essa uniformidade facilita a navegação, uma vez que os usuários sempre encontram os elementos familiares em locais previsíveis, tornando a interação mais intuitiva e agradável. A composição uniforme contribui para uma identidade visual sólida e ajuda a construir a confiança dos usuários, tornando o site mais eficiente e amigável.
 
 <figure> 
   <img src="/documentos/img/ComposicaoGearl.png" width="1000px"
@@ -55,7 +55,7 @@ Em muitas das telas, encontra-se uma opção de login no canto superior direito.
 
 > **Links Úteis**:
 >
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+> - [tela ínicial](codigo-fonte/index.html)
+> - [Freepick]([http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/](https://br.freepik.com/))
+> - [Bibliográfia](https://matthewjamestaylor.com/perfect-liquid-layouts)
+
