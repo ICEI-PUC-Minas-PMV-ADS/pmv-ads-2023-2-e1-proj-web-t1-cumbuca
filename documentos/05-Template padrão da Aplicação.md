@@ -9,7 +9,7 @@ No aplicativo Web "Cumbuca", o layout padrão do site foi concebido com a utiliz
 
 
 
-### Menu Lateral Esquerdo
+### Menu lateral esquerdo
 A grande maioria das telas apresenta um menu localizado na lateral esquerda da interface. Este menu é uma valiosa ferramenta de navegação que possibilita aos usuários acessar diversas categorias e retornar à tela inicial do aplicativo de maneira ágil e intuitiva, conforme ilustrado na Figura 1 abaixo:
 
 <figure> 
@@ -25,7 +25,7 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 </ul> 
 
 
-### Opção de Login
+### Opção de login
 Na maior parte das telas, encontra-se uma opção de login no canto superior direito. Isso garante que o processo de autenticação seja acessível e direto, permitindo que os usuários acessem suas contas ou perfis com facilidade.
 
 >####
