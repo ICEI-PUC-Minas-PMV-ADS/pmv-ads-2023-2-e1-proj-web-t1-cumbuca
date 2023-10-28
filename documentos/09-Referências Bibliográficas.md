@@ -4,4 +4,4 @@ relacionada ao tópico em questão, permitindo uma exploração mais aprofundada
 
 > **Links Úteis**:
 > - TERRA. Pesquisa mostra que 61% dos brasileiros não gostam de cozinhar. Disponível em: <https://www.terra.com.br/vida-e-estilo/culinaria/pesquisa-mostra-que-61-dos-brasileiros-nao-gostam-de-cozinhar,aecd2789c726b310VgnVCM3000009acceb0aRCRD.html>. Acesso em: 27 ago. 2023.
-> - Freepick. ícones fetorizados. Disponível em:<https://br.freepik.com/search?format=search&query=%C3%ADcones&type=vector>. Acesso em: 27 out. 2023.
+> - Freepick ícones vetorizados. Disponível em:<https://br.freepik.com/search?format=search&query=%C3%ADcones&type=vector>. Acesso em: 27 out. 2023.
