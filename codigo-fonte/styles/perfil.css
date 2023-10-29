@@ -1,5 +1,39 @@
 @import url("./style.css");
 
+.conteudoPrincipalUser {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerUser {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+  gap: 1rem;
+  width: 40%;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.receitasUserPerfil {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem 2rem;
+}
+
+@media (max-width: 814px) {
+  .headerUser {
+    width: 70%;
+  }
+
+  .receitasUserPerfil {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media (max-width: 698px) {
   .container__lateral {
     width: 100%;
@@ -53,5 +87,18 @@
     padding: 0.4em;
     background-color: var(--cinza);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .headerUser {
+    width: 70%;
+    gap: 2rem;
+  }
+
+  .headerUser > img {
+    width: 120px;
+  }
+
+  .receitasUserPerfil {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
