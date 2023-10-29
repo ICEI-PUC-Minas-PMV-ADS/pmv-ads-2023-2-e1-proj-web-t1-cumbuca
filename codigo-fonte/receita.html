@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cumbuca</title>
-    <link rel="stylesheet" href="./styles/style.css" />
+    <link rel="stylesheet" href="./styles/receita.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -19,25 +19,182 @@
       </nav>
     </aside>
     <main class="conteudo">
-        <div clas="menu__navegacao">
-            <div class="menu__icone">
-              <img src="./assets/Exit.svg" class="icone__botao" /></li>
-              <img src="./assets/mensagem.svg" class="icone__botao" /></li>
-              <img src="./assets/sininho.svg" class="icone__botao" /></li> 
-              <img src="./assets/Avatar.svg" class="icone__botao avatar" /> 
-            </div>
-          </div>
+      <div clas="menu__navegacao">
+        <div class="menu__icone">
+          <img src="./assets/Exit.svg" class="icone__botao" />
+          <img src="./assets/mensagem.svg" class="icone__botao" />
+          <img src="./assets/sininho.svg" class="icone__botao" />
+          <a href="./perfil.html"
+            ><img src="./assets/Avatar.svg" class="icone__botao avatar"
+          /></a>
+        </div>
+      </div>
       <section class="receitas">
         <div class="container__menu">
-            <input
-              type="search"
-              class="pesquisa"
-              placeholder="Qual sua proxima receita?"
-            />
+          <input
+            type="search"
+            class="pesquisa"
+            placeholder="Qual sua proxima receita?"
+          />
+        </div>
+      </section>
+      <section class="principal-receita">
+        <img src="./assets/receita/capaReceita.svg" alt="capa-recceita" />
+        <div class="infos-receita">
+          <div class="rating-receita">
+            <iconify-icon
+              icon="mingcute:chicken-fill"
+              class="icon"
+            ></iconify-icon>
+            <iconify-icon
+              icon="mingcute:chicken-fill"
+              class="icon"
+            ></iconify-icon>
+            <iconify-icon
+              icon="mingcute:chicken-fill"
+              class="icon"
+            ></iconify-icon>
+            <iconify-icon
+              icon="mingcute:chicken-fill"
+              class="icon"
+            ></iconify-icon>
+            <iconify-icon
+              icon="mingcute:chicken-fill"
+              class="icon"
+            ></iconify-icon>
           </div>
+          <div class="infos-user-receita">
+            <p>Beatriz Aparecida</p>
+            <img src="./assets/Avatar.svg" class="icone__botao avatar" />
+          </div>
+        </div>
+        <div class="title-options">
+          <div class="title-options-more">
+            <div class="title-text">
+              <h2>Feijoada Saborosa</h2>
+            </div>
+            <button id="mostrarBtn">
+              <img
+                src="./assets/receita/show-more 1show-more.png"
+                alt="show-more"
+                id="show-more"
+              />
+            </button>
+          </div>
+          <div class="title-options-hug">
+            <img src="./assets/receita/ediçãohug.png" alt="edicao" />
+          </div>
+        </div>
+        <div class="mostrar" id="valores">
+          <div class="resumo-ingredientes">
+            <div class="resumo">
+              <h3>Resumo:</h3>
+              <p class="fc-format">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book.
+              </p>
+            </div>
+            <div class="ingredientes">
+              <h4>Ingredientes</h4>
+              <ul class="fc-format">
+                <li>Feijão</li>
+                <li>Rabo de porco</li>
+                <li>Pé de porco</li>
+                <li>Orelha de porco</li>
+                <li>Couve</li>
+                <li>Laranja</li>
+                <li>Folha de Louro</li>
+                <li>Linguiça</li>
+              </ul>
+            </div>
+          </div>
+          <div class="modo-preparo-coments">
+            <div class="resumo">
+              <h3>Modo de Preparo:</h3>
+              <p class="fc-format">
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book. It has
+                survived not only five centuries, but also the leap into
+                electronic typesetting, remaining essentially unchanged. It was
+                popularised in the 1960s with the release of Letraset sheets
+                contain.
+              </p>
+            </div>
+            <div class="coments-container">
+              <div class="title-coments">
+                <h2>Comentários</h2>
+              </div>
+              <div class="comments">
+                <div class="comentar-container">
+                  <textarea
+                    name="comentar"
+                    id="comentar"
+                    cols="36"
+                    rows="5"
+                    placeholder="Comentar"
+                    maxlength="50"
+                  ></textarea>
+                  <img
+                    src="./assets/receita/plano.png"
+                    alt="enviarMsg"
+                    id="enterMsg"
+                  />
+                  <p id="texto-contador"><span id="contador">0</span>/50</p>
+                </div>
+                <div class="comentarios">
+                  <div class="userComents">
+                    <img
+                      src="./assets/Avatar.svg"
+                      class="icone__botao avatar"
+                    />
+                    <input
+                      type="text"
+                      name="comentarioUser"
+                      class="comentarioUser"
+                      value="sensacional"
+                      disabled
+                    />
+                  </div>
+                  <div class="userComents">
+                    <img
+                      src="./assets/Avatar.svg"
+                      class="icone__botao avatar"
+                    />
+                    <input
+                      type="text"
+                      name="comentarioUser"
+                      class="comentarioUser"
+                      value="sensacional"
+                      disabled
+                    />
+                  </div>
+                  <div class="userComents">
+                    <img
+                      src="./assets/Avatar.svg"
+                      class="icone__botao avatar"
+                    />
+                    <input
+                      type="text"
+                      name="comentarioUser"
+                      class="comentarioUser"
+                      value="sensacional!!!"
+                      disabled
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
     </main>
-
+ 
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="./src/script.js"></script>
   </body>
 </html>
+ 
