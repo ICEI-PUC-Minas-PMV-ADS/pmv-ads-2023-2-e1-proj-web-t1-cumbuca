@@ -19,6 +19,7 @@ form.addEventListener("submit", async (ev) => {
 
 async function validarConta(nome, senha) {
   const response = await fetch("http://localhost:3000/accounts");
+
   const contas = await response.json();
 
   const contaEncontrada = contas.find(
