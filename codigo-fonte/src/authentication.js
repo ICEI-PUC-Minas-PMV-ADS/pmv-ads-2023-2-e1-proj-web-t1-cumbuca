@@ -10,7 +10,8 @@ form.addEventListener("submit", async (ev) => {
 
   validarConta(userData.nome, userData.senha)
     .then((res) => {
-      window.location.href = "http://127.0.0.1:5500/codigo-fonte/index.html";
+      window.location.href =
+        "https://pmv-ads-2023-2-e1-proj-web-t1-cumbuca.vercel.app/";
     })
     .catch((err) => {
       alert(err);
@@ -18,17 +19,18 @@ form.addEventListener("submit", async (ev) => {
 });
 
 async function validarConta(nome, senha) {
-  const response = await fetch("http://localhost:3000/accounts");
-
+  const response = await fetch("./src/db.json");
   const contas = await response.json();
 
-  const contaEncontrada = contas.find(
+  const contasArr = contas.accounts;
+
+  const validacao = contasArr.find(
     (conta) => conta.nome === nome && conta.senha === senha
   );
 
-  if (contaEncontrada) {
-    return "Contra encontrada";
+  if (validacao) {
+    return true;
   } else {
-    return Promise.reject("Conta nao encontrada");
+    return Promise.reject("Dados informados incorretos");
   }
 }
