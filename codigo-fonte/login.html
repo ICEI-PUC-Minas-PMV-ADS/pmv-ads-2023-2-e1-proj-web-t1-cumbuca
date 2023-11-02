@@ -1,33 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cumbuca</title>
-    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/style.css" />
     <link rel="stylesheet" href="./styles/login.css" />
-</head>
-<body class="fundo">
+  </head>
+  <body class="fundo">
     <section class="login">
-        <div class="login__container">
-
-            <div class="img__container">
-                <img src="./assets/logo.png" alt="logo cumbuca" class="avatar">
-            </div>
-
-            <form action="#" method="post">
-
-                <div class="container">
-                    <input type="text" placeholder="Usuario" name="usuario" required>
-                    <input type="password" placeholder="Senha" name="senha" required>
-                </div>
-
-                <div class="botoes">
-                    <a href="./cadastro.html" class="form__botao cadastrese">Cadastrar</a>
-                    <button type="submit" class="form__botao entrar">Entrar</button>
-                </div>
-            </form>
+      <div class="login__container">
+        <div class="img__container">
+          <img src="./assets/logo.png" alt="logo cumbuca" class="avatar" />
         </div>
+
+        <form action="http://localhost:3000/accounts" method="post">
+          <div class="container">
+            <input
+              type="text"
+              placeholder="Usuario"
+              name="usuario"
+              id="userName"
+              required
+            />
+            <input
+              type="password"
+              placeholder="Senha"
+              name="senha"
+              id="userPass"
+              required
+            />
+          </div>
+
+          <div class="botoes">
+            <a href="./cadastro.html" class="form__botao cadastrese"
+              >Cadastrar</a
+            >
+            <button type="submit" class="form__botao entrar">Entrar</button>
+          </div>
+        </form>
+      </div>
     </section>
-</body>
+
+    <script src="./src/authentication.js"></script>
+  </body>
 </html>
