@@ -29,7 +29,7 @@ async function validarConta(nome, senha) {
   );
 
   if (validacao) {
-    return true;
+    return validacao;
   } else {
     return Promise.reject("Dados informados incorretos");
   }
