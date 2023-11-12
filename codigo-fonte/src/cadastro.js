@@ -47,5 +47,5 @@ form.addEventListener("submit", (ev) => {
   localStorage.setItem("contas", JSON.stringify(accounts));
 
   form.reset();
-  location.href = "http://127.0.0.1:5500/codigo-fonte/login.html";
+  location.href = "../codigo-fonte/login.html";
 });

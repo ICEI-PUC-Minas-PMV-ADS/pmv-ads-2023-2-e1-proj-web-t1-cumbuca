@@ -19,5 +19,6 @@ form.addEventListener("submit", async (ev) => {
     return;
   }
 
-  location.href = "https://pmv-ads-2023-2-e1-proj-web-t1-cumbuca.vercel.app/";
+  localStorage.setItem("userLogado", JSON.stringify(email.value));
+  location.href = "../codigo-fonte/index.html";
 });
