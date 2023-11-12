@@ -24,7 +24,15 @@ form.addEventListener("submit", (ev) => {
     )
   ) {
     alert("Já existe um cadastro com esse e-mail");
-    email.focus;
+    email.focus();
+    return;
+  }
+
+  let re = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  if (!re.test(email.value)) {
+    alert("O formato do email está errado");
+    email.focus();
     return;
   }
 
@@ -41,4 +49,5 @@ form.addEventListener("submit", (ev) => {
   localStorage.setItem("contas", JSON.stringify(accounts));
 
   form.reset();
+  location.href = "http://127.0.0.1:5500/codigo-fonte/login.html";
 });
