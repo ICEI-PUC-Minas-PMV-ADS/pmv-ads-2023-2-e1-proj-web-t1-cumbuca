@@ -96,6 +96,7 @@ body {
 
 .receita__card {
   width: 390px;
+
 }
 
 .card__img {
@@ -112,7 +113,17 @@ body {
 }
 
 .icon {
-  height: 1.5em;
+  height: 3rem;
+}
+
+.icon__selected {
+
+  color: rgb(253, 6, 6);
+}
+button:not(.icon) {
+  /* Adicione aqui os estilos para botões que não possuem a classe icon__selected */
+  background-color: #ccc; /* Substitua isso pelo estilo desejado */
+  color: #333;
 }
 
 @media (max-width: 902px) {
@@ -186,4 +197,5 @@ body {
     background-color: var(--cinza);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+
 }
