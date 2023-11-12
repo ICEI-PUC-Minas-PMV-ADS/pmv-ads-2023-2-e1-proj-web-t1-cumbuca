@@ -1,36 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cumbuca</title>
-    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/style.css" />
     <link rel="stylesheet" href="./styles/cadastro.css" />
-</head>
-<body class="fundo">
+  </head>
+  <body class="fundo">
     <main class="cadastro">
-        <div class="cadastro__container">
-
-            <div class="cadastro__img-container">
-                <img src="./assets/logo.png" alt="logo cumbuca" class="avatar">
-            </div>
-
-            <form action="#" method="post">
-
-                <div class="cadastro__form">
-                    <input type="text" placeholder="Email" name="email" required>
-                    <input type="text" placeholder="Nome" name="nome" required>
-                    <input type="password" placeholder="Senha" name="senha" required>
-                    <input type="password" placeholder="Senha" name="senha" required>
-                </div>
-
-                <div class="botoes">
-                    <a href="./login.html" class="form__botao cancelar">Cancelar</a>
-                    <button type="submit" class="form__botao cadastrar">Cadastrar</button>
-                </div>
-
-            </form>
+      <div class="cadastro__container">
+        <div class="cadastro__img-container">
+          <img src="./assets/logo.png" alt="logo cumbuca" class="avatar" />
         </div>
+
+        <form action="#" method="post">
+          <div class="cadastro__form">
+            <input
+              type="text"
+              placeholder="Email"
+              name="email"
+              id="email"
+              required
+            />
+            <input
+              type="text"
+              placeholder="Nome"
+              name="nome"
+              id="name"
+              required
+            />
+            <input
+              type="password"
+              placeholder="Senha"
+              name="senha"
+              id="pass"
+              required
+            />
+            <input
+              type="password"
+              placeholder="Repetir senha"
+              name="repeatPass"
+              id="repeatPass"
+              required
+            />
+          </div>
+
+          <div class="botoes">
+            <a href="./login.html" class="form__botao cancelar">Cancelar</a>
+            <button type="submit" class="form__botao cadastrar">
+              Cadastrar
+            </button>
+          </div>
+        </form>
+      </div>
+
+      <script src="./src/cadastro.js"></script>
     </main>
-</body>
+  </body>
 </html>
