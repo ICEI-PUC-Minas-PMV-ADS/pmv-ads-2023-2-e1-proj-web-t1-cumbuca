@@ -1,12 +1,10 @@
 const form = document.querySelector("form");
 
 class Account {
-  #senha;
-
   constructor(email, nome, senha) {
     this.email = email;
     this.nome = nome;
-    this.#senha = senha;
+    this.senha = senha;
   }
 }
 

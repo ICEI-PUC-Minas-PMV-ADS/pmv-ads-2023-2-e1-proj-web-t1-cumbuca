@@ -3,34 +3,21 @@ const form = document.querySelector("form");
 form.addEventListener("submit", async (ev) => {
   ev.preventDefault();
 
-  const userData = {
-    nome: document.querySelector("#userName").value,
-    senha: document.querySelector("#userPass").value,
-  };
+  const logins = JSON.parse(localStorage.getItem("contas"));
+  const email = document.querySelector("#email");
+  const pass = document.querySelector("#userPass");
 
-  validarConta(userData.nome, userData.senha)
-    .then((res) => {
-      window.location.href =
-        "https://pmv-ads-2023-2-e1-proj-web-t1-cumbuca.vercel.app/";
-    })
-    .catch((err) => {
-      alert(err);
-    });
-});
-
-async function validarConta(nome, senha) {
-  const response = await fetch("./src/db.json");
-  const contas = await response.json();
-
-  const contasArr = contas.accounts;
-
-  const validacao = contasArr.find(
-    (conta) => conta.nome === nome && conta.senha === senha
-  );
-
-  if (validacao) {
-    return validacao;
+  if (logins.find((conta) => conta.email === email.value)) {
+    if (!logins.find((conta) => conta.senha === pass.value)) {
+      alert("Senha incorreta");
+      pass.focus();
+      return;
+    }
   } else {
-    return Promise.reject("Dados informados incorretos");
+    alert("Conta nao existe");
+    email.focus();
+    return;
   }
-}
+
+  location.href = "https://pmv-ads-2023-2-e1-proj-web-t1-cumbuca.vercel.app/";
+});
