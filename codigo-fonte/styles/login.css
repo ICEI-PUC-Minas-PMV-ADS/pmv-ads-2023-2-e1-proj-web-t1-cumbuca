@@ -75,3 +75,7 @@ input[type=text], input[type=password]{
         width:70%;
     }
 }
+.icon__selected {
+
+    color: rgb(253, 6, 6);
+  }
