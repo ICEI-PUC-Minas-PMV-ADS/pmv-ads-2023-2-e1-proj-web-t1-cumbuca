@@ -3,7 +3,7 @@ function countingClicks() {
     debugger
     var contadora = document.getElementById("counting")
     contadora.innerHTML = ++counter
-   // document.getElementById("botao").disabled = true;
+       document.getElementById("curtida_botao").disabled = true; //Assim cada loging cadatrado fará apenas uma curtida no post da receita - "true/false"
 AdicionaCor();
  
 
