@@ -116,10 +116,11 @@ body {
   height: 3rem;
 }
 
-.icon__selected {
+/*.icon__selected {
+ color: rgb(253, 6, 6);*//*Mudança de pasta CSS - Adicionei esse Style na pasta de CSS LOGIN.CSS  
 
-  color: rgb(253, 6, 6);
-}
+}*/
+
 button:not(.icon) {
   /* Adicione aqui os estilos para botões que não possuem a classe icon__selected */
   background-color: #ccc; /* Substitua isso pelo estilo desejado */
