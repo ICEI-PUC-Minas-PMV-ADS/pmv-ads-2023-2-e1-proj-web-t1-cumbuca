@@ -77,7 +77,7 @@ input[type=text], input[type=password]{
 }
 .icon__selected {
 
-    color: rgb(253, 6, 6);
+    color: rgb(255, 136, 0);
   }
 #curtida_botao{
     padding-top:10% ;
