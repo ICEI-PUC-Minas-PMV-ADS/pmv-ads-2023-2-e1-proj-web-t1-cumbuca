@@ -24,6 +24,81 @@
   gap: 1rem 2rem;
 }
 
+.sectionPub {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+#addNew {
+  padding: 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid var(--laranja);
+  transition: all 0.4s;
+}
+
+#addNew:hover {
+  background-color: var(--laranja);
+  color: var(--branco);
+}
+
+.publicaReceita {
+  display: none;
+  position: unset;
+  top: 50%;
+  left: 55%;
+  width: 50%;
+  height: 70%;
+  transform: translate(-50%, -50%);
+  background-color: var(--cinza-medio);
+  box-shadow: 4px 6px 8px var(--cinza-medio-escuro);
+  z-index: 1; /* Coloque o conteúdo à frente do fundo embaçado */
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px 6px;
+}
+
+#tituloReceita {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.publicaReceita,
+label {
+  color: var(--laranja);
+}
+
+.publicaReceita input {
+  padding: 0.2rem;
+  border: none;
+  border-radius: 6px;
+}
+
+.publicaReceita input:focus {
+  outline: none;
+}
+
+#optionsBtn {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#optionsBtn > button {
+  padding: 0.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  border: 1px solid var(--laranja);
+  transition: all 0.4s;
+}
+
+#optionsBtn > button:hover {
+  background-color: var(--laranja);
+  color: var(--branco);
+}
+
 @media (max-width: 814px) {
   .headerUser {
     width: 70%;

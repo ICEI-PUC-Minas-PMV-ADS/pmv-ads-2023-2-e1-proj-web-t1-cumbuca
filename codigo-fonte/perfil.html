@@ -41,6 +41,9 @@
             <a href="./receita.html"><img src="./assets/perfil/perfil 2perfilUser.svg" alt="prato"></a>
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley</p>
           </div>
+          <div class="sectionPub">
+            <button id="addNew">Publicar nova receita</button>
+          </div>
           <div class="receitasUserPerfil">
             <div class="cards">
               <a href="./receita.html"><img src="./assets/perfil/UnionprimeiroPrato.svg" alt="prato"></a>
@@ -268,10 +271,24 @@
               </div>
             </div>  
           </div>
+          
         </section>
       </section>
     </main>
 
+    <div class="publicaReceita">
+      <div id="tituloReceita">
+        <label for="receitaTitle">Nome da receita: </label>
+        <input type="text" id="receitaTitle" placeholder="Nome da receita">
+      </div>
+
+      <div id="optionsBtn">
+          <button id="postBtn">Postar</button>
+          <button id="cancelBtn">Cancelar</button>
+      </div>
+    </div>
+
     <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="./src/publicarReceita.js"></script>
   </body>
 </html>
