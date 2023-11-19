@@ -281,7 +281,23 @@
         <label for="receitaTitle">Nome da receita: </label>
         <input type="text" id="receitaTitle" placeholder="Nome da receita">
       </div>
-
+      <div id="meio">
+        <div id="left">
+          <div id="sectionResume">
+            <label for="resume">Resumo: </label>
+            <textarea name="resume" id="resume" cols="30" rows="10" minlength="10" maxlength="330" placeholder="Resumo da receita"></textarea>
+          </div>
+          <div id="sectionPreparo">
+            <label for="preparo">Modo de preparo: </label>
+            <textarea name="preparo" id="preparo" cols="30" rows="10" minlength="10" maxlength="330" placeholder="Modo de preparo"></textarea>
+          </div>
+        </div>
+        <div id="right">
+          <label for="ingredientes">Ingredientes: </label>
+          <textarea name="ingredientes" id="ingredientes" cols="30" rows="10" minlength="10" maxlength="330" placeholder="Ingredientes"></textarea>
+        </div>
+      </div>
+      
       <div id="optionsBtn">
           <button id="postBtn">Postar</button>
           <button id="cancelBtn">Cancelar</button>

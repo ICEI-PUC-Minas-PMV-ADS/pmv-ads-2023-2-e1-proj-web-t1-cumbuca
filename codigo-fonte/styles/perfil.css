@@ -54,11 +54,11 @@
   transform: translate(-50%, -50%);
   background-color: var(--cinza-medio);
   box-shadow: 4px 6px 8px var(--cinza-medio-escuro);
-  z-index: 1; /* Coloque o conteúdo à frente do fundo embaçado */
+  z-index: 1;
   border-radius: 15px;
-  display: flex;
   flex-direction: column;
   padding: 15px 6px;
+  justify-content: space-between;
 }
 
 #tituloReceita {
@@ -83,11 +83,13 @@ label {
 
 #optionsBtn {
   display: flex;
+  justify-content: center;
   gap: 0.5rem;
 }
 
 #optionsBtn > button {
   padding: 0.5rem;
+  width: 200px;
   border-radius: 6px;
   cursor: pointer;
   border: 1px solid var(--laranja);
@@ -97,6 +99,72 @@ label {
 #optionsBtn > button:hover {
   background-color: var(--laranja);
   color: var(--branco);
+}
+
+#meio {
+  display: flex;
+  justify-content: space-around;
+}
+
+#left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#right {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#ingredientes {
+  resize: none;
+  padding: 0.3rem;
+  padding: 0.2rem;
+  border: none;
+  border-radius: 6px;
+  height: 100%;
+}
+
+#ingredientes:focus {
+  outline: none;
+}
+
+#sectionResume {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#resume {
+  resize: none;
+  padding: 0.3rem;
+  padding: 0.2rem;
+  border: none;
+  border-radius: 6px;
+}
+
+#resume:focus {
+  outline: none;
+}
+
+#sectionPreparo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+#preparo {
+  resize: none;
+  padding: 0.3rem;
+  padding: 0.2rem;
+  border: none;
+  border-radius: 6px;
+}
+
+#preparo:focus {
+  outline: none;
 }
 
 @media (max-width: 814px) {
