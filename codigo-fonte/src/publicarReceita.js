@@ -15,14 +15,40 @@ addNewBtn.addEventListener("click", () => {
   divPub.style.position = "absolute";
 });
 
-addItemIng.addEventListener("click", () => {
+ingredientes.addEventListener("keydown", (ev) => {
+  if (ev.key === "Enter") {
+    ev.preventDefault();
+    adicionarItem();
+  }
+});
+
+function adicionarItem() {
   const item = ingredientes.value;
 
   if (item === "") {
     alert("Deve ser preenchido um item");
     ingredientes.focus();
+    return;
   }
-});
+
+  if (item.length < 2) {
+    alert("Deve conter pelo menos duas letras");
+    ingredientes.focus();
+    return;
+  }
+
+  const listaInp = document.querySelector("#listaInp");
+
+  const newItem = document.createElement("li");
+  newItem.innerText = item;
+  newItem.classList.add("itemIngrediente");
+
+  listaInp.appendChild(newItem);
+
+  ingredientes.value = "";
+}
+
+addItemIng.addEventListener("click", adicionarItem);
 
 cancelBtn.addEventListener("click", () => {
   const divPub = document.querySelector(".publicaReceita");
@@ -31,12 +57,17 @@ cancelBtn.addEventListener("click", () => {
   const resumo = document.querySelector("#resume");
   const preparo = document.querySelector("#preparo");
   const ingredientes = document.querySelector("#ingredientes");
+  const listaInp = document.querySelector("#listaInp");
 
   titulo.value = "";
   fotoReceita.value = "";
   resumo.value = "";
   preparo.value = "";
   ingredientes.value = "";
+
+  while (listaInp.firstChild) {
+    listaInp.removeChild(listaInp.firstChild);
+  }
 
   divPub.style.display = "none";
   divPub.style.position = "unset";
