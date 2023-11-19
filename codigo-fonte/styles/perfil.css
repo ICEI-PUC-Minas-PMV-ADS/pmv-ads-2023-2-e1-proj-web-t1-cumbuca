@@ -84,6 +84,7 @@ label {
 #cebecalhoPub {
   display: flex;
   gap: 1rem;
+  align-items: center;
 }
 
 #optionsBtn {
@@ -123,13 +124,37 @@ label {
   gap: 0.5rem;
 }
 
+#inputIngredientes {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  position: relative;
+  height: 15%;
+}
+
 #ingredientes {
   resize: none;
   padding: 0.3rem;
-  padding: 0.2rem;
   border: none;
   border-radius: 6px;
-  height: 100%;
+  align-items: center;
+}
+
+#addItemIng {
+  position: absolute;
+  bottom: 6px;
+  right: 4px;
+  width: 30px;
+  border: 1px solid var(--laranja);
+  color: var(--laranja);
+  cursor: pointer;
+  transition: all 0.4s ease-in-out;
+  border-radius: 4px;
+}
+
+#addItemIng:hover {
+  background-color: var(--laranja);
+  color: var(--branco);
 }
 
 #ingredientes:focus {

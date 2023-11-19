@@ -301,9 +301,17 @@
           </div>
         </div>
         <div id="right">
-          <label for="ingredientes">Ingredientes: </label>
-          <textarea name="ingredientes" id="ingredientes" cols="30" rows="10" minlength="10" maxlength="330" placeholder="Ingredientes"></textarea>
+          <div id="inputIngredientes">
+            <label for="ingredientes">Ingredientes: </label>
+            <textarea name="ingredientes" id="ingredientes" cols="30" rows="10" minlength="2" maxlength="27" placeholder="Ingredientes">
+            </textarea>
+            <button id="addItemIng">+</button>
+          </div>
+          <div id="listaIngredientes">
+            <ul id="listaInp"></ul>
+          </div>
         </div>
+        
       </div>
       
       <div id="optionsBtn">
