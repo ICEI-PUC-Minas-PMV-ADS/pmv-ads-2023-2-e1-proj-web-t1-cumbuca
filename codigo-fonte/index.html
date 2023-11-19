@@ -76,7 +76,8 @@
                         <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__100"></iconify-icon>
 
                       </div>
-                      <img src="./assets/comentario.svg" />
+                      <button onclick="exibirComentario()"><img src="./assets/comentario.svg" /></button>
+                     
                     </div>
 
                     <p>
@@ -84,12 +85,78 @@
                       industry. Lorem Ipsum has been the industry's standard dummy text
                       ever since the 1500s, when an unknown printer took a galley
                     </p>
+                    <div id="btn__cometario" class="coments-container">
+                      <div class="title-coments1">
+                        <h2></h2>
+                      </div>
+                      <div class="comments">
+                        <div class="comentar-container">
+                          <textarea
+                            name="comentar"
+                            id="comentar"
+                            cols="36"
+                            rows="5"
+                            placeholder="Comentar"
+                            maxlength="50"
+                          ></textarea>
+                          <img
+                            src="./assets/receita/plano.png"
+                            alt="enviarMsg"
+                            id="enterMsg"
+                          />
+                          <p id="texto-contador"><span id="contador">0</span>/50</p>
+                        </div>
+                        <div class="comentarios">
+                          <div class="userComents">
+                            <img
+                              src="./assets/Avatar.svg"
+                              class="icone__botao avatar"
+                            />
+                            <input
+                              type="text"
+                              name="comentarioUser"
+                              class="comentarioUser"
+                              value="sensacional"
+                              disabled
+                            />
+                          </div>
+                          <div class="userComents">
+                            <img
+                              src="./assets/Avatar.svg"
+                              class="icone__botao avatar"
+                            />
+                            <input
+                              type="text"
+                              name="comentarioUser"
+                              class="comentarioUser"
+                              value="sensacional"
+                              disabled
+                            />
+                          </div>
+                          <div class="userComents">
+                            <img
+                              src="./assets/Avatar.svg"
+                              class="icone__botao avatar"
+                            />
+                            <input
+                              type="text"
+                              name="comentarioUser"
+                              class="comentarioUser"
+                              value="sensacional!!!"
+                              disabled
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                   </div>
+                  
     </section>
   </main>
 
   <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
   <script src="src/curtida.js"></script>
+  <script src="src/comentario.js"></script>
 </body>
 
 </html>
