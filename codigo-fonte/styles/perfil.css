@@ -81,6 +81,11 @@ label {
   outline: none;
 }
 
+#cebecalhoPub {
+  display: flex;
+  gap: 1rem;
+}
+
 #optionsBtn {
   display: flex;
   justify-content: center;
