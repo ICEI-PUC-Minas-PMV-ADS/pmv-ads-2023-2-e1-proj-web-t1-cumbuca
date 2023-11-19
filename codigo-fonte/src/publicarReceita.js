@@ -59,6 +59,14 @@ cancelBtn.addEventListener("click", () => {
   const ingredientes = document.querySelector("#ingredientes");
   const listaInp = document.querySelector("#listaInp");
 
+  const confirmacao = confirm(
+    "Tem certeza que deseja cancelar? Os dados serão perdidos"
+  );
+
+  if (!confirmacao) {
+    return;
+  }
+
   titulo.value = "";
   fotoReceita.value = "";
   resumo.value = "";
@@ -78,14 +86,14 @@ postBtn.addEventListener("click", () => {
   const fotoReceita = document.querySelector("#addImg");
   const resumo = document.querySelector("#resume");
   const preparo = document.querySelector("#preparo");
-  const ingredientes = document.querySelector("#ingredientes");
+  const listaInp = document.querySelector("#listaInp");
 
   if (
     titulo.value === "" ||
     fotoReceita.value === "" ||
     resumo.value === "" ||
     preparo.value === "" ||
-    ingredientes.value === ""
+    !listaInp.firstChild
   ) {
     alert("Todos os campos devem ser preenchidos");
     return;
