@@ -1,4 +1,4 @@
-var exibir = true
+var exibir = false
 function exibirComentario() {
    
     if (exibir) {

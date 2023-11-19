@@ -590,4 +590,8 @@ body {
     padding-left: 4px;
     box-shadow: 4px 6px 8px var(--cinza-medio-escuro);
   }
+
+}
+.remover__comentario{
+  display: none;
 }
