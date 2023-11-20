@@ -6,6 +6,14 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 |Caso de Teste    | CT-1 - Verificar a funcionalidade de registrar comentários |
 |:---|:---|
+| Requisitos Associados | RF-01	A aplicação deve permitir ao usuário cadastrar uma conta. |
+| Objetivo do Teste | Verificar se ao preencher os campos necessários para cadastro e clicar no botão "Cadastrar", é criada uma conta para o usuário. |
+| Passos | 1 - Na tela de acesso clicar no botão "Cadastrar";<br> 2 - Preencher os campos "Email", "Nome", "Senha" e "Repetir senha";<br> 3 - Clicar no botão "Cadastrar"|
+| Critérios de êxito | Ao preencher os campos necessários para cadastro e clicar em Cadastrar, o usuário deve ser redirecionado para a tela de acesso|
+| Responsável pela elaborar do caso de Teste | Kiane Ramalho |
+
+|Caso de Teste    | CT-5 - Verificar a funcionalidade de registrar comentários |
+|:---|:---|
 | Requisitos Associados | RF-05	A aplicação deve permitir ao usuário comentar nas receitas. |
 | Objetivo do Teste | Verificar se ao preencher o campo Comentários o comentário é publicado |
 | Passos | 1 - Acessar abas com as receitas publicadas onde contém o campo para comentários;<br> 2 - Clicar no icone de enviar comentário após escrever o comentário|
