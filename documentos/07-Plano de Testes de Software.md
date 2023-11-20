@@ -1,9 +1,5 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
-
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
-
 |Caso de Teste    | CT-1 - Verificar a funcionalidade de cadastrar uma conta. |
 |:---|:---|
 | Requisitos Associados | RF-01	A aplicação deve permitir ao usuário cadastrar uma conta. |
