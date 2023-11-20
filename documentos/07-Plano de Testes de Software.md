@@ -8,8 +8,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |:---|:---|
 | Requisitos Associados | RF-05	A aplicação deve permitir ao usuário comentar nas receitas. |
 | Objetivo do Teste | Verificar se ao preencher o campo Comentários o comentário é publicado |
-| Passos | 1 - Acessar abas com as receitas publicadas onde contém o campo para comentários;
-2 - Clicar no icone de enviar comentário após escrever o comentário|
+| Passos | 1 - Acessar abas com as receitas publicadas onde contém o campo para comentários; 2 - Clicar no icone de enviar comentário após escrever o comentário|
 | Critérios de êxito | Ao preencher o campo comentários e clicar em enviar, o comentário deve ser exibido abaixo  |
 | Responsável pela elaborar do caso de Teste | Kiane Ramalho |
  
