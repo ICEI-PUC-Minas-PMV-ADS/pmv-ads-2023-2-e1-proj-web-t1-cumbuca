@@ -7,7 +7,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 |Caso de Teste    | CT-X - Título Caso de Teste |
 |:---|:---|
 | Requisitos Associados | RF-X |
-| RF-05	A aplicação deve permitir ao usuário comentar nas receitas. |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
 | Critérios de êxito | Indicar os critérios de êxito  |
