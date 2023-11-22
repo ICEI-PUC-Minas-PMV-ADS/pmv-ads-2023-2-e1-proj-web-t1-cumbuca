@@ -1,24 +1,24 @@
---------------------RF-01	A aplicação deve permitir ao usuário cadastrar uma conta-------------------- 
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+### Tela de Cadastro (RF-001)
 
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
+<figure> 
+  <img src="/documentos/img/Cadastro.jpg" width="1000px"
+    <figcaption>Figura 1 - Tela de Cadastro</figcaption>
+</figure>
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-01 -	A aplicação deve permitir ao usuário cadastrar uma conta
 
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+cadastro.html
+cadastro.css
+cadastro.js
 
 #### Estrutura de Dados
 
@@ -27,15 +27,12 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t1-cumbuca/codigo-fonte/login.html
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
-
-
+Adrian Sodré
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
@@ -46,20 +43,23 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 
 --------------------A aplicação deve permitir ao usuário fazer o login da sua conta-------------------- 
-# Programação de Funcionalidades
 
 Implementação da aplicação descritas por meio dos requisitos codificados. 
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela de Login (RF-02)
 
-[Adicione imagem da funcionalidade/tela]
+
+<figure> 
+  <img src="/documentos/img/Cadastro.jpg" width="1000px"
+    <figcaption>Figura 2 - Tela de Login</figcaption>
+</figure>
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
 
 
 #### Artefatos da funcionalidade
