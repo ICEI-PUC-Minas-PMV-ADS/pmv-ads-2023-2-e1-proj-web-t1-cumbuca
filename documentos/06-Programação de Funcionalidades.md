@@ -1,7 +1,9 @@
 # Programação de Funcionalidades
 
+Este capítulo destaca as funcionalidades do projeto Cumbuca, enfocando como foram projetadas para atender às
+necessidades específicas dos usuários.
 
-### Tela de Cadastro (RF-001)
+### Tela de Cadastro (RF-01)
 
 <figure> 
   <img src="/documentos/img/Cadastro.jpg" width="1000px"
@@ -42,17 +44,11 @@ Adrian Sodré
 
 
 
---------------------A aplicação deve permitir ao usuário fazer o login da sua conta-------------------- 
-
-Implementação da aplicação descritas por meio dos requisitos codificados. 
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
 ### Tela de Login (RF-02)
 
 
 <figure> 
-  <img src="/documentos/img/Cadastro.jpg" width="1000px"
+  <img src="/documentos/img/Login.jpg" width="1000px"
     <figcaption>Figura 2 - Tela de Login</figcaption>
 </figure>
 
@@ -93,20 +89,19 @@ RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
 
 
 --------------------A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade-------------------- 
-# Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+### Tela de Categorias (RF-03)
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
+<figure> 
+  <img src="/documentos/img/Categorias.jpg" width="1000px"
+    <figcaption>Figura 2 - Tela de Login</figcaption>
+</figure>
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF - 03: A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade
 
 
 #### Artefatos da funcionalidade
@@ -139,21 +134,19 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 
 
---------------------A aplicação deve permitir ao usuário favoritar e salvar as receitas-------------------- 
-# Programação de Funcionalidades
+---------------------------------------- 
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+### Tela de Perfil (RF-04)
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
+<figure> 
+  <img src="/documentos/img/Perfil.jpg" width="1000px"
+    <figcaption>Figura 2 - Tela de Login</figcaption>
+</figure>
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF - 04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 
 
 #### Artefatos da funcionalidade
@@ -187,20 +180,14 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 
 --------------------A aplicação deve permitir ao usuário comentar nas receitas-------------------- 
-# Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
+### Tela da Inicial e Tela Inicial (RF-05)
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF - 05: A aplicação deve permitir ao usuário comentar nas receitas
 
 
 #### Artefatos da funcionalidade
@@ -240,7 +227,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela do Perfil (RF-06)
 
 [Adicione imagem da funcionalidade/tela]
 
@@ -287,14 +274,13 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 [Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
-### Título da funcionalidade
+### Tela do Perfil (RF-07)
 
-[Adicione imagem da funcionalidade/tela]
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
+RF - 07: A aplicação deve apresentar uma foto da receita
 
 
 #### Artefatos da funcionalidade
