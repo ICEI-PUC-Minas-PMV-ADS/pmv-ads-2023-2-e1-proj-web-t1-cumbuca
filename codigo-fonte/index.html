@@ -22,15 +22,26 @@
     <div clas="menu__navegacao">
       <div class="menu__icone">
         <a href="./login.html"><img src="./assets/Exit.svg" class="icone__botao" /></li></a>
-       <!-- <img src="./assets/mensagem.svg" class="icone__botao" /></li>
+       <!--  Botoes removidos 
+         <img src="./assets/mensagem.svg" class="icone__botao" /></li>
         <img src="./assets/sininho.svg" class="icone__botao" /></li>-->
         <a href="./perfil.html"><img src="./assets/Avatar.svg" class="icone__botao avatar" /></a>
       </div>
     </div>
     <section class="receitas">
+
       <div class="container__menu">
-        <input type="search" class="pesquisa" placeholder="Qual sua proxima receita?" />
+        <input type="text" id="search" class="pesquisa" placeholder="Qual sua proxima receita?" />
       </div>
+    </div>
+    <div class="results_container">
+      <ul class="results_list" id="list">
+
+      </ul>
+
+    </div>
+
+      
 
       <div class="receita__card">
         <img src="./assets/prato1.svg" class="card__img" />
@@ -156,6 +167,7 @@
   <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
   <script src="src/curtida.js"></script>
   <script src="src/comentario.js"></script>
+  <script src="index.js"></script>
   
 </body>
 
