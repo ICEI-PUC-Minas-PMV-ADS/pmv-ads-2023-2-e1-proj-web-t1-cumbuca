@@ -146,20 +146,34 @@ Abra um navegador de Internet:
 Kiane Ramalho
 
 
-## Tela de Perfil (RF-05)
+## Tela de Perfil e Tela Inicial (RF-05)
 
 <figure> 
   <img src="/documentos/img/comentario2.png" width="1000px"
     <figcaption>Figura 5 - Tela de Perfil</figcaption>
+</figure>
+<figure> 
+  <img src="/documentos/img/comentario1.png" width="1000px"
+    <figcaption>Figura 6 - Tela de Inicial</figcaption>
 </figure>
 
 #### Requisito atendido
 
 RF-05: A aplicação deve permitir ao usuário comentar nas receitas
 
-#### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+#### Artefatos da funcionalidade da tela de perfil
+<ul>
+  <li>perfil.html</li>
+  <li>perfil.css</li>
+  <li>publicarReceita.js</li>
+</ul>
+##### Artefatos da funcionalidade da tela de perfil
+<ul>
+  <li>index.html</li>
+  <li>style.css</li>
+  <li>comentario.js</li>
+</ul>
 
 #### Estrutura de Dados
 
@@ -167,7 +181,7 @@ RF-05: A aplicação deve permitir ao usuário comentar nas receitas
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet: 
 
 
 #### Responsável
@@ -182,19 +196,21 @@ Marcelly Maia e Adrian Sodré
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
+
 ## Tela de Perfil (RF-06)
-
-
 
 #### Requisito atendido
 
 RF-06: A aplicação deve permitir ao usuário postar sua própra receita.
 
-
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+<ul>
+  <li>perfil.html</li>
+  <li>style.css</li>
+  <li>perfil.css</li>
+  <li>publicarReceita.js</li>
+</ul>
 
 #### Estrutura de Dados
 
@@ -216,11 +232,14 @@ Adrian Sodré
 
 RF-07: A aplicação deve apresentar uma foto da receita
 
-
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
+<ul>
+  <li>perfil.html</li>
+  <li>style.css</li>
+  <li>perfil.css</li>
+  <li>publicarReceita.js</li>
+</ul>
 
 #### Estrutura de Dados
 
@@ -234,9 +253,7 @@ RF-07: A aplicação deve apresentar uma foto da receita
 
 #### Responsável
 
-Adrian Sodré e Bernardo Soutelo
-
-
+Adrian Sodré
 
 > **Links Úteis**:
 > - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
