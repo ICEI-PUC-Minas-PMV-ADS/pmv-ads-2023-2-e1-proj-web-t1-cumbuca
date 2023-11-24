@@ -21,11 +21,6 @@ RF-01: A aplicação deve permitir ao usuário cadastrar uma conta
   <li>Icadastro.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
 #### Instruções de acesso
 
 Abra um navegador de Internet: 
@@ -59,12 +54,6 @@ RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
   <li>authenticationLogin.js</li>
 </ul>
 
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
 #### Instruções de acesso
 
 Abra um navegador de Internet: 
@@ -90,7 +79,6 @@ Adrian Sodré
 
 RF-03: A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade
 
-
 #### Artefatos da funcionalidade
 
 <ul>
@@ -98,10 +86,6 @@ RF-03: A aplicação deve permitir ao usuário restringir a busca com base em in
   <li>categorias.css</li>
   <li>iconify-icon.min.js</li>
 </ul>
-
-#### Estrutura de Dados
-
-
 
 #### Instruções de acesso
 
@@ -129,12 +113,6 @@ RF-04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 #### Artefatos da funcionalidade
 
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
-
-
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
 
 #### Instruções de acesso
 
@@ -175,14 +153,10 @@ RF-05: A aplicação deve permitir ao usuário comentar nas receitas
   <li>comentario.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
 #### Instruções de acesso
 
-Abra um navegador de Internet: 
-
+Abra um navegador de Internet:  
+Após realizar o login, é possível interagir por meio de comentários nos posts, tanto na tela inicial quanto na seção de receitas do documento.
 
 #### Responsável
 
@@ -209,14 +183,9 @@ RF-06: A aplicação deve permitir ao usuário postar sua própra receita.
   <li>publicarReceita.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Após concluir o cadastro no perfil, é viável compartilhar uma receita juntamente com a foto correspondente, diretamente na tela do perfil
 
 
 #### Responsável
@@ -243,15 +212,9 @@ RF-07: A aplicação deve apresentar uma foto da receita
   <li>publicarReceita.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
-
+Após concluir o cadastro no perfil, é viável compartilhar uma receita juntamente com a foto correspondente, diretamente na tela do perfil
 
 #### Responsável
 
