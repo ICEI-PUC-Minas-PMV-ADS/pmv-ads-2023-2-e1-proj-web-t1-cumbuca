@@ -3,25 +3,24 @@
 Este capítulo destaca as funcionalidades do projeto Cumbuca, enfocando como foram projetadas para atender às
 necessidades específicas dos usuários.
 
-### Tela de Cadastro (RF-01)
+
+## Tela de Cadastro (RF-01)
 
 <figure> 
   <img src="/documentos/img/Cadastro.jpg" width="1000px"
     <figcaption>Figura 1 - Tela de Cadastro</figcaption>
 </figure>
 
-
 #### Requisito atendido
-
-RF-01 -	A aplicação deve permitir ao usuário cadastrar uma conta
-
+RF-01: A aplicação deve permitir ao usuário cadastrar uma conta
 
 #### Artefatos da funcionalidade
 <ul>
   <li>cadastro.html</li>
-  <li>cadastro.css/li>
+  <li>cadastro.css</li>
   <li>Icadastro.js</li>
 </ul>
+
 #### Estrutura de Dados
 
 [Caso exista estrutura de dados, adicione aqui]
@@ -30,13 +29,16 @@ RF-01 -	A aplicação deve permitir ao usuário cadastrar uma conta
 #### Instruções de acesso
 
 Abra um navegador de Internet: 
-
+Ao acessar a tela inicial do programa, proceda selecionando a imagem de uma silhueta no canto superior direito e clique. Imediatamente, será redirecionado para a tela
+de login, onde o usuário é gentilmente convidado a clicar em "Cadastro" para registrar-se. Ao seguir adiante, será possível realizar o login utilizando o nome de
+usuário escolhido e a senha previamente cadastrada.
 
 #### Responsável
 
 Adrian Sodré
 
-### Tela de Login (RF-02)
+
+## Tela de Login (RF-02)
 
 <figure> 
   <img src="/documentos/img/Login.jpg" width="1000px"
@@ -51,10 +53,82 @@ RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
 #### Artefatos da funcionalidade
 
 <ul>
-  <li>cadastro.html</li>
-  <li>cadastro.css/li>
-  <li>Icadastro.js</li>
+  <li>login.html</li>
+  <li>style.css</li>
+  <li>login.css</li>
+  <li>authenticationLogin.js</li>
 </ul>
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet: 
+Ao entrar na página inicial da aplicação, clique no ícone no canto
+superior direito da silhueta e, em seguida, clique no botão para ser
+redirecionado à tela de login. Se já tiver um cadastro, você poderá
+fazer o login no site da Cumbuca.
+
+#### Responsável
+
+Adrian Sodré
+
+
+## Tela de Categorias (RF-03)
+
+<figure> 
+  <img src="/documentos/img/Categorias.jpg" width="1000px"
+    <figcaption>Figura 3 - Tela de Login</figcaption>
+</figure>
+
+
+#### Requisito atendido
+
+RF-03: A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade
+
+
+#### Artefatos da funcionalidade
+
+<ul>
+  <li>cadastro.html</li>
+  <li>categorias.css</li>
+  <li>iconify-icon.min.js</li>
+</ul>
+
+#### Estrutura de Dados
+
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet: 
+Ao acessar a tela inicial do programa, será possível visualizar um link intitulado "Categorias" no lado direito. Através desse link, será viável acessar a tela de cadastro e realizar buscas em um campo específico centralizado.
+
+#### Responsável
+
+Bernardo Soutelo
+
+
+## Tela # (RF-04)
+
+<figure> 
+  <img src="/documentos/img/Perfil.jpg" width="1000px"
+    <figcaption>Figura 4 - Tela de Login</figcaption>
+</figure>
+
+
+#### Requisito atendido
+
+RF-04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
+
+
+#### Artefatos da funcionalidade
+
+[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
 
 #### Estrutura de Dados
@@ -69,56 +143,23 @@ Abra um navegador de Internet:
 
 #### Responsável
 
-Adrian Sodré
+Kiane Ramalho
 
 
-### Tela de Categorias (RF-03)
-
+## Tela da Inicial e Tela de Perfil (RF-05)
 
 <figure> 
-  <img src="/documentos/img/Categorias.jpg" width="1000px"
-    <figcaption>Figura 2 - Tela de Login</figcaption>
+  <img src="/documentos/img/Login.jpg" width="1000px"
+    <figcaption>Figura 5 - Tela de Login</figcaption>
 </figure>
-
-
-#### Requisito atendido
-
-RF - 03: A aplicação deve permitir ao usuário restringir a busca com base em ingrediente, tempo de preparo, técnica utilizada e nível de dificuldade
-
-
-#### Artefatos da funcionalidade
-
-<ul>
-  <li>cadastro.html</li>
-  <li>cadastro.css/li>
-  <li>Icadastro.js</li>
-</ul>
-
-#### Estrutura de Dados
-
-
-
-
-#### Instruções de acesso
-
-Abra um navegador de Internet: 
-
-
-#### Responsável
-
-Adrian Sodré
-
-### Tela de Perfil (RF-04)
-
 <figure> 
   <img src="/documentos/img/Perfil.jpg" width="1000px"
-    <figcaption>Figura 2 - Tela de Login</figcaption>
+    <figcaption>Figura 6 - Tela de Login</figcaption>
 </figure>
-
 
 #### Requisito atendido
 
-RF - 04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
+RF-05: A aplicação deve permitir ao usuário comentar nas receitas
 
 
 #### Artefatos da funcionalidade
@@ -138,8 +179,7 @@ RF - 04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
-
+Marcelly Maia e Adrian Sodré
 
 
 
@@ -149,17 +189,13 @@ RF - 04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
-
-
---------------------A aplicação deve permitir ao usuário comentar nas receitas-------------------- 
-
-### Tela da Inicial e Tela Inicial (RF-05)
+## Tela de Perfil (RF-06)
 
 
 
 #### Requisito atendido
 
-RF - 05: A aplicação deve permitir ao usuário comentar nas receitas
+RF-06: A aplicação deve permitir ao usuário postar sua própra receita.
 
 
 #### Artefatos da funcionalidade
@@ -179,6 +215,41 @@ RF - 05: A aplicação deve permitir ao usuário comentar nas receitas
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Adrian Sodré
+
+## Tela do catagorias (RF-07)
+
+#### Requisito atendido
+
+RF-07: A aplicação deve apresentar uma foto da receita
+
+
+#### Artefatos da funcionalidade
+
+[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+
+
+#### Estrutura de Dados
+
+[Caso exista estrutura de dados, adicione aqui]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Adrian Sodré e Bernardo Soutelo
+
+
+
+> **Links Úteis**:
+> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
+> - [JSON Tutorial](https://www.w3resource.com/JSON)
+> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
+> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
 
 
