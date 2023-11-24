@@ -146,31 +146,24 @@ Abra um navegador de Internet:
 Kiane Ramalho
 
 
-## Tela da Inicial e Tela de Perfil (RF-05)
+## Tela de Perfil (RF-05)
 
 <figure> 
-  <img src="/documentos/img/Login.jpg" width="1000px"
-    <figcaption>Figura 5 - Tela de Login</figcaption>
-</figure>
-<figure> 
-  <img src="/documentos/img/Perfil.jpg" width="1000px"
-    <figcaption>Figura 6 - Tela de Login</figcaption>
+  <img src="/documentos/img/comentario2.png" width="1000px"
+    <figcaption>Figura 5 - Tela de Perfil</figcaption>
 </figure>
 
 #### Requisito atendido
 
 RF-05: A aplicação deve permitir ao usuário comentar nas receitas
 
-
 #### Artefatos da funcionalidade
 
 [Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
 
-
 #### Estrutura de Dados
 
 [Caso exista estrutura de dados, adicione aqui]
-
 
 #### Instruções de acesso
 
