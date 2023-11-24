@@ -189,15 +189,12 @@ Abra um navegador de Internet:
 Marcelly Maia e Adrian Sodré
 
 
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
-
 ## Tela de Perfil (RF-06)
+
+<figure> 
+  <img src="/documentos/img/Postarreceitas.png" width="1000px"
+    <figcaption>Figura 7 - Tela de Perfil</figcaption>
+</figure>
 
 #### Requisito atendido
 
@@ -226,7 +223,12 @@ RF-06: A aplicação deve permitir ao usuário postar sua própra receita.
 
 Adrian Sodré
 
-## Tela do catagorias (RF-07)
+## Tela de Perfil (RF-07)
+
+<figure> 
+  <img src="/documentos/img/Postarreceitas.png" width="1000px"
+    <figcaption>Figura 8 - Tela de Perfil</figcaption>
+</figure>
 
 #### Requisito atendido
 
