@@ -58,6 +58,7 @@ cancelBtn.addEventListener("click", () => {
   const preparo = document.querySelector("#preparo");
   const ingredientes = document.querySelector("#ingredientes");
   const listaInp = document.querySelector("#listaInp");
+  const categoria = document.querySelector("#categoria");
 
   const confirmacao = confirm(
     "Tem certeza que deseja cancelar? Os dados serão perdidos"
@@ -72,6 +73,7 @@ cancelBtn.addEventListener("click", () => {
   resumo.value = "";
   preparo.value = "";
   ingredientes.value = "";
+  categoria.value = "default";
 
   while (listaInp.firstChild) {
     listaInp.removeChild(listaInp.firstChild);
