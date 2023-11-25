@@ -303,12 +303,29 @@
           </div>
         </div>
         <div id="right">
+          <div id="divCateg">
+            <p>Categoria: </p>
+            <select id="categoria">
+              <option value="default">Selecionar</option>
+              <option value="carnes">Carnes</option>
+              <option value="aves">Aves</option>
+              <option value="peixesFrutosDoMar">Peixes e frutos do mar</option>
+              <option value="saladasMolhos">Saladas e molhos</option>
+              <option value="bebidas">Bebidas</option>
+              <option value="docesSobremesas">Doces e sobremesas</option>
+              <option value="massas">Massas</option>
+              <option value="lanches">Lanches</option>
+              <option value="alimentacaoSaudavel">Alimentação saudável</option>
+              <option value="bolosTortas">Bolos e tortas</option>
+            </select>
+          </div>
           <div id="inputIngredientes">
             <label for="ingredientes">Ingredientes: </label>
             <textarea name="ingredientes" id="ingredientes" cols="30" rows="10" minlength="2" maxlength="27" placeholder="Ingredientes">
             </textarea>
             <button id="addItemIng">+</button>
           </div>
+          
           <div id="listaIngredientes">
             <ul id="listaInp"></ul>
           </div>

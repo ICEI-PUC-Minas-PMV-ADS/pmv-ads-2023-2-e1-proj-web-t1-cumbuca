@@ -121,7 +121,7 @@ label {
 #right {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 1rem;
 }
 
 #inputIngredientes {
@@ -155,6 +155,20 @@ label {
 #addItemIng:hover {
   background-color: var(--laranja);
   color: var(--branco);
+}
+
+#divCateg {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+#categoria {
+  resize: none;
+  padding: 0.3rem;
+  border: none;
+  border-radius: 6px;
+  align-items: center;
 }
 
 #ingredientes:focus {
