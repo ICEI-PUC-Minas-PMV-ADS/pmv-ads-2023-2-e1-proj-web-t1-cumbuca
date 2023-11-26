@@ -22,7 +22,7 @@ CT-1
 | Objetivo do Teste | Verificar se a aplicação permite aos usuários realizar buscas restritas de receitas conforme critérios estabelecidos, garantindo uma experiência eficiente de busca. |
 | Passos | 1 - Na tela de acesso preencher os campos "Email" e "Senha";<br> 2 - Clicar no botão "Entrar";<br> |
 | Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
-| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
 
 |Caso de Teste    | *CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
 |:---|:---|
@@ -30,7 +30,7 @@ CT-1
 | Objetivo do Teste | Assegurar que os usuários possam salvar e favoritar receitas de forma adequada, proporcionando uma gestão eficaz das preferências individuais. |
 | Passos | 1 - Na tela de acesso preencher os campos "Email" e "Senha";<br> 2 - Clicar no botão "Entrar";<br> |
 | Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
-| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
+| Responsável pela elaboração do caso de Teste | Adrian Sodré |
 
 |Caso de Teste    | CT-5 - Verificar a funcionalidade de comentar nas receitas. |
 |:---|:---|
