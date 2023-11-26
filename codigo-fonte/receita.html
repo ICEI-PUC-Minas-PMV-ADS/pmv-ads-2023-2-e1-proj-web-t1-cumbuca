@@ -72,12 +72,13 @@
         </div>
         <div class="salvar-receita">
           <img src="./assets/icone_download.png" alt="icone__download" style="cursor: pointer;" onclick="downloadPDF()">
-         <!-- Script JavaScript -->
+
 <script>
+
   function downloadPDF() {
-      // Opções de configuração para o html2pdf.js
+      
       var options = {
-          margin: [3, 10, -10, 19], //top, left, buttom, right,
+          margin: [3, 10, -10, 19], //top, left, bottom, right,
           filename: 'pagina.pdf',
           image: { type: 'jpeg', quality: 0.98 },
           html2canvas: { scale: 2 },
@@ -85,22 +86,19 @@
           
       };
 
-      // Obtém os elementos com diferentes classes
+
       var elementosTitleText = document.getElementsByClassName('title-text');
       var elementosResumo = document.getElementsByClassName('resumo');
       var elementosIngredientes = document.getElementsByClassName('ingredientes');
       var elementosModoPreparo = document.getElementsByClassName('modo-preparo');
 
-      // Cria um contêiner para os elementos
       var container = document.createElement('div');
 
-      // Adiciona os elementos ao contêiner
       container.appendChild(elementosTitleText[0].cloneNode(true));
       container.appendChild(elementosResumo[0].cloneNode(true));
       container.appendChild(elementosIngredientes[0].cloneNode(true));
       container.appendChild(elementosModoPreparo[0].cloneNode(true));
 
-      // Converte o corpo da página para PDF usando html2pdf.js
       html2pdf(container, options);
       }
 </script>
