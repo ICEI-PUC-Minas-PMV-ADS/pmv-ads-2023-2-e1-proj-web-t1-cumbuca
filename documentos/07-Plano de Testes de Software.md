@@ -63,4 +63,12 @@ CT-1
 | Passos |  1- Escolha o dispositivo de sua preferencia (computador ou celular).; <br>2- Acesse o navegador de sua escolha.; <br>3- Pesquise o nome do site 'Cumbuca'. |
 | Critérios de êxito | O teste RNF-01 é bem-sucedido se os usuários conseguirem acessar a aplicação web nos principais navegadores em qualquer máquina e/ou dispositivo móvel. |
 | Responsável pela elaboração do caso de Teste | Isaque Gonçalves|
+#### CT-9
+|Caso de Teste    | CT-9 - Verificar a funcionalidade do botão de curtida. |
+|:---|:---|
+| Requisitos Associados | RF-08	A aplicação deve permitir ao usuário curtir outras postagens e/ou a propria.|
+| Objetivo do Teste |Garantir que os usuários possam contribuir avaliando a postagem de acordo com a sua necessidade. |
+| Passos |  1- Vá para a barra de pesquisa; <br>2- Acesse a receita desejada; <br>3- Clique na receita caso tenha achado útil.|
+| Critérios de êxito | Ao curtir a postagem, alem do usuário que curtiu outros usuários poderão vizualizar fazendo com a receita de certo usuário tenha mais engajamento no ambiente da aplicação. |
+| Responsável pela elaboração do caso de Teste | Isaque Gonçalves|
  
