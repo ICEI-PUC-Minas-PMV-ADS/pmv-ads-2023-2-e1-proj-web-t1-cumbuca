@@ -97,11 +97,11 @@ Ao acessar a tela inicial do programa, será possível visualizar um link intitu
 Bernardo Soutelo
 
 
-## Tela # (RF-04)
+## Tela Inicial (RF-04)
 
 <figure> 
-  <img src="/documentos/img/Perfil.jpg" width="1000px"
-    <figcaption>Figura 4 - Tela </figcaption>
+  <img src="/documentos/img/comentario1.png" width="1000px"
+    <figcaption>Figura 4 - Tela Inicial </figcaption>
 </figure>
 
 
@@ -112,7 +112,11 @@ RF-04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+<ul>
+  <li>index.html</li>
+  <li>style.css</li>
+  <li>curtida.js</li>
+</ul>
 
 #### Instruções de acesso
 
