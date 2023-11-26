@@ -234,12 +234,12 @@ window.onload = function renderPosts() {
                 <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__80"></iconify-icon>
                 <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__100"></iconify-icon>
               </div>
-              <button onclick="exibirComentario()" id="botao_comentario"><img src="./assets/comentario.svg" /></button>
+              <button onclick="exibirComentario('${cont.id + "_coment"}', '${cont.id}')" id="botao_comentario"><img src="./assets/comentario.svg" /></button>
 
             </div>
 
             <p>${cont.descricao}</p>
-            <div id="btn__cometario" class="coments-container remover__comentario">
+            <div id="${cont.id + "_coment"}" class="coments-container remover__comentario">
               <div class="title-coments1">
                 <h2></h2>
               </div>
@@ -323,7 +323,7 @@ const mockPosts = [
     descricao:
       "Fure a carne com a ponta da faca e no meio para colocar a linguiça calabresa, deixe marinar no vinagre, alho, cominho, amaciante de carne e sal grosso por pelo menos 30 minutos.",
     curtidas: 0,
-
+    exibir: false,
     comentarios: [
       {
         id: 0,
@@ -345,7 +345,7 @@ const mockPosts = [
     descricao:
       "Fure a carne com a ponta da faca e no meio para colocar a linguiça calabresa, deixe marinar no vinagre, alho, cominho, amaciante de carne e sal grosso por pelo menos 30 minutos.",
     curtidas: 0,
-
+    exibir: false,
     comentarios: [
       {
         id: 0,
@@ -362,3 +362,19 @@ const mockPosts = [
     ]
   }
 ]
+
+
+function exibirComentario(idComentario, idPost) {
+  
+  let exibir = mockPosts.find((post) => post.id == idPost).exibir;
+
+  if (exibir) {
+    document.getElementById(idComentario).style.display = "none";
+    mockPosts.find((post) => post.id == idPost).exibir = false;
+  }
+  else {
+    document.getElementById(idComentario).style.display = "block";
+    mockPosts.find((post) => post.id == idPost).exibir = true;
+  }
+
+}
