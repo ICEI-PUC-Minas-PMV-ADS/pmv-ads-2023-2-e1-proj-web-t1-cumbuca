@@ -22,7 +22,7 @@ CT-1
 | Objetivo do Teste | Verificar se a aplicação permite aos usuários realizar buscas restritas de receitas conforme critérios estabelecidos, garantindo uma experiência eficiente de busca. |
 | Passos | 1 - Abra a aplicação; <br> 2 -Localize o campo de pesquisa na tela inicia; <br> 3 - Digite as palavras-chave; 4- Execute a busca; |
 | Critérios de êxito | Garantir que o usuário possa abrir a aplicação facilmente, localizar de maneira clara o campo de pesquisa na tela inicial, inserir palavras-chave sem dificuldades, iniciar a busca de forma eficiente, .|
-| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+| Responsável pela elaboração do caso de Teste | Marcelly Maia |
 #### CT-4
 |Caso de Teste    | ***CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
 |:---|:---|
