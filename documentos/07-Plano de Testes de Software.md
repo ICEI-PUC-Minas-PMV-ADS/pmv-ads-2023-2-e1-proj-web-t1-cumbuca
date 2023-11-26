@@ -55,4 +55,12 @@ CT-1
 | Passos |  1- Acesse a tela do perfil do usuário.;<br> 2 - Clique em "Publicar Nova Receita;<br> 3 - Preencha todos os campos obrigatórios; <br> 4 - Clique em "Publicar";<br> |
 | Critérios de êxito | O teste RF-06 é bem-sucedido se os usuários conseguirem postar novas receitas, preenchendo corretamente todos os campos obrigatórios, e a aplicação impedir postagens com campos não preenchidos, exibindo mensagens de erro apropriadas, além de bloquear postagens sem a inclusão de uma imagem, comunicando claramente a necessidade dessa adição. |
 | Responsável pela elaboração do caso de Teste | Marcelly Maia|
+#### CT-8
+|Caso de Teste    | CT-8 - Verificar o suporte para navegadores. |
+|:---|:---|
+| Requisitos Associados | RF-08	A aplicação deve ser compativel com outros tipos de navegadores independente da plataforma. |
+| Objetivo do Teste | Seu objetivo é garantir que a aplicação funcione corretamente em diferentes navegadores, assegurando que todos os recursos e funcionalidades sejam exibidos de forma consistente para proporcionar uma experiência de usuário satisfatória, independentemente do navegador utilizado pelo usuário. |
+| Passos |  1- Escolha o dispositivo de sua preferencia (computador ou celular).; <br>2- Acesse o navegador de sua escolha.; <br>3- Pesquise o nome do site 'Cumbuca'. |
+| Critérios de êxito | O teste RNF-01 é bem-sucedido se os usuários conseguirem acessar a aplicação web nos principais navegadores em qualquer máquina e/ou dispositivo móvel. |
+| Responsável pela elaboração do caso de Teste | Isaque Gonçalves|
  
