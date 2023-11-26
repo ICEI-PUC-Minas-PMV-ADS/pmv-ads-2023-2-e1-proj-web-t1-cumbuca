@@ -22,15 +22,15 @@ CT-1
 | Objetivo do Teste | Verificar se a aplicação permite aos usuários realizar buscas restritas de receitas conforme critérios estabelecidos, garantindo uma experiência eficiente de busca. |
 | Passos | 1 - Abra a aplicação; <br> 2 -Localize o campo de pesquisa na tela inicia; <br> 3 - Digite as palavras-chave; 4- Execute a busca; |
 | Critérios de êxito | Garantir que o usuário possa abrir a aplicação facilmente, localizar de maneira clara o campo de pesquisa na tela inicial, inserir palavras-chave sem dificuldades, iniciar a busca de forma eficiente, .|
-| Responsável pela elaboração do caso de Teste | Marcelly Maia |
+| Responsável pela elaboração do caso de Teste |Adrian Sodré |
 #### CT-4
-|Caso de Teste    | ***CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
+|Caso de Teste    | CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
 |:---|:---|
 | Requisitos Associados | RF-04	A aplicação deve permitir ao usuário favoritar e salvar as receitas. |
 | Objetivo do Teste | Assegurar que os usuários possam salvar e favoritar receitas de forma adequada, proporcionando uma gestão eficaz das preferências individuais. |
-| Passos | |
+| Passos | 1- Acesse a tela do principal da aplicação. <br> 2 - clique em cada foto. <br> |
 | Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
-| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
+| Responsável pela elaboração do caso de Teste | Isaque Gonçalves Ferreira  |
 #### CT-5
 |Caso de Teste    | CT-5 - Verificar a funcionalidade de comentar nas receitas. |
 |:---|:---|
@@ -38,7 +38,7 @@ CT-1
 | Objetivo do Teste | Verificar se ao preencher o campo "Comentários" o comentário é publicado. |
 | Passos | 1 - Acessar abas com as receitas publicadas onde contém o campo para comentários;<br> 2 - Clicar no ícone para enviar comentário após escrever o comentário|
 | Critérios de êxito | Ao preencher o campo "Comentários" e clicar no ícone para enviar, o comentário deve ser exibido abaixo.  |
-| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
 #### CT-6
 |Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita. |
 |:---|:---|
