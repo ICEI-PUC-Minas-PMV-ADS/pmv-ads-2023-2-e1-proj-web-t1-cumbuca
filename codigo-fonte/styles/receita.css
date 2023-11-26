@@ -154,6 +154,12 @@
   gap: 3rem;
 }
 
+.modo-preparo {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
 .coments-container {
   display: flex;
   flex-direction: column;
