@@ -192,17 +192,18 @@
 #texto-contador {
   position: absolute;
   bottom: 5px;
-  right: 8px;
+  left: 6px;
   font-size: 14px;
   color: var(--cinza-medio-escuro);
 }
 
 #enterMsg {
   width: 18px;
-  position: absolute;
-  bottom: 8px;
-  left: 6px;
+  position: relative;
+  bottom: 10px;
+  left: -34px;
   cursor: pointer;
+  z-index: 1;
 }
 
 #comentar {
