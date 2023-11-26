@@ -1,6 +1,6 @@
 # Plano de Testes de Software
 CT-1
-|Caso de Teste    | CT-1 - Verificar a funcionalidade de cadastrar uma conta. |
+|Caso de Teste   | CT-1 - Verificar a funcionalidade de cadastrar uma conta. |
 |:---|:---|
 | Requisitos Associados | RF-01	A aplicação deve permitir ao usuário cadastrar uma conta. |
 | Objetivo do Teste | Verificar se ao preencher os campos necessários para cadastro e clicar no botão "Cadastrar", é criada uma conta para o usuário. |
