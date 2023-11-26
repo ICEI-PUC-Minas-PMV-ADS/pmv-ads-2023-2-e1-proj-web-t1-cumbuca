@@ -3,6 +3,8 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- biblioteca html2pdf.js para download -->
+    <script src="https://rawgit.com/eKoopmans/html2pdf/master/dist/html2pdf.bundle.js"></script>
     <title>Cumbuca</title>
     <link rel="stylesheet" href="./styles/receita.css" />
     <link
@@ -63,11 +65,43 @@
               class="icon"
             ></iconify-icon>
           </div>
-          <div class="infos-user-receita">
+          <!-- <div class="infos-user-receita">
             <p>Beatriz Aparecida</p>
             <img src="./assets/Avatar.svg" class="icone__botao avatar" />
-          </div>
+          </div> -->
         </div>
+        <div class="salvar-receita">
+          <img src="./assets/icone_download.png" alt="icone__download" style="cursor: pointer;" onclick="downloadPDF()">
+
+<script>
+
+  function downloadPDF() {
+      
+      var options = {
+          margin: [3, 10, -10, 15], //top, left, bottom, right,
+          filename: 'pagina.pdf',
+          image: { type: 'jpeg', quality: 0.98 },
+          html2canvas: { scale: 2 },
+          jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+          
+      };
+
+
+      var elementosTitleText = document.getElementsByClassName('title-text');
+      var elementosResumo = document.getElementsByClassName('resumo');
+      var elementosIngredientes = document.getElementsByClassName('ingredientes');
+      var elementosModoPreparo = document.getElementsByClassName('modo-preparo');
+
+      var container = document.createElement('div');
+
+      container.appendChild(elementosTitleText[0].cloneNode(true));
+      container.appendChild(elementosResumo[0].cloneNode(true));
+      container.appendChild(elementosIngredientes[0].cloneNode(true));
+      container.appendChild(elementosModoPreparo[0].cloneNode(true));
+
+      html2pdf(container, options);
+      }
+</script>
         <div class="title-options">
           <div class="title-options-more">
             <div class="title-text">
@@ -111,7 +145,7 @@
             </div>
           </div>
           <div class="modo-preparo-coments">
-            <div class="resumo">
+            <div class="modo-preparo">
               <h3>Modo de Preparo:</h3>
               <p class="fc-format">
                 Lorem Ipsum is simply dummy text of the printing and typesetting
