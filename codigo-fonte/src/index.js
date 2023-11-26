@@ -204,3 +204,161 @@ var categorias = [
   "alimentação saudável",
   "bolos e tortas",
 ];
+
+window.onload = function renderPosts() {
+  const conteudoPost = document.getElementById("conteudo_post");
+  conteudoPost.innerHTML = "";
+
+  mockPosts.forEach((cont) => {
+    var comentario = "";
+
+    cont.comentarios.forEach((coment) => {
+      // Use backticks for multi-line strings
+      comentario += `<div class="userComents">
+                        <img src="./assets/Avatar.svg" class="icone__botao avatar" />
+                        <input type="text" name="comentarioUser" class="comentarioUser" value="${coment.texto}" disabled />
+                    </div>`;
+    });
+
+    // Use backticks for multi-line strings
+    conteudoPost.innerHTML += `
+      <div class="receita__card" id="${cont.id + "_post"}">
+        <button id="curtida_botao" onclick="countingClicks('${cont.id + "_post"}','${cont.id}')"><img src="${cont.foto}" class="card__img" /></button>
+        <div class="receita__rating">
+          <div class="">
+            <div class="receita__rating">
+              <div class="">
+                <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__20"></iconify-icon>
+                <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__40"></iconify-icon>
+                <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__60"></iconify-icon>
+                <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__80"></iconify-icon>
+                <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__100"></iconify-icon>
+              </div>
+              <button onclick="exibirComentario()" id="botao_comentario"><img src="./assets/comentario.svg" /></button>
+
+            </div>
+
+            <p>${cont.descricao}</p>
+            <div id="btn__cometario" class="coments-container remover__comentario">
+              <div class="title-coments1">
+                <h2></h2>
+              </div>
+              <div class="comments">
+                <div class="comentar-container">
+                  <textarea name="comentar" id="comentar" cols="36" rows="5" placeholder="Comentar" maxlength="50"></textarea>
+                  <img src="./assets/receita/plano.png" alt="enviarMsg" id="enterMsg" />
+                  <p id="texto-contador"><span id="contador">0</span>/50</p>
+                </div>
+                <div class="comentarios">
+                  ${comentario} 
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>`;
+  });
+}
+
+
+function countingClicks(idPost, id) {
+
+  debugger
+
+  //document.getElementById(idbtn).disabled = true; //Assim cada loging cadatrado fará apenas uma curtida no post da 
+
+  mockPosts.find((post) => post.id == id).curtidas += 1;
+
+  var curdidas = mockPosts.find((post) => post.id == id).curtidas
+
+  AdicionaCor(curdidas, idPost);
+}
+
+
+function PercorreID(idPost, id) {
+
+  debugger
+
+  var postElement = document.getElementById(idPost);
+
+  var elements = postElement.querySelectorAll(`${id}`);
+
+  // Loop through the selected elements and add the class
+  for (var i = 0; i < elements.length; i++) {
+    elements[i].classList.add("icon__selected");
+  }
+}
+
+function AdicionaCor(curdidas, idPost) {
+
+  debugger
+
+  if (curdidas <= 20 && curdidas > 0) {
+    PercorreID(idPost, "#frango__20");
+  } else if (curdidas <= 40) {
+    PercorreID(idPost, "#frango__20");
+    PercorreID(idPost, "#frango__40");
+  } else if (curdidas <= 60) {
+    PercorreID(idPost, "#frango__20");
+    PercorreID(idPost, "#frango__40");
+    PercorreID(idPost, "#frango__60");
+  } else if (curdidas <= 80) {
+    PercorreID(idPost, "#frango__20");
+    PercorreID(idPost, "#frango__40");
+    PercorreID(idPost, "#frango__60");
+    PercorreID("#frango__80");
+  } else if (curdidas <= 100) {
+    PercorreID(idPost, "#frango__20");
+    PercorreID(idPost, "#frango__40");
+    PercorreID(idPost, "#frango__60");
+    PercorreID(idPost, "#frango__80");
+    PercorreID(idPost, "#frango__100");
+  }
+}
+
+const mockPosts = [
+  {
+    id: 0,
+    foto: "./assets/perfil/paodequeijo.jpg",
+    descricao:
+      "Fure a carne com a ponta da faca e no meio para colocar a linguiça calabresa, deixe marinar no vinagre, alho, cominho, amaciante de carne e sal grosso por pelo menos 30 minutos.",
+    curtidas: 0,
+
+    comentarios: [
+      {
+        id: 0,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+      {
+        id: 1,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+      {
+        id: 2,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+    ]
+  },
+  {
+    id: 1,
+    foto: "./assets/perfil/carneAssadaComBatata.jpg",
+    descricao:
+      "Fure a carne com a ponta da faca e no meio para colocar a linguiça calabresa, deixe marinar no vinagre, alho, cominho, amaciante de carne e sal grosso por pelo menos 30 minutos.",
+    curtidas: 0,
+
+    comentarios: [
+      {
+        id: 0,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+      {
+        id: 1,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+      {
+        id: 2,
+        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+      },
+    ]
+  }
+]

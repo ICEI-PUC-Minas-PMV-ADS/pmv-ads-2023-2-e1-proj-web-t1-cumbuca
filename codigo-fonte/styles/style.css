@@ -430,9 +430,10 @@ body {
 .comentarios {
   display: flex;
   flex-flow: column wrap;
-  gap: 1rem;
+  gap: 0.rem;
   justify-content: center;
   width: 68%;
+ 
 }
 
 .userComents {
@@ -441,6 +442,7 @@ body {
   align-items: center;
   justify-content: flex-start;
   text-align: center;
+  
 }
 
 .userComents > img {
@@ -450,9 +452,9 @@ body {
 .userComents > input {
   border: none;
   background-color: var(--cinza-medio);
-  border-radius: 10px;
-  padding: 3px 10px;
-  width: 100%;
+  border-radius: 1px;
+  padding: 2px 1px;
+  width: 70%;
 }
 
 @media (max-width: 1104px) {
