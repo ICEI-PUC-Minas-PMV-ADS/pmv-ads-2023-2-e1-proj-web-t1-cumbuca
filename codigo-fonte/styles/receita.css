@@ -40,6 +40,13 @@
   width: 38px;
 }
 
+.salvar-receita > img {
+  position: relative;
+  width: 21px;
+  left: 915px;
+  color: var(--cinza-medio-escuro);
+}
+
 .title-options {
   display: flex;
   justify-content: space-between;
