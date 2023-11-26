@@ -40,13 +40,6 @@
   width: 38px;
 }
 
-.salvar-receita > img {
-  position: relative;
-  width: 21px;
-  left: 915px;
-  color: var(--cinza-medio-escuro);
-}
-
 .title-options {
   display: flex;
   justify-content: space-between;
@@ -154,12 +147,6 @@
   gap: 3rem;
 }
 
-.modo-preparo {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-
 .coments-container {
   display: flex;
   flex-direction: column;
@@ -205,18 +192,17 @@
 #texto-contador {
   position: absolute;
   bottom: 5px;
-  left: 6px;
+  right: 8px;
   font-size: 14px;
   color: var(--cinza-medio-escuro);
 }
 
 #enterMsg {
   width: 18px;
-  position: relative;
-  bottom: 10px;
-  left: -34px;
+  position: absolute;
+  bottom: 8px;
+  left: 6px;
   cursor: pointer;
-  z-index: 1;
 }
 
 #comentar {
