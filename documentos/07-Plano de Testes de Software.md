@@ -1,5 +1,5 @@
 # Plano de Testes de Software
-
+CT-1
 |Caso de Teste    | CT-1 - Verificar a funcionalidade de cadastrar uma conta. |
 |:---|:---|
 | Requisitos Associados | RF-01	A aplicação deve permitir ao usuário cadastrar uma conta. |
@@ -7,7 +7,7 @@
 | Passos | 1 - Na tela de acesso clicar no botão "Cadastrar";<br> 2 - Preencher os campos "Email", "Nome", "Senha" e "Repetir senha";<br> 3 - Clicar no botão "Cadastrar"|
 | Critérios de êxito | Ao preencher os campos necessários para cadastro e clicar em "Cadastrar", o usuário deve ser redirecionado para a tela de acesso.|
 | Responsável pela elaboração do caso de Teste | Kiane Ramalho |
-
+#### CT-2
 |Caso de Teste    | CT-2 - Verificar a funcionalidade de fazer o login em uma conta. |
 |:---|:---|
 | Requisitos Associados | RF-02	A aplicação deve permitir ao usuário fazer o login da sua conta. |
@@ -47,18 +47,12 @@
 | Passos | 1- Acesse a tela do perfil do usuário.;<br> 2 - Clique em "Publicar Nova Receita;<br> 3 - Preencha todos os campos obrigatórios; <br> 4 - Clique em "Publicar";<br>  |
 | Critérios de êxito | O teste RF-06 é bem-sucedido se os usuários conseguirem postar novas receitas, preenchendo corretamente todos os campos obrigatórios, e a aplicação impedir postagens com campos não preenchidos, exibindo mensagens de erro apropriadas, além de bloquear postagens sem a inclusão de uma imagem, comunicando claramente a necessidade dessa adição. |
 | Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
-
-|Caso de Teste    | *CT-7 - Verificar a apresentação de uma foto da receita. |
+#### CT-7
+|Caso de Teste    | CT-7 - Verificar a apresentação de uma foto da receita. |
 |:---|:---|
 | Requisitos Associados | RF-07	A aplicação deve apresentar uma foto da receita. |
 | Objetivo do Teste | Assegurar que a aplicação exiba corretamente as imagens associadas às receitas, contribuindo para uma experiência visual atraente e informativa. |
-| Passos | 1 - Na tela de acesso preencher os campos "Email" e "Senha";<br> 2 - Clicar no botão "Entrar";<br> |
-| Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
+| Passos |  1- Acesse a tela do perfil do usuário.;<br> 2 - Clique em "Publicar Nova Receita;<br> 3 - Preencha todos os campos obrigatórios; <br> 4 - Clique em "Publicar";<br> |
+| Critérios de êxito | O teste RF-06 é bem-sucedido se os usuários conseguirem postar novas receitas, preenchendo corretamente todos os campos obrigatórios, e a aplicação impedir postagens com campos não preenchidos, exibindo mensagens de erro apropriadas, além de bloquear postagens sem a inclusão de uma imagem, comunicando claramente a necessidade dessa adição. |
 | Responsável pela elaboração do caso de Teste | Marcelly Maia|
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
