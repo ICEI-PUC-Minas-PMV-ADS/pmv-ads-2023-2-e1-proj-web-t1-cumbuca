@@ -218,13 +218,58 @@ label {
   object-fit: cover;
 }
 
-@media (max-width: 814px) {
-  .headerUser {
-    width: 70%;
+@media (max-width: 1426px) {
+  #cebecalhoPub {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: start;
+    margin-bottom: 1rem;
+  }
+
+  #optionsBtn {
+    display: flex;
+    position: absolute;
+    right: 6px;
+    bottom: 6px;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  #optionsBtn > button {
+    width: 150px;
+  }
+}
+
+@media (max-width: 1157px) {
+  .publicaReceita {
+    width: 80vw;
   }
 
   .receitasUserPerfil {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 814px) {
+  .headerUser {
+    width: 70%;
+  }
+}
+
+@media (max-width: 709px) {
+  #optionsBtn > button {
+    width: 100px;
+  }
+}
+
+@media (max-width: 634px) {
+  .publicaReceita {
+    top: 50%;
+    left: 50%;
+    width: 90%;
+    height: 80%;
+    transform: translate(-50%, -50%);
   }
 }
 
@@ -268,6 +313,66 @@ label {
     display: flex;
     gap: 1rem;
     padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 545px) {
+  .publicaReceita {
+    top: 50%;
+    left: 50%;
+    width: 95%;
+    height: 80%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+@media (max-width: 527px) {
+  .publicaReceita {
+    justify-content: flex-start;
+    height: 95%;
+  }
+
+  #cebecalhoPub {
+    gap: 1rem;
+    margin: 2rem;
+  }
+
+  #meio {
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #left {
+    display: flex;
+    flex-direction: row;
+  }
+
+  #right {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  #inputIngredientes {
+    height: 23%;
+  }
+}
+
+@media (max-width: 509px) {
+  .publicaReceita {
+    position: static;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 1000px;
+    transform: translate(-50%, -10%);
+  }
+
+  #left {
+    display: flex;
+    flex-direction: column;
   }
 }
 
