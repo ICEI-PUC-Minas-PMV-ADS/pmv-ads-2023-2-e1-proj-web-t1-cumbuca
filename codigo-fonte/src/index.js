@@ -20,7 +20,7 @@ if (posts.length === 0) {
       "3 batatas",
     ],
     categoria: "carnes",
-    usuario: "admin@gmail.com",
+    usuario: "admin2@gmail.com",
   };
 
   posts.push(carnePost);
@@ -62,7 +62,7 @@ if (posts.length === 0) {
       "Sal e salsa",
     ],
     categoria: "peixesFrutosDoMar",
-    usuario: "admin@gmail.com",
+    usuario: "admin2@gmail.com",
   };
 
   posts.push(peixesFrutos);
@@ -96,7 +96,7 @@ if (posts.length === 0) {
       "Pegar o limao, cortar ao meio, expremer em um recepiente ate sair todo o caldo e adicionar acuar e cachaça ",
     listaInp: ["limão", "açucar", "cachaça"],
     categoria: "bebidas",
-    usuario: "admin@gmail.com",
+    usuario: "admin2@gmail.com",
   };
 
   posts.push(bebidas);
@@ -137,7 +137,7 @@ if (posts.length === 0) {
       "frango desfiado",
     ],
     categoria: "massas",
-    usuario: "admin@gmail.com",
+    usuario: "admin2@gmail.com",
   };
 
   posts.push(massas);
@@ -169,7 +169,7 @@ if (posts.length === 0) {
     preparo: "Montar o pao de queijo e assar por 15 minutos",
     listaInp: ["Massa", "queijo", "brioche"],
     categoria: "alimentacaoSaudavel",
-    usuario: "admin@gmail.com",
+    usuario: "admin2@gmail.com",
   };
 
   posts.push(alimentacaoSaudavel);

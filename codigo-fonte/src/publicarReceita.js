@@ -203,9 +203,12 @@ function criarPost(post) {
 function atualizarReceitas() {
   const posts = JSON.parse(localStorage.getItem("posts")) || [];
   const receitasUserPerfil = document.querySelector(".receitasUserPerfil");
+  const currentUser = JSON.parse(localStorage.getItem("userLogado"));
 
   posts.forEach((element) => {
-    receitasUserPerfil.appendChild(criarPost(element));
+    if (element.usuario === currentUser) {
+      receitasUserPerfil.appendChild(criarPost(element));
+    }
   });
 }
 
