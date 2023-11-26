@@ -43,6 +43,13 @@
   width: 200px;
 }
 
+.imgReceita {
+  width: 200px;
+  height: 140px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 @media (max-width: 1415px) {
   #categoriasGrid {
     grid-template-columns: repeat(4, 1fr);
