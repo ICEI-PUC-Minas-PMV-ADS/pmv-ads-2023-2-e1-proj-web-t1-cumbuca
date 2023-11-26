@@ -71,7 +71,7 @@ Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Categorias.jpg" width="1000px"
-    <figcaption>Figura 3 - Tela de Login</figcaption>
+    <figcaption>Figura 3 - Tela de categoria</figcaption>
 </figure>
 
 
@@ -101,7 +101,7 @@ Bernardo Soutelo
 
 <figure> 
   <img src="/documentos/img/Perfil.jpg" width="1000px"
-    <figcaption>Figura 4 - Tela de Login</figcaption>
+    <figcaption>Figura 4 - Tela </figcaption>
 </figure>
 
 
@@ -140,13 +140,14 @@ Kiane Ramalho
 RF-05: A aplicação deve permitir ao usuário comentar nas receitas
 
 
-#### Artefatos da funcionalidade da tela de perfil
+#### Artefatos da funcionalidade da tela de Perfil
 <ul>
   <li>perfil.html</li>
   <li>perfil.css</li>
   <li>publicarReceita.js</li>
 </ul>
-#### Artefatos da funcionalidade da tela de perfil
+
+#### Artefatos da funcionalidade da tela de Inicial
 <ul>
   <li>index.html</li>
   <li>style.css</li>
@@ -167,7 +168,7 @@ Marcelly Maia e Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Postarreceitas.png" width="1000px"
-    <figcaption>Figura 7 - Tela de Perfil</figcaption>
+    <figcaption>Figura 7 - Tela de Perfil </figcaption>
 </figure>
 
 #### Requisito atendido
