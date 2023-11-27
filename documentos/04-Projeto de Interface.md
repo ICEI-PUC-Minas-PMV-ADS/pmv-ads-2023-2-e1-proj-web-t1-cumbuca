@@ -99,12 +99,5 @@ receitas de acordo com suas preferências culinárias.
     <figcaption>Figura 8 - Tela de Categorias</figcaption>
 </figure>
 
-#### Links Úteis:
-
->> - [Figma](https://www.figma.com/file/8J2L0t0wplQcSxAdsxL61c/Cumbuca?type=design&node-id=0%3A1&mode=design&t=uCZpUcPgLKbHhpNZ-1)
->> - [Sobre o Web site Cumbuca](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/tree/main#cumbuca)
->> - <a href=""><a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#prot%C3%B3tipo-de-alta-fidelidade">Protótipo</a>
->> - [Recorrências](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/04-Projeto%20de%20Interface.md#recorr%C3%AAncias)
-
 
 
