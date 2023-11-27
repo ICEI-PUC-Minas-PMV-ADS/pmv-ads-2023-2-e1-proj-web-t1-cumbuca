@@ -29,6 +29,11 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | 1- Ao escrever um comentário e clicar no ícone para enviar, o comentário é postado abaixo;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Comentar%20Receita.png?raw=true" alt="Comentar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Coment%C3%A1rio%20postado.png?raw=true" alt="Comentário postado">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
+|Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita |
+|:---|:---|
+| Resultados obtidos | 1- O preenchimento de todos os campos obrigatórios foi feito corretamente e a receita foi postada;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20sucesso.png?raw=true" alt="Postar receita"><br>|
+| Responsável pela execução do caso de Teste | Kiane Ramalho |
+
 |Caso de Teste    | CT-1 - Teste para curtir post |
 |:---|:---|
 | Resultados obtidos | Após minuciosos testes na seção de curtidas do projeto do site 'Cumbuca', notou-se que a funcionalidade de curtida é simbolizada por uma sugestiva 'coxinha de frango', que remete diretamente ao contexto de receitas. Durante os testes, foi confirmado que os usuários podem interagir positivamente ('curtir') com as receitas postadas no site. No entanto, identificou-se a ausência da opção correspondente para 'descurtir' o conteúdo, o que pode limitar a experiência do usuário. Essa lacuna sugere a necessidade de implementar essa função para garantir uma interação mais completa e satisfatória  |
