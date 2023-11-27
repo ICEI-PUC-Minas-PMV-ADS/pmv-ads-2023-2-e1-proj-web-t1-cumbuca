@@ -19,9 +19,9 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | ----- |
 | Responsável pela execução do caso de Teste | Bernardo Sotelo |
 
-|Caso de Teste    | CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
+|Caso de Teste    | CT-4 - Verificar a funcionalidade de salvar receitas fazendo download. |
 |:---|:---|
-| Resultados obtidos | ----- |
+| Resultados obtidos | 1- Ao clicar no ícone de download, um arquivo em pdf é baixado para o dispositivo do usuário;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20salvar%20receita.png?raw=true" alt="Botão download"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Arquivo%20pdf%20receita.png?raw=true" alt="Arquivo pdf">  |
 | Responsável pela execução do caso de Teste | Adrian Sodré |
 
 |Caso de Teste    | CT-5 - Verificar a funcionalidade de comentar nas receitas. |
