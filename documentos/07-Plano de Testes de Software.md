@@ -24,13 +24,14 @@ CT-1
 | Critérios de êxito | Garantir que o usuário possa abrir a aplicação facilmente, localizar de maneira clara o campo de pesquisa na tela inicial, inserir palavras-chave sem dificuldades, iniciar a busca de forma eficiente, .|
 | Responsável pela elaboração do caso de Teste |Adrian Sodré |
 #### CT-4
-|Caso de Teste    | CT-4 - Verificar a funcionalidade de favoritar e salvar receitas. |
+|Caso de Teste    | CT-4 - Verificar a funcionalidade de salvar receitas fazendo download. |
 |:---|:---|
-| Requisitos Associados | RF-04	A aplicação deve permitir ao usuário favoritar e salvar as receitas. |
-| Objetivo do Teste | Assegurar que os usuários possam salvar e favoritar receitas de forma adequada, proporcionando uma gestão eficaz das preferências individuais. |
-| Passos | 1- Acesse a tela do principal da aplicação. <br> 2 - clique em cada foto. <br> |
-| Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
-| Responsável pela elaboração do caso de Teste | Isaque Gonçalves Ferreira  |
+| Requisitos Associados | RF-04	A aplicação deve permitir ao usuário salvar as receitas realizando o download de um arquivo em pdf. |
+| Objetivo do Teste | Assegurar que os usuários possam salvar receitas ao fazer download em pdf.   |
+| Passos | 1- Acesse a tela da receita postada;<br> 2 - Clique no ícone de download para baixar o arquivo em pdf.<br> |
+| Critérios de êxito | Ao clicar no ícone de download, um arquivo em pdf deve ser baixado para o dispositivo do usuário. |
+| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+
 #### CT-5
 |Caso de Teste    | CT-5 - Verificar a funcionalidade de comentar nas receitas. |
 |:---|:---|
