@@ -51,10 +51,3 @@ Essa uniformidade facilita a navegação, uma vez que os usuários sempre encont
     <figcaption>Figura 3 - Composição geral </figcaption>
 </figure> 
 
-
-> **Links Úteis**:
->
-> - [Tela ínicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/codigo-fonte/index.html)
-> - [Freepick](https://br.freepik.com/)
-> - [Referências Bibliográficas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/09-Refer%C3%AAncias%20Bibliogr%C3%A1ficas.md)
-
