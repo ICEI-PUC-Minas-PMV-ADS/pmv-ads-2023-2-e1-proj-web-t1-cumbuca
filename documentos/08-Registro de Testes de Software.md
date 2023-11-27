@@ -34,8 +34,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-7 - Teste para curtir post |
 |:---|:---|
-| Resultados obtidos | Após testes na seção de curtidas do site 'Cumbuca', notou-se que os usuários podem 'curtir' receitas usando o ícone de 'coxinha de frango', porém a opção de 'descurtir' está faltando. Adicionar essa função seria fundamental para melhorar a interação do usuário ![Screenshot 2023-11-26 21 00 41](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/0993bf02-aba6-4135-af0f-e77a7bf74703)![Screenshot 2023-11-26 21 01 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/2c29561b-ce92-4ab8-91ec-65f5924334c1)
-
- |
+| Resultados obtidos | Após testes na seção de curtidas do site 'Cumbuca', notou-se que os usuários podem 'curtir' receitas usando o ícone de 'coxinha de frango', porém a opção de 'descurtir' está faltando. Adicionar essa função seria fundamental para melhorar a interação do usuário ![Screenshot 2023-11-26 21 00 41](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/0993bf02-aba6-4135-af0f-e77a7bf74703)![Screenshot 2023-11-26 21 01 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/2c29561b-ce92-4ab8-91ec-65f5924334c1)|
 | Responsável pela execução do caso de Teste | Isaque Gonçalves Ferreira |
 
