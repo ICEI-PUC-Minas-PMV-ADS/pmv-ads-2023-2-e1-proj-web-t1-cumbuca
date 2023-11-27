@@ -31,7 +31,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita |
 |:---|:---|
-| Resultados obtidos | 1- O preenchimento de todos os campos obrigatórios foi feito corretamente e a receita foi postada, exibindo um alerta;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20sucesso.png?raw=true" alt="Postar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receita%20postada.png?raw=true" alt="Receita postada">|
+| Resultados obtidos | 1- O preenchimento de todos os campos obrigatórios foi feito corretamente e a receita foi postada, exibindo um alerta;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20sucesso.png?raw=true" alt="Postar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receita%20postada.png?raw=true" alt="Receita postada"><br> 2- O usuário não preencheu todos os campos obrigatórios e não foi possível postar a receita;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20campo%20n%C3%A3o%20preenchido.png?raw=true" alt="Campo não preenchido">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
 |Caso de Teste    | CT-1 - Teste para curtir post |
