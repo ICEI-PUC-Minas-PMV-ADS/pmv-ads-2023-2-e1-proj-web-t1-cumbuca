@@ -37,8 +37,10 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | 1- A aplicação exibiu corretamente as imagens associadas às receitas postadas, contribuindo para uma experiência visual atraente e informativa.;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receitas%20com%20imagens.png?raw=true" alt="Receitas com imagens"><br> 2- O cadastro da receita não pode ser concluído, pois o usuário não havia inserido uma imagem;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20erro%20imagem.png?raw=true" alt="Erro pendência foto"> |
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-1 - Teste para curtir post |
+|Caso de Teste    | CT-8 - Teste para curtir post |
 |:---|:---|
-| Resultados obtidos | Após minuciosos testes na seção de curtidas do projeto do site 'Cumbuca', notou-se que a funcionalidade de curtida é simbolizada por uma sugestiva 'coxinha de frango', que remete diretamente ao contexto de receitas. Durante os testes, foi confirmado que os usuários podem interagir positivamente ('curtir') com as receitas postadas no site. No entanto, identificou-se a ausência da opção correspondente para 'descurtir' o conteúdo, o que pode limitar a experiência do usuário. Essa lacuna sugere a necessidade de implementar essa função para garantir uma interação mais completa e satisfatória  |
+| Resultados obtidos | Após testes na seção de curtidas do site 'Cumbuca', notou-se que os usuários podem 'curtir' receitas usando o ícone de 'coxinha de frango', porém a opção de 'descurtir' está faltando. Adicionar essa função seria fundamental para melhorar a interação do usuário ![Screenshot 2023-11-26 21 00 41](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/0993bf02-aba6-4135-af0f-e77a7bf74703)![Screenshot 2023-11-26 21 01 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/2c29561b-ce92-4ab8-91ec-65f5924334c1)
+
+ |
 | Responsável pela execução do caso de Teste | Isaque Gonçalves Ferreira |
 
