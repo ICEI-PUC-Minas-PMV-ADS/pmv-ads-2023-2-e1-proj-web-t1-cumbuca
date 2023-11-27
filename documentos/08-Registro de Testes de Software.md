@@ -29,9 +29,14 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | 1- Ao escrever um comentário e clicar no ícone para enviar, o comentário é postado abaixo;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Comentar%20Receita.png?raw=true" alt="Comentar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Coment%C3%A1rio%20postado.png?raw=true" alt="Comentário postado">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita |
+|Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita. |
 |:---|:---|
 | Resultados obtidos | 1- O preenchimento de todos os campos obrigatórios foi feito corretamente e a receita foi postada, exibindo um alerta;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20sucesso.png?raw=true" alt="Postar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receita%20postada.png?raw=true" alt="Receita postada"><br> 2- O usuário não preencheu todos os campos obrigatórios e não foi possível postar a receita;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20campo%20n%C3%A3o%20preenchido.png?raw=true" alt="Campo não preenchido">|
+| Responsável pela execução do caso de Teste | Kiane Ramalho |
+
+|Caso de Teste    | CT-7 - Verificar a apresentação de uma foto da receita. |
+|:---|:---|
+| Resultados obtidos | 1- A aplicação exibiu corretamente as imagens associadas às receitas postadas, contribuindo para uma experiência visual atraente e informativa.;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receitas%20com%20imagens.png?raw=true" alt="Receitas com imagens"><br> 2- O cadastro da receita não pode ser concluído, pois o usuário não havia inserido uma imagem;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20erro%20imagem.png?raw=true" alt="Erro pendência foto"> |
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
 |Caso de Teste    | CT-1 - Teste para curtir post |
