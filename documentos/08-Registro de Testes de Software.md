@@ -12,32 +12,27 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | 1- Os campos necessários para acesso foram preenchidos corretamente e, ao clicar em "Entrar", o usuário foi redirecionado para a tela inicial do portal;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20RF%2002_Autentica%C3%A7%C3%A3o%201%20%20-%20Logar%20no%20site.png?raw=true" alt="Logar"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20RF%2002_Autentica%C3%A7%C3%A3o%202%20%20-%20Usu%C3%A1rio%20Logado.png?raw=true" alt="Usuário Logado"><br> 2- O usuário preenchendo uma senha incorreta, é exibido o alterta e não é feito o login;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20RF%2002_Autentica%C3%A7%C3%A3o%201%20%20-%20Erro%20Senha.png?raw=true" alt="Senha incorreta"><br> 3- Quando o preenchimento do e-mail é feito de forma incorreta, é exibido um alerta e não é feito o login;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20RF%2002_Autentica%C3%A7%C3%A3o%201%20%20-%20Erro%20Email.png?raw=true" alt="Erro e-mail">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-3 - Verificar a funcionalidade de restringir a busca com base em ingrediente. |
-|:---|:---|
-| Resultados obtidos | ----- |
-| Responsável pela execução do caso de Teste | Bernardo Sotelo |
-
-|Caso de Teste    | CT-4 - Verificar a funcionalidade de salvar receitas fazendo download. |
+|Caso de Teste    | CT-3 - Verificar a funcionalidade de salvar receitas fazendo download. |
 |:---|:---|
 | Resultados obtidos | 1- Ao clicar no ícone de download, um arquivo em pdf é baixado para o dispositivo do usuário;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20salvar%20receita.png?raw=true" alt="Botão download"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Arquivo%20pdf%20receita.png?raw=true" alt="Arquivo pdf">  |
 | Responsável pela execução do caso de Teste | Adrian Sodré |
 
-|Caso de Teste    | CT-5 - Verificar a funcionalidade de comentar nas receitas. |
+|Caso de Teste    | CT-4 - Verificar a funcionalidade de comentar nas receitas. |
 |:---|:---|
 | Resultados obtidos | 1- Ao escrever um comentário e clicar no ícone para enviar, o comentário é postado abaixo;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Comentar%20Receita.png?raw=true" alt="Comentar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%205%20Coment%C3%A1rio%20postado.png?raw=true" alt="Comentário postado">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita. |
+|Caso de Teste    | CT-5 - Verificar a funcionalidade de postar uma própria receita. |
 |:---|:---|
 | Resultados obtidos | 1- O preenchimento de todos os campos obrigatórios foi feito corretamente e a receita foi postada, exibindo um alerta;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20sucesso.png?raw=true" alt="Postar receita"><br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receita%20postada.png?raw=true" alt="Receita postada"><br> 2- O usuário não preencheu todos os campos obrigatórios e não foi possível postar a receita;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20campo%20n%C3%A3o%20preenchido.png?raw=true" alt="Campo não preenchido">|
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-7 - Verificar a apresentação de uma foto da receita. |
+|Caso de Teste    | CT-6 - Verificar a apresentação de uma foto da receita. |
 |:---|:---|
 | Resultados obtidos | 1- A aplicação exibiu corretamente as imagens associadas às receitas postadas, contribuindo para uma experiência visual atraente e informativa.;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20foto%20receitas%20com%20imagens.png?raw=true" alt="Receitas com imagens"><br> 2- O cadastro da receita não pode ser concluído, pois o usuário não havia inserido uma imagem;<br><img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/documentos/img/Teste%20Foto%20Receita%20erro%20imagem.png?raw=true" alt="Erro pendência foto"> |
 | Responsável pela execução do caso de Teste | Kiane Ramalho |
 
-|Caso de Teste    | CT-8 - Teste para curtir post |
+|Caso de Teste    | CT-7 - Teste para curtir post |
 |:---|:---|
 | Resultados obtidos | Após testes na seção de curtidas do site 'Cumbuca', notou-se que os usuários podem 'curtir' receitas usando o ícone de 'coxinha de frango', porém a opção de 'descurtir' está faltando. Adicionar essa função seria fundamental para melhorar a interação do usuário ![Screenshot 2023-11-26 21 00 41](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/0993bf02-aba6-4135-af0f-e77a7bf74703)![Screenshot 2023-11-26 21 01 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/assets/144537883/2c29561b-ce92-4ab8-91ec-65f5924334c1)
 
