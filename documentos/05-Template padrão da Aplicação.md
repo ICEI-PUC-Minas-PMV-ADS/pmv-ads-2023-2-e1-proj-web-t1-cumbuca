@@ -13,7 +13,7 @@ A grande maioria das telas apresenta um menu localizado na lateral esquerda da i
 
 <figure> 
   <img src="/documentos/img/menuLateral.jpg" width="150px"
-    <figcaption> Figura 1 - Menu lateral </figcaption>
+    <figcaption> Figura 9 - Menu lateral </figcaption>
 </figure> 
                                                                                                                                                                                                                                                                                     
 
@@ -31,7 +31,7 @@ Em muitas das telas, encontra-se uma opção de login no canto superior direito.
 
 <figure> 
   <img src="/documentos/img/menuAcesso.png" width="200px" 
-    <figcaption>Figura 2 - Opções de Login </figcaption>
+    <figcaption>Figura 10 - Opções de Login </figcaption>
 </figure> 
 
 >####
@@ -48,6 +48,6 @@ Essa uniformidade facilita a navegação, uma vez que os usuários sempre encont
 
 <figure> 
   <img src="/documentos/img/ComposicaoGearl.png" width="1000px"
-    <figcaption>Figura 3 - Composição geral </figcaption>
+    <figcaption>Figura 11 - Composição geral </figcaption>
 </figure> 
 
