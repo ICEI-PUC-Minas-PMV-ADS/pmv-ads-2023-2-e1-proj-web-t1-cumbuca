@@ -8,7 +8,7 @@ necessidades específicas dos usuários.
 
 <figure> 
   <img src="/documentos/img/Cadastro.jpg" width="1000px"
-    <figcaption>Figura 1 - Tela de Cadastro</figcaption>
+    <figcaption>Figura 12 - Tela de Cadastro</figcaption>
 </figure>
 
 #### Requisito atendido
@@ -37,7 +37,7 @@ Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Login.jpg" width="1000px"
-    <figcaption>Figura 2 - Tela de Login</figcaption>
+    <figcaption>Figura 13 - Tela de Login</figcaption>
 </figure>
 
 #### Requisito atendido
@@ -71,7 +71,7 @@ Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Categorias.jpg" width="1000px"
-    <figcaption>Figura 3 - Tela de categoria</figcaption>
+    <figcaption>Figura 14 - Tela de categoria</figcaption>
 </figure>
 
 
@@ -101,7 +101,7 @@ Bernardo Soutelo
 
 <figure> 
   <img src="/documentos/img/comentario1.png" width="1000px"
-    <figcaption>Figura 4 - Tela Inicial </figcaption>
+    <figcaption>Figura 15 - Tela Inicial </figcaption>
 </figure>
 
 
@@ -132,11 +132,11 @@ Kiane Ramalho
 
 <figure> 
   <img src="/documentos/img/comentario2.png" width="1000px"
-    <figcaption>Figura 5 - Tela de Perfil</figcaption>
+    <figcaption>Figura 16 - Tela de Perfil</figcaption>
 </figure>
 <figure> 
   <img src="/documentos/img/comentario1.png" width="1000px"
-    <figcaption>Figura 6 - Tela de Inicial</figcaption>
+    <figcaption>Figura 17 - Tela de Inicial</figcaption>
 </figure>
 
 #### Requisito atendido
@@ -172,7 +172,7 @@ Marcelly Maia e Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Postarreceitas.png" width="1000px"
-    <figcaption>Figura 7 - Tela de Perfil </figcaption>
+    <figcaption>Figura 18 - Tela de Perfil </figcaption>
 </figure>
 
 #### Requisito atendido
@@ -201,7 +201,7 @@ Adrian Sodré
 
 <figure> 
   <img src="/documentos/img/Postarreceitas.png" width="1000px"
-    <figcaption>Figura 8 - Tela de Perfil</figcaption>
+    <figcaption>Figura 19 - Tela de Perfil</figcaption>
 </figure>
 
 #### Requisito atendido
