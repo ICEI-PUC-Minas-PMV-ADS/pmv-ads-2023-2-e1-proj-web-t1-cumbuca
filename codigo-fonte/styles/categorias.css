@@ -35,6 +35,10 @@
   margin-top: 3rem;
 }
 
+.cards {
+  cursor: pointer;
+}
+
 .card {
   width: 200px;
 }

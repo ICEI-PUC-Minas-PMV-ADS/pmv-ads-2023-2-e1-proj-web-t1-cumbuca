@@ -12,8 +12,7 @@ function criarPost(post) {
   divPrin.dataset.id = post.id;
   divPrin.classList.add("cards");
 
-  const linkImg = document.createElement("a");
-  linkImg.href = "./receita.html";
+  const linkImg = document.createElement("p");
 
   const img = document.createElement("img");
   img.src = post.foto;
@@ -40,3 +39,21 @@ function criarPost(post) {
 }
 
 document.addEventListener("DOMContentLoaded", atualizarReceitas());
+
+const cards = document.querySelectorAll(".cards");
+
+cards.forEach((card) => {
+  card.addEventListener("click", abrirReceita);
+});
+
+function abrirReceita(ev) {
+  const receitaId = ev.currentTarget.dataset.id;
+  const receitasLista = JSON.parse(localStorage.getItem("posts"));
+  const receitaDetalhe = receitasLista.find(
+    (receita) => (receita.id = receitaId)
+  );
+
+  localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
+
+  location.href = "./receita.html";
+}
