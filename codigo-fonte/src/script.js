@@ -6,11 +6,6 @@ const contador = document.querySelector("#contador");
 let contadorTexto = 0;
 const enterMsg = document.querySelector("#enterMsg");
 
-mostrarBtn.addEventListener("click", () => {
-  infos.classList.toggle("container-infos-receita");
-  imgShow.classList.toggle("inverterBotao");
-});
-
 areaComentario.addEventListener("keydown", (ev) => {
   const caracteresEspeciais = ["Enter", "Shift"];
   if (
@@ -82,3 +77,13 @@ const preparoReceita = document.querySelector("#preparoReceita");
 const receitaAtual = JSON.parse(localStorage.getItem("receitaAtual"));
 
 imgPoster.src = receitaAtual.foto;
+tituloDaReceita.textContent = receitaAtual.titulo;
+resumeReceita.textContent = receitaAtual.resumo;
+preparoReceita.textContent = receitaAtual.preparo;
+
+receitaAtual.listaInp.forEach((ingrediente) => {
+  const li = document.createElement("li");
+  li.textContent = ingrediente;
+
+  ingredienteReceita.appendChild(li);
+});

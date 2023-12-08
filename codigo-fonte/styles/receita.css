@@ -264,6 +264,12 @@
   width: 100%;
 }
 
+#imgPoster {
+  max-height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
 @media (max-width: 1104px) {
   .mostrar {
     width: 95%;

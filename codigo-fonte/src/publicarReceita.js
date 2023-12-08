@@ -213,3 +213,24 @@ function atualizarReceitas() {
 }
 
 document.addEventListener("DOMContentLoaded", atualizarReceitas());
+
+const cards = document.querySelectorAll(".cards");
+
+cards.forEach((card) => {
+  card.addEventListener("click", abrirReceita);
+});
+
+function abrirReceita(ev) {
+  const receitaId = ev.currentTarget.dataset.id;
+  const receitasLista = JSON.parse(localStorage.getItem("posts"));
+
+  const receitaDetalhe = receitasLista.find((receita) => {
+    if (receita.id === Number(receitaId)) {
+      return receita;
+    }
+  });
+
+  localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
+
+  location.href = "./receita.html";
+}

@@ -147,7 +147,8 @@ if (posts.length === 0) {
     titulo: "Hamburguer",
     foto: "./assets/perfil/hamburguer.jpeg",
     resumo: "Delicioso hamburguer",
-    preparo: "Colocar ingredientes na chapa, e depois montar tudo",
+    preparo:
+      "Esquentar a chapa, ir preparando os ingredientes. Após a chapa estar aquecidade, colocar o pao, o bife e o ovo, em seguida juntar tudo",
     listaInp: [
       "Pao brioche",
       "bife de hamburguer",
@@ -223,7 +224,9 @@ window.onload = function renderPosts() {
     // Use backticks for multi-line strings
     conteudoPost.innerHTML += `
       <div class="receita__card" id="${cont.id + "_post"}">
-        <button id="curtida_botao" onclick="countingClicks('${cont.id + "_post"}','${cont.id}')"><img src="${cont.foto}" class="card__img" /></button>
+        <button id="curtida_botao" onclick="countingClicks('${
+          cont.id + "_post"
+        }','${cont.id}')"><img src="${cont.foto}" class="card__img" /></button>
         <div class="receita__rating">
           <div class="">
             <div class="receita__rating">
@@ -234,12 +237,16 @@ window.onload = function renderPosts() {
                 <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__80"></iconify-icon>
                 <iconify-icon icon="mingcute:chicken-fill" class="icon" id="frango__100"></iconify-icon>
               </div>
-              <button onclick="exibirComentario('${cont.id + "_coment"}', '${cont.id}')" id="botao_comentario"><img src="./assets/comentario.svg" /></button>
+              <button onclick="exibirComentario('${cont.id + "_coment"}', '${
+      cont.id
+    }')" id="botao_comentario"><img src="./assets/comentario.svg" /></button>
 
             </div>
 
             <p>${cont.descricao}</p>
-            <div id="${cont.id + "_coment"}" class="coments-container remover__comentario">
+            <div id="${
+              cont.id + "_coment"
+            }" class="coments-container remover__comentario">
               <div class="title-coments1">
                 <h2></h2>
               </div>
@@ -258,26 +265,22 @@ window.onload = function renderPosts() {
         </div>
       </div>`;
   });
-}
-
+};
 
 function countingClicks(idPost, id) {
+  debugger;
 
-  debugger
-
-  //document.getElementById(idbtn).disabled = true; //Assim cada loging cadatrado fará apenas uma curtida no post da 
+  //document.getElementById(idbtn).disabled = true; //Assim cada loging cadatrado fará apenas uma curtida no post da
 
   mockPosts.find((post) => post.id == id).curtidas += 1;
 
-  var curdidas = mockPosts.find((post) => post.id == id).curtidas
+  var curdidas = mockPosts.find((post) => post.id == id).curtidas;
 
   AdicionaCor(curdidas, idPost);
 }
 
-
 function PercorreID(idPost, id) {
-
-  debugger
+  debugger;
 
   var postElement = document.getElementById(idPost);
 
@@ -290,8 +293,7 @@ function PercorreID(idPost, id) {
 }
 
 function AdicionaCor(curdidas, idPost) {
-
-  debugger
+  debugger;
 
   if (curdidas <= 20 && curdidas > 0) {
     PercorreID(idPost, "#frango__20");
@@ -327,17 +329,20 @@ const mockPosts = [
     comentarios: [
       {
         id: 0,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
       {
         id: 1,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
       {
         id: 2,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
-    ]
+    ],
   },
   {
     id: 1,
@@ -349,32 +354,52 @@ const mockPosts = [
     comentarios: [
       {
         id: 0,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
       {
         id: 1,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
       {
         id: 2,
-        texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
+        texto:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, soluta?",
       },
-    ]
-  }
-]
-
+    ],
+  },
+];
 
 function exibirComentario(idComentario, idPost) {
-  
   let exibir = mockPosts.find((post) => post.id == idPost).exibir;
 
   if (exibir) {
     document.getElementById(idComentario).style.display = "none";
     mockPosts.find((post) => post.id == idPost).exibir = false;
-  }
-  else {
+  } else {
     document.getElementById(idComentario).style.display = "block";
     mockPosts.find((post) => post.id == idPost).exibir = true;
   }
+}
 
+const cards = document.querySelectorAll(".cards");
+
+cards.forEach((card) => {
+  card.addEventListener("click", abrirReceita);
+});
+
+function abrirReceita(ev) {
+  const receitaId = ev.currentTarget.dataset.id;
+  const receitasLista = JSON.parse(localStorage.getItem("posts"));
+
+  const receitaDetalhe = receitasLista.find((receita) => {
+    if (receita.id === Number(receitaId)) {
+      return receita;
+    }
+  });
+
+  localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
+
+  location.href = "./receita.html";
 }
