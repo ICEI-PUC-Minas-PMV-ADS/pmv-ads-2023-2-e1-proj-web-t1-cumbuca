@@ -49,9 +49,12 @@ cards.forEach((card) => {
 function abrirReceita(ev) {
   const receitaId = ev.currentTarget.dataset.id;
   const receitasLista = JSON.parse(localStorage.getItem("posts"));
-  const receitaDetalhe = receitasLista.find(
-    (receita) => (receita.id = receitaId)
-  );
+
+  const receitaDetalhe = receitasLista.find((receita) => {
+    if (receita.id === Number(receitaId)) {
+      return receita;
+    }
+  });
 
   localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
 
