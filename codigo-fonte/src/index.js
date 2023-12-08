@@ -254,7 +254,7 @@ window.onload = function renderPosts() {
                 <div class="comentar-container">
                   <textarea name="comentar" id="comentar" cols="36" rows="5" placeholder="Comentar" maxlength="50"></textarea>
                   <img src="./assets/receita/plano.png" alt="enviarMsg" id="enterMsg" />
-                  <p id="texto-contador"><span id="contador">0</span>/50</p>
+                  <p id="texto-contador"><span id="contador">0</span>/50</p> 
                 </div>
                 <div class="comentarios">
                   ${comentario} 

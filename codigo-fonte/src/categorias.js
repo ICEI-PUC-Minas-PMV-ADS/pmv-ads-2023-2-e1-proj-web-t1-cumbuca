@@ -43,6 +43,7 @@ inputFiltroPorNome.addEventListener("keyup", (ev) => {
   posts.forEach((receita) => {
     if (receita.titulo.includes(textoDigitado)) {
       categoriasGrid.appendChild(criarPost(receita));
+      colocarEventoCard();
     }
   });
 });

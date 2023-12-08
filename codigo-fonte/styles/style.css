@@ -131,6 +131,10 @@ body {
   margin-bottom: 0.7em;
 }
 
+.comments {
+  position: relative;
+}
+
 @media (max-width: 902px) {
   .menu__icone {
     flex-direction: column;
@@ -430,10 +434,9 @@ body {
 .comentarios {
   display: flex;
   flex-flow: column wrap;
-  gap: 0.rem;
+  gap: 0rem;
   justify-content: center;
   width: 68%;
- 
 }
 
 .userComents {
@@ -442,7 +445,6 @@ body {
   align-items: center;
   justify-content: flex-start;
   text-align: center;
-  
 }
 
 .userComents > img {
@@ -592,8 +594,7 @@ body {
     padding-left: 4px;
     box-shadow: 4px 6px 8px var(--cinza-medio-escuro);
   }
-
 }
-.remover__comentario{
+.remover__comentario {
   display: none;
 }
