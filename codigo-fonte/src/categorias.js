@@ -33,7 +33,9 @@ inputFiltroPorNome.addEventListener("keyup", (ev) => {
   const categoriasGrid = document.querySelector("#categoriasGrid");
 
   if (inputFiltroPorNome.value === "") {
+    categoriasGrid.innerHTML = "";
     atualizarReceitas();
+    colocarEventoCard();
     return;
   }
   categoriasGrid.innerHTML = "";
@@ -87,23 +89,27 @@ function criarPost(post) {
 
 document.addEventListener("DOMContentLoaded", atualizarReceitas());
 
-const cards = document.querySelectorAll(".cards");
+function colocarEventoCard() {
+  const cards = document.querySelectorAll(".cards");
 
-cards.forEach((card) => {
-  card.addEventListener("click", abrirReceita);
-});
-
-function abrirReceita(ev) {
-  const receitaId = ev.currentTarget.dataset.id;
-  const receitasLista = JSON.parse(localStorage.getItem("posts"));
-
-  const receitaDetalhe = receitasLista.find((receita) => {
-    if (receita.id === Number(receitaId)) {
-      return receita;
-    }
+  cards.forEach((card) => {
+    card.addEventListener("click", abrirReceita);
   });
 
-  localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
+  function abrirReceita(ev) {
+    const receitaId = ev.currentTarget.dataset.id;
+    const receitasLista = JSON.parse(localStorage.getItem("posts"));
 
-  location.href = "./receita.html";
+    const receitaDetalhe = receitasLista.find((receita) => {
+      if (receita.id === Number(receitaId)) {
+        return receita;
+      }
+    });
+
+    localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
+
+    location.href = "./receita.html";
+  }
 }
+
+colocarEventoCard();
