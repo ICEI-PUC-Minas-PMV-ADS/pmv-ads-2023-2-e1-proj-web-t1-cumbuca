@@ -1,3 +1,24 @@
+const links = document.querySelectorAll(".link");
+
+links.forEach((link) => {
+  link.addEventListener("click", filtrarCategoria);
+});
+
+function filtrarCategoria(ev) {
+  ev.preventDefault();
+  const filtroAplicado = ev.currentTarget.textContent;
+  const posts = JSON.parse(localStorage.getItem("posts"));
+  const categoriasGrid = document.querySelector("#categoriasGrid");
+
+  categoriasGrid.innerHTML = "";
+
+  posts.forEach((element) => {
+    if (element.categoria == filtroAplicado) {
+      categoriasGrid.appendChild(criarPost(element));
+    }
+  });
+}
+
 function atualizarReceitas() {
   const posts = JSON.parse(localStorage.getItem("posts")) || [];
   const categoriasGrid = document.querySelector("#categoriasGrid");

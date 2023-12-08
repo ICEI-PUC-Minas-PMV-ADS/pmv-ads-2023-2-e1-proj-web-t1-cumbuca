@@ -19,7 +19,7 @@ if (posts.length === 0) {
       "1kg linguica",
       "3 batatas",
     ],
-    categoria: "carnes",
+    categoria: "Carnes",
     usuario: "admin2@gmail.com",
   };
 
@@ -40,7 +40,7 @@ if (posts.length === 0) {
       "Sal",
       "1 colher de manteiga",
     ],
-    categoria: "aves",
+    categoria: "Aves",
     usuario: "admin@gmail.com",
   };
 
@@ -61,7 +61,7 @@ if (posts.length === 0) {
       "1 pimentao",
       "Sal e salsa",
     ],
-    categoria: "peixesFrutosDoMar",
+    categoria: "Peixes e Frutos do Mar",
     usuario: "admin2@gmail.com",
   };
 
@@ -81,7 +81,7 @@ if (posts.length === 0) {
       "1 cenoura",
       "1 xicara de parmesao",
     ],
-    categoria: "saladasMolhos",
+    categoria: "Saladas e Molhos",
     usuario: "admin@gmail.com",
   };
 
@@ -95,7 +95,7 @@ if (posts.length === 0) {
     preparo:
       "Pegar o limao, cortar ao meio, expremer em um recepiente ate sair todo o caldo e adicionar acuar e cachaça ",
     listaInp: ["limão", "açucar", "cachaça"],
-    categoria: "bebidas",
+    categoria: "Bebidas",
     usuario: "admin2@gmail.com",
   };
 
@@ -115,7 +115,7 @@ if (posts.length === 0) {
       "2 colher de baunilha",
       "biscoito de maizena",
     ],
-    categoria: "docesSobremesas",
+    categoria: "Doces e Sobremesas",
     usuario: "admin@gmail.com",
   };
 
@@ -136,7 +136,7 @@ if (posts.length === 0) {
       "queijo",
       "frango desfiado",
     ],
-    categoria: "massas",
+    categoria: "Massas",
     usuario: "admin2@gmail.com",
   };
 
@@ -155,7 +155,7 @@ if (posts.length === 0) {
       "salada e tomate",
       "queijo",
     ],
-    categoria: "lanches",
+    categoria: "Lanches",
     usuario: "admin@gmail.com",
   };
 
@@ -169,7 +169,7 @@ if (posts.length === 0) {
       "além de ser prática, esta receita ainda traz uma versão saudável do queridinho das mesas de todos o Brasil. Ao utilizar ricota a receita fica mais leve e saborosa.Delicioso Pão de queijo de ricota e chia",
     preparo: "Montar o pao de queijo e assar por 15 minutos",
     listaInp: ["Massa", "queijo", "brioche"],
-    categoria: "alimentacaoSaudavel",
+    categoria: "Alimentação Saudável",
     usuario: "admin2@gmail.com",
   };
 
@@ -183,7 +183,7 @@ if (posts.length === 0) {
       "Essa receita de torta de frango de liquidificador é deliciosa e muito prática para o dia a dia. Não à toa, é uma das nossa campeãs de acessos. Aprenda agora mesmo a fazer essa torta de frango simpes e fácil!",
     preparo: "Cozinha frango, adicionar os ingredientes e assar",
     listaInp: ["500g de frango", "1 cebola", "1 xicara de ervilha"],
-    categoria: "bolosTortas",
+    categoria: "Bolos e Tortas",
     usuario: "admin@gmail.com",
   };
 
@@ -381,25 +381,4 @@ function exibirComentario(idComentario, idPost) {
     document.getElementById(idComentario).style.display = "block";
     mockPosts.find((post) => post.id == idPost).exibir = true;
   }
-}
-
-const cards = document.querySelectorAll(".cards");
-
-cards.forEach((card) => {
-  card.addEventListener("click", abrirReceita);
-});
-
-function abrirReceita(ev) {
-  const receitaId = ev.currentTarget.dataset.id;
-  const receitasLista = JSON.parse(localStorage.getItem("posts"));
-
-  const receitaDetalhe = receitasLista.find((receita) => {
-    if (receita.id === Number(receitaId)) {
-      return receita;
-    }
-  });
-
-  localStorage.setItem("receitaAtual", JSON.stringify(receitaDetalhe));
-
-  location.href = "./receita.html";
 }
