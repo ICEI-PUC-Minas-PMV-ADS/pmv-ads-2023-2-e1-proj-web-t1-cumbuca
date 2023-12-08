@@ -19,6 +19,32 @@ function filtrarCategoria(ev) {
   });
 }
 
+const inputFiltroPorNome = document.querySelector(".pesquisa");
+let textoDigitado = "";
+
+inputFiltroPorNome.addEventListener("keyup", (ev) => {
+  if (ev.key !== "Shift" && ev.key !== "Enter" && ev.key !== "Backspace") {
+    textoDigitado = inputFiltroPorNome.value;
+  } else if (ev.key === "Backspace") {
+    textoDigitado = textoDigitado.slice(0, -1);
+  }
+
+  const posts = JSON.parse(localStorage.getItem("posts"));
+  const categoriasGrid = document.querySelector("#categoriasGrid");
+
+  if (inputFiltroPorNome.value === "") {
+    atualizarReceitas();
+    return;
+  }
+  categoriasGrid.innerHTML = "";
+
+  posts.forEach((receita) => {
+    if (receita.titulo.includes(textoDigitado)) {
+      categoriasGrid.appendChild(criarPost(receita));
+    }
+  });
+});
+
 function atualizarReceitas() {
   const posts = JSON.parse(localStorage.getItem("posts")) || [];
   const categoriasGrid = document.querySelector("#categoriasGrid");
