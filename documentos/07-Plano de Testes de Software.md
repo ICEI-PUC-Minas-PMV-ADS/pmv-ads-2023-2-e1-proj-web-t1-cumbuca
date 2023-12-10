@@ -6,7 +6,7 @@ CT-1
 | Objetivo do Teste | Verificar se ao preencher os campos necessários para cadastro e clicar no botão "Cadastrar", é criada uma conta para o usuário. |
 | Passos | 1 - Na tela de acesso clicar no botão "Cadastrar";<br> 2 - Preencher os campos "Email", "Nome", "Senha" e "Repetir senha";<br> 3 - Clicar no botão "Cadastrar"|
 | Critérios de êxito | Ao preencher os campos necessários para cadastro e clicar em "Cadastrar", o usuário deve ser redirecionado para a tela de acesso.|
-| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
 #### CT-2
 |Caso de Teste    | CT-2 - Verificar a funcionalidade de fazer o login em uma conta. |
 |:---|:---|
@@ -14,7 +14,7 @@ CT-1
 | Objetivo do Teste | Verificar se ao preencher os campos necessários para login e clicar no botão "Entrar", o usuário terá êxito no acesso. |
 | Passos | 1 - Na tela de acesso preencher os campos "Email" e "Senha";<br> 2 - Clicar no botão "Entrar";<br> |
 | Critérios de êxito | Ao preencher os campos necessários para acesso e clicar em "Entrar", o usuário deve ser redirecionado para a tela inicial do portal.|
-| Responsável pela elaboração do caso de Teste | Kiane Ramalho |
+| Responsável pela elaboração do caso de Teste | Adrian Sodré |
 #### CT-3
 |Caso de Teste    | CT-3 - Verificar a funcionalidade de restringir a busca com base em ingrediente. |
 |:---|:---|
@@ -22,7 +22,7 @@ CT-1
 | Objetivo do Teste | Verificar se a aplicação permite aos usuários realizar buscas restritas de receitas conforme critérios estabelecidos, garantindo uma experiência eficiente de busca. |
 | Passos | 1 - Abra a aplicação; <br> 2 -Localize o campo de pesquisa na tela inicia; <br> 3 - Digite as palavras-chave; 4- Execute a busca; |
 | Critérios de êxito | Garantir que o usuário possa abrir a aplicação facilmente, localizar de maneira clara o campo de pesquisa na tela inicial, inserir palavras-chave sem dificuldades, iniciar a busca de forma eficiente, .|
-| Responsável pela elaboração do caso de Teste |Adrian Sodré |
+| Responsável pela elaboração do caso de Teste |Isaac Gonçalves |
 #### CT-4
 |Caso de Teste    | CT-4 - Verificar a funcionalidade de salvar receitas fazendo download. |
 |:---|:---|
@@ -39,7 +39,7 @@ CT-1
 | Objetivo do Teste | Verificar se ao preencher o campo "Comentários" o comentário é publicado. |
 | Passos | 1 - Acessar abas com as receitas publicadas onde contém o campo para comentários;<br> 2 - Clicar no ícone para enviar comentário após escrever o comentário|
 | Critérios de êxito | Ao preencher o campo "Comentários" e clicar no ícone para enviar, o comentário deve ser exibido abaixo.  |
-| Responsável pela elaboração do caso de Teste | Bernardo Soutelo |
+| Responsável pela elaboração do caso de Teste | Marcelly Maia |
 #### CT-6
 |Caso de Teste    | CT-6 - Verificar a funcionalidade de postar uma própria receita. |
 |:---|:---|
@@ -55,5 +55,5 @@ CT-1
 | Objetivo do Teste | Assegurar que a aplicação exiba corretamente as imagens associadas às receitas, contribuindo para uma experiência visual atraente e informativa. |
 | Passos |  1- Acesse a tela do perfil do usuário.;<br> 2 - Clique em "Publicar Nova Receita;<br> 3 - Preencha todos os campos obrigatórios; <br> 4 - Clique em "Publicar";<br> |
 | Critérios de êxito | O teste RF-06 é bem-sucedido se os usuários conseguirem postar novas receitas, preenchendo corretamente todos os campos obrigatórios, e a aplicação impedir postagens com campos não preenchidos, exibindo mensagens de erro apropriadas, além de bloquear postagens sem a inclusão de uma imagem, comunicando claramente a necessidade dessa adição. |
-| Responsável pela elaboração do caso de Teste | Marcelly Maia|
+| Responsável pela elaboração do caso de Teste | Adrian Sodré |
  
