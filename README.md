@@ -13,7 +13,6 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 - Adrian Sodré da Silva
 - Bernardo Miguel Soutelo Marra
-- Isaque Gonçalves Ferreira
 - Kiane Pinto Ramalho
 - Marcelly Giovanna de Souza e Maia 
 
