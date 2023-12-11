@@ -36,7 +36,9 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 # Hospedagem
 
-- Insira o endereço eletrônico público de acesso ao conteúdo publicado.
+Foi utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/codigo-fonte/index.html
+
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/codigo-fonte/login.html
 
 # Código-Fonte
 
