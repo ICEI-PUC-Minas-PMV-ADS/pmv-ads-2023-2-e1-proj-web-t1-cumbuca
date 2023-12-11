@@ -21,9 +21,6 @@ RF-01: A aplicação deve permitir ao usuário cadastrar uma conta
   <li>Icadastro.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 
 #### Instruções de acesso
@@ -59,9 +56,7 @@ RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
   <li>authenticationLogin.js</li>
 </ul>
 
-#### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 #### Instruções de acesso
 
 Abra um navegador de Internet: 
@@ -95,9 +90,7 @@ RF-03: A aplicação deve permitir ao usuário restringir a busca com base em in
   <li>iconify-icon.min.js</li>
 </ul>
 
-#### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 #### Instruções de acesso
 
 Abra um navegador de Internet: 
@@ -129,9 +122,7 @@ RF-04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
   <li>curtida.js</li>
 </ul>
 
-#### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 #### Instruções de acesso
 
@@ -173,9 +164,6 @@ RF-05: A aplicação deve permitir ao usuário comentar nas receitas
   <li>comentario.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 #### Instruções de acesso
 
@@ -207,9 +195,6 @@ RF-06: A aplicação deve permitir ao usuário postar sua própra receita.
   <li>publicarReceita.js</li>
 </ul>
 
-#### Estrutura de Dados
-
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 #### Instruções de acesso
 
@@ -240,8 +225,6 @@ RF-07: A aplicação deve apresentar uma foto da receita
   <li>publicarReceita.js</li>
 </ul>
 
-#### Estrutura de Dados
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 #### Instruções de acesso
 
