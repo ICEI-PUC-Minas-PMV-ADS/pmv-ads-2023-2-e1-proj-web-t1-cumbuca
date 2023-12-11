@@ -56,6 +56,11 @@ RF-02: A aplicação deve permitir ao usuário fazer o login da sua conta
   <li>authenticationLogin.js</li>
 </ul>
 
+#### Estrutura de Dados
+
+●[authenticationLogin.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/codigo-fonte/src/authenticationLogin.js)
+
+
 
 #### Instruções de acesso
 
@@ -126,7 +131,7 @@ RF-04: A aplicação deve permitir ao usuário favoritar e salvar as receitas
 
 #### Instruções de acesso
 
-Abra um navegador de Internet: 
+Abra um navegador de Internet: Ao acessar a página da receita, você encontrará um botão que permite baixar a receita em formato PDF.
 
 
 #### Responsável
@@ -164,6 +169,8 @@ RF-05: A aplicação deve permitir ao usuário comentar nas receitas
   <li>comentario.js</li>
 </ul>
 
+#### Estrutura de Dados
+●[authenticationLogin.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca/blob/main/codigo-fonte/src/comentario.js)
 
 #### Instruções de acesso
 
