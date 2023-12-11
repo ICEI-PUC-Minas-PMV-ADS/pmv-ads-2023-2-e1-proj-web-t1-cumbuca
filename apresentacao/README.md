@@ -7,10 +7,9 @@
 
 ## Vídeo de apresentação
 
-A equipe também deverá gravar um vídeo de, no máximo, três minutos, com a apresentação da solução. Vocês deverão abrir a aplicação hospedada e apresentar o seu funcionamento.  Poderão ser utilizados quaisquer recursos na montagem do vídeo, mas não se esqueçam de mostrar as funcionalidades da aplicação. Seguem as especificações técnicas que devem ser obedecidas na geração do vídeo:
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5EYmcsgMLOc/0.jpg)](http://www.youtube.com/watch?v=5EYmcsgMLOc "Cumbuca demo")
 
-[Adicione vídeo de apresentação.]
 
 ## Hospedagem
 
