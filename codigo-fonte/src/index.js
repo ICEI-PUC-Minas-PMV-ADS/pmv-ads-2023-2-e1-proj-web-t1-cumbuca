@@ -323,7 +323,7 @@ const mockPosts = [
     id: 0,
     foto: "./assets/perfil/paodequeijo.jpg",
     descricao:
-      "Fure a carne com a ponta da faca e no meio para colocar a linguiça calabresa, deixe marinar no vinagre, alho, cominho, amaciante de carne e sal grosso por pelo menos 30 minutos.",
+      "Além de ser prática, esta receita ainda traz uma versão saudável do queridinho das mesas de todos o Brasil. Ao utilizar ricota a receita fica mais leve e saborosa.",
     curtidas: 0,
     exibir: false,
     comentarios: [
