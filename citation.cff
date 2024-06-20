@@ -1,29 +1,27 @@
 message: Please cite this software using these metadata.
-title:
+title: Cumbuca
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
+  - family-names: Pinto Ramalho
+    given-names: Kiane
+  - family-names: Miguel Soutelo Marra
+    given-names: Bernardo
+  - family-names: Giovanna De Souza E Maia  
+    given-names: Maia
+  - family-names: Sodré da Silva
+    given-names: Adrian
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: 
-    given-names: 
+    family-names: Christina de Paiva Carvalho
+    given-names: Joyce
 keywords:
-  - 
-  - 
-repository-code: 
+  - Cumbuca
+  - Pratos 
+  - Melhores
+  - Comentários
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t1-cumbuca.git
 version: 1.0.0
-date-released: 2023-10-31
+date-released: 2024-06-20
